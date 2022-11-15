@@ -24,20 +24,20 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Swinburne's Library: Day 1</title>
+                <title>The Library and Presumed Reading of Algernon Charles Swinburne</title>
             </titleStmt>
-            <publicationStmt xml:base="../data/includes/publicationStmt.xml">
-                <publisher xml:base="publisher.xml">Digital Culture Lab, <ref
+            <publicationStmt>
+                <publisher>Digital Culture Lab, <ref
                         target="http://www.ils.indiana.edu/">Department of Information and Library
                         Science</ref>, <ref target="http://www.soic.indiana.edu/">School of
                         Informatics and Computing</ref>, <ref target="http://www.indiana.edu/"
                         >Indiana University</ref>
                 </publisher>
-                <pubPlace xml:base="pubPlace.xml">Bloomington, IN</pubPlace>
-                <date when="2008" xml:base="pubDate.xml"/>
-                <availability xml:base="availability.xml">
-                    <p part="N"> Copyright © 1997-2012 John A. Walsh. </p>
-                    <p part="N">
+                <pubPlace>Bloomington, IN</pubPlace>
+                <date when="2022"/>
+                <availability>
+                    <p> Copyright © 2022 John A. Walsh. </p>
+                    <p>
                         <ref type="license" target="http://creativecommons.org/licenses/by/3.0/"
                                 ><figure rend="border-width:0;margin:0;padding:0;">
                                 <figDesc>Creative Commons License</figDesc>
