@@ -6790,7 +6790,7 @@
             </div>
         </front>
         <body>
-            <div source="auction">
+            <div source="sales-catalogue-swinburne">
                 <div type="day" n="1" part="N" org="uniform" sample="complete">
                     <div type="size" n="octavo" part="N" org="uniform" sample="complete">
                         <listBibl type="lot" xml:id="sb001">
@@ -43466,7 +43466,7 @@
                 <!-- End of Day 3 -->
             </div>
 
-            <div source="watts-dunton">
+            <div source="sales-catalogue-watts-dunton">
                 <div type="day" n="1">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd5">
@@ -46447,7 +46447,7 @@
                     </div>
                 </div>
             </div>
-            <div source="top100">
+            <div source="best-hundred-books">
                 <!-- books not owned by Swinburne/listed in Sotheby's or Watts-Dunton auctions but are associated with Swinburne and his reading through his top 100 list -->
 <listBibl>
                 <!-- Epictetus -->
@@ -46699,7 +46699,7 @@
 </listBibl>
             </div>
             
-            <div source="poetry">
+            <div source="poems-1904">
                 <bibl><title>Grandes Chroniques de France</title>1505.</bibl><!-- see USTC 6341. There are also 19th c. editions on HathiTrust -->
                 <bibl><author>Sappho</author></bibl><!-- in Greek -->
                 <bibl><author>Aeschylus</author></bibl> <!-- in Greek -->
