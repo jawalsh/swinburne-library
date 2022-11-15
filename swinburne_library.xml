@@ -5185,6 +5185,10 @@
                         <orgName source="http://id.loc.gov/authorities/names/nr98033290">Hawes, 
                             Clarke and Collins</orgName>
                     </org>
+                    <org xml:id="heinemann_balestier">
+                        <orgName source="http://id.loc.gov/authorities/names/nr00025342">Heinemann 
+                            and Balestier</orgName>
+                    </org>
                     <org xml:id="henry_colburn_co">
                         <orgName source="http://id.loc.gov/authorities/names/nr00018054">Henry 
                             Colburn and Co. (1851-1852)</orgName>
@@ -5432,6 +5436,10 @@
                     <org xml:id="minerva_press">
                         <orgName source="http://id.loc.gov/authorities/names/no99039897">Minerva 
                             Press</orgName>
+                    </org>
+                    <org xml:id="orr_compy">
+                        <orgName source="http://id.loc.gov/authorities/names/n82057485">Orr 
+                            &amp; Compy</orgName>
                     </org>
                     <org xml:id="oxford_university_press">
                         <orgName source="http://id.loc.gov/authorities/names/n80126136">Oxford 
@@ -40234,7 +40242,9 @@
                                     <note type="description">woodcut borders and initial letters,
                                         one of 210 copies, original boards</note>
                                     <imprint>
-                                        <publisher corresp="#vale_press">Vale Press</publisher>
+                                        <publisher corresp="#vale_press">
+                                            <orgName>Vale Press</orgName>
+                                        </publisher>
                                         <date when="1898"/>
                                     </imprint>
                                     <extent>
@@ -40935,13 +40945,17 @@
                             <biblStruct corresp="#owned" xml:id="sb847.1">
                                 <monogr>
                                     <title>Leaves of Grass; Drum Taps</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">half bound,
                                         marbled edges, presentation copy to Swinburne with autograph
                                         inscription</note>
                                     <note type="inscription">Algernon Charles Swinburne from Walt
                                         Whitman</note>
                                     <imprint>
+                                        <publisher/>
+                                        <!-- None given. -->
                                         <pubPlace ref="#new_york">New York</pubPlace>
                                         <date from="1865" to="1867">1867, 1865</date>
                                     </imprint>
@@ -40962,10 +40976,16 @@
                                 <monogr>
                                     <title>Poems, selected and edited by Wm. Michael
                                         Rossetti</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description">portrait, original cloth</note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#hotten">
+                                            <persName>John Camden Hotten</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1868"/>
                                     </imprint>
                                 </monogr>
@@ -40980,26 +41000,34 @@
                                         Invitation of Managers American Institute on opening their
                                         40th Annual Exhibition, New York, noon September 7,
                                         1871</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">presentation
                                         copy with autograph inscription on half-title</note>
                                     <note type="inscription">To Alg. Chs. Swinburne from the
                                         author</note>
                                     <imprint>
+                                        <publisher corresp="#roberts_brothers">
+                                            <orgName>Roberts Brothers</orgName>
+                                        </publisher>
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date when="1871"/>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="ht"
                                     target="https://hdl.handle.net/2027/umn.31951001992658v"/>
-                                <note type="provenance" target="https://lccn.loc.gov/43036871">Library of Congress, PS3219 .A1 1871</note>
+                                <note type="provenance" target="https://lccn.loc.gov/43036871">
+                                    Library of Congress, PS3219 .A1 1871</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb851">
                             <biblStruct corresp="#owned" xml:id="sb851.1">
                                 <monogr>
                                     <title>Democratic Vistas</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut #presentation">original
                                         wrappers, uncut, presentation copy with autograph
                                         inscription</note>
@@ -41007,6 +41035,8 @@
                                             <date when="1871-11">Nov. 1871</date></note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher/>
+                                        <!-- None given. -->
                                         <pubPlace ref="#washington">Washington, D. C.</pubPlace>
                                         <date when="1871"/>
                                     </imprint>
@@ -41019,7 +41049,9 @@
                             <biblStruct corresp="#owned" xml:id="sb852.1">
                                 <monogr>
                                     <title>Leaves of Grass</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut #presentation">portrait
                                         inserted, uncut, presentation copy from the author, with
                                         autograph inscription</note>
@@ -41040,7 +41072,9 @@
                             <biblStruct corresp="#owned" xml:id="sb853.1">
                                 <monogr>
                                     <title>Leaves of Grass</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">presentation
                                         copy from the author with autograph inscription, and
                                         portrait and photograph of the author inserted, one with his
@@ -41048,6 +41082,9 @@
                                     <note type="inscription">Algernon Charles Swinburne from the
                                         author with thanks and love</note>
                                     <imprint>
+                                        <publisher corresp="#james_r_osgood_company">
+                                            <orgName>James R. Osgood and Company</orgName>
+                                        </publisher>
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date from="1881" to="1882"/>
                                     </imprint>
@@ -41060,24 +41097,31 @@
                             <biblStruct corresp="#owned" xml:id="sb854.1">
                                 <monogr>
                                     <title>As a Strong Bird on Pinions Free, and other Poems</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description">original cloth, with the
                                         advertisements</note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>S. W. Green</persName>
+                                        </publisher>
+                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
                                         <pubPlace ref="#washington">Washington</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="ia"
-                                    target="https://archive.org/details/asastrongbirdon00whitgoog/page/n7/mode/2up"
-                                />
+                                    target="https://archive.org/details/asastrongbirdon00whitgoog/page/n7/mode/2up"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb855">
                             <biblStruct corresp="#owned" xml:id="sb855.1">
                                 <monogr>
                                     <title>Gems from Walt Whitman</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <respStmt>
                                         <resp>selected by</resp>
                                         <name full="yes">Elizabeth Porter Gould</name>
@@ -41088,6 +41132,9 @@
                                         compliments of Elizabeth Porter Gould, Botson,
                                         Massachusettes, U.S.A.</note>
                                     <imprint>
+                                        <publisher corresp="#mckay">
+                                            <persName>David McKay</persName>
+                                        </publisher>
                                         <pubPlace ref="#philadelphia">Philadelphia</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -41100,26 +41147,33 @@
                             <biblStruct corresp="#owned" xml:id="sb856.1">
                                 <monogr>
                                     <title>Gems from: selected by Elizabeth Porter Gould</title>
-                                    <author corresp="#whitman">Whitman, W.</author>
+                                    <author corresp="#whitman">
+                                        <persName>Whitman, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">presentation
                                         copy to Swinburne, with autograph inscription of E. P. Gould
                                         and MS. poem sent to the dinner given in honour of Walt
                                         Whitman's seventieth birthday, oblong.</note>
                                     <imprint>
+                                        <publisher corresp="#mckay">
+                                            <persName>David McKay</persName>
+                                        </publisher>
                                         <pubPlace ref="#philadelphia">Philadelphia</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="ht"
                                     target="https://hdl.handle.net/2027/hvd.32044015183387"/>
-                                <note type="fulltext">Same item as sbl855.1</note>
+                                <note type="fulltext">Same item as sb855.1</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb857">
                             <biblStruct corresp="#owned" xml:id="sb857.1">
                                 <monogr>
                                     <title>Intentions</title>
-                                    <author corresp="#wilde">Wilde, Oscar</author>
+                                    <author corresp="#wilde">
+                                        <persName>Wilde, Oscar</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut #presentation">original
                                         cloth, uncut, presentation copy with autograph
                                         inscription</note>
@@ -41127,6 +41181,10 @@
                                         author's compliments and kind regards</note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#heinemann_balestier">
+                                            <orgName>Heinemann and Balestier</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#leipzig">Leipzig</pubPlace>
                                         <date when="1891"/>
                                     </imprint>
                                 </monogr>
@@ -41140,7 +41198,9 @@
                                 <monogr>
                                     <title>Bibliography of the Writings of Alfred Lord
                                         Tennyson</title>
-                                    <author corresp="#wise">Wise, T. J.</author>
+                                    <author corresp="#wise">
+                                        <persName>Wise, T. J.</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut #presentation">only 100
                                         copies printed, portrait and facsimiles on Japanese paper,
                                         green cloth, uncut, presentation copy from the author with
@@ -41150,6 +41210,8 @@
                                         kindest regards from Thos. J. Wise, <date when="1908-04"
                                             >April, 1908</date></note>
                                     <imprint>
+                                        <publisher/>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1908"/>
                                     </imprint>
                                     <extent>
@@ -41165,13 +41227,19 @@
                             <biblStruct corresp="#owned" xml:id="sb859.1">
                                 <monogr>
                                     <title>Dante Rossetti and the Pre-Raphaelite Movement</title>
-                                    <author corresp="#wood">Wood, Esther</author>
+                                    <author corresp="#wood">
+                                        <persName>Wood, Esther</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut #presentation">portrait
                                         and plates, half vellum, uncut, top edge gilt, presentation
                                         copy with inscription on fly-leaf</note>
                                     <note type="inscription">Algernon Charles Swinburne, Esq. S. J.
                                         R. <date when="1894-04-18">April 18th, 1894</date></note>
                                     <imprint>
+                                        <publisher corresp="#sampson_low_marston_co">
+                                            <orgName>Sampson Low, Marston and Company</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
                                 </monogr>
@@ -41183,10 +41251,16 @@
                             <biblStruct corresp="#owned" xml:id="sb860.1">
                                 <monogr>
                                     <title>Poems</title>
-                                    <author corresp="#wordsworth">Wordsworth, Wm.</author>
+                                    <author corresp="#wordsworth">
+                                        <persName>Wordsworth, Wm.</persName>
+                                    </author>
                                     <note type="description">old half russia, marbled edges</note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#longman_hurst_rees_orme">
+                                            <orgName>Longman, Hurst, Rees, and Orme</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1807"/>
                                     </imprint>
                                     <extent><measure unit="volumes" quantity="1"/>2 in 1
@@ -41195,21 +41269,37 @@
                                 <relatedItem type="ht"
                                     target="https://hdl.handle.net/2027/uc1.31175035209595"/>
                             </biblStruct>
-                            <bibl xml:id="sb860.2">
-                                <title>The Recluse</title>
-                                <author corresp="#wordsworth">Wordsworth, Wm.</author>
-                                <date when="1888"/>
+                            <biblStruct xml:id="sb860.2">
+                                <monogr>
+                                    <title>The Recluse</title>
+                                    <author corresp="#wordsworth">
+                                        <persName>Wordsworth, Wm.</persName>
+                                    </author>
+                                    <imprint>
+                                        <publisher corresp="#macmillan_co">
+                                            <persName>Macmillan and Co.</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
+                                        <date when="1888"/>
+                                    </imprint>
+                                </monogr>
                                 <relatedItem type="ht"
                                     target="https://hdl.handle.net/2027/mdp.39015063911559"/>
-                            </bibl>
+                            </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb861">
                             <biblStruct corresp="#owned" xml:id="sb861.1">
                                 <monogr>
                                     <title>Poems, including Lyrical Ballads</title>
-                                    <author corresp="#wordsworth">Wordsworth, Wm.</author>
+                                    <author corresp="#wordsworth">
+                                        <persName>Wordsworth, Wm.</persName>
+                                    </author>
                                     <note type="description">frontispiece, calf</note>
                                     <imprint>
+                                        <publisher corresp="#longman_hurst_rees_orme_brown">
+                                            <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1815"/>
                                     </imprint>
                                     <extent>
@@ -41224,13 +41314,19 @@
                             <biblStruct corresp="#owned" xml:id="sb861.2">
                                 <monogr>
                                     <title>Poems, another edition</title>
-                                    <author corresp="#wordsworth">Wordsworth, Wm.</author>
+                                    <author corresp="#wordsworth">
+                                        <persName>Wordsworth, Wm.</persName>
+                                    </author>
                                     <note type="description">portrait and vignette, red morocco
                                         gilt, gilt edges</note>
                                     <note type="etc">
                                         <num value="3"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#moxon">
+                                            <persName>Edward Moxon</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1847"/>
                                     </imprint>
                                 </monogr>
@@ -41242,9 +41338,15 @@
                             <biblStruct corresp="#owned" xml:id="sb862.1">
                                 <monogr>
                                     <title>The Prelude of Growth of a Poet's Mind</title>
-                                    <author corresp="#wordsworth">Wordsworth, Wm.</author>
+                                    <author corresp="#wordsworth">
+                                        <persName>Wordsworth, Wm.</persName>
+                                    </author>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#moxon">
+                                            <persName>Edward Moxon</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1850"/>
                                     </imprint>
                                 </monogr>
@@ -41254,9 +41356,15 @@
                             <biblStruct corresp="#owned" xml:id="sb862.2">
                                 <monogr>
                                     <title>Poems</title>
-                                    <author corresp="#hood">Hood, T.</author>
+                                    <author corresp="#hood">
+                                        <persName>Hood, T.</persName>
+                                    </author>
                                     <note type="description">frontispiece</note>
                                     <imprint>
+                                        <publisher corresp="#moxon">
+                                            <persName>Edward Moxon</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1852"/>
                                     </imprint>
                                 </monogr>
@@ -41266,7 +41374,9 @@
                             <biblStruct corresp="#owned" xml:id="sb862.3">
                                 <monogr>
                                     <title>Poems</title>
-                                    <author corresp="#wotton">Wotton, Sir H.</author>
+                                    <author corresp="#wotton">
+                                        <persName>Wotton, Sir H.</persName>
+                                    </author>
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Alex. Dyce</name>
@@ -41288,10 +41398,16 @@
                             <biblStruct corresp="#owned" xml:id="sb863.1">
                                 <monogr>
                                     <title>Greece, Pictorial, Descriptive and Historical</title>
-                                    <author corresp="#wordsworth_c">Wordswith, Chris.</author>
+                                    <author corresp="#wordsworth_c">
+                                        <persName>Wordswith, Chris.</persName>
+                                    </author>
                                     <note type="description">illustrations, calf gilt, marbled
                                         edges</note>
                                     <imprint>
+                                        <publisher corresp="#orr_compy">
+                                            <orgName>William S. Orr and Co.</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1853"/>
                                     </imprint>
                                 </monogr>
@@ -41302,10 +41418,16 @@
                                 <monogr>
                                     <title>Greece, Pictorial, Descriptive and Historical, another
                                         edition</title>
-                                    <author corresp="#wordsworth_c">Wordswith, Chris.</author>
+                                    <author corresp="#wordsworth_c">
+                                        <persName>Wordswith, Chris.</persName>
+                                    </author>
                                     <note type="description">illustrations, calf gilt, marbled
                                         edges, imperial 8vo.</note>
                                     <imprint>
+                                        <publisher corresp="#orr_compy">
+                                            <orgName>Wm. S. Orr and Co.</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1844"/>
                                     </imprint>
                                 </monogr>
@@ -41332,6 +41454,10 @@
                                     </author>
                                     <note type="description">portrait</note>
                                     <imprint>
+                                        <publisher corresp="#moxon">
+                                            <persName>Edward Moxon</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1840"/>
                                     </imprint>
                                 </monogr>
@@ -41341,7 +41467,9 @@
                             <biblStruct corresp="#owned" xml:id="sb864.2">
                                 <monogr>
                                     <title>Works, with Memoir by Barry Cornwall</title>
-                                    <author corresp="#jonson">Jonson, Ben</author>
+                                    <author corresp="#jonson">
+                                        <persName>Jonson, Ben</persName>
+                                    </author>
                                     <note type="description">portrait, half calf, top edge gilt,
                                         royal 8vo.</note>
                                     <imprint>
@@ -41357,7 +41485,9 @@
                             <biblStruct corresp="#owned" xml:id="sb865.1">
                                 <monogr>
                                     <title>A Lonely Little Lady</title>
-                                    <author corresp="#wyllarde">Wyllarde, Dolf</author>
+                                    <author corresp="#wyllarde">
+                                        <persName>Wyllarde, Dolf</persName>
+                                    </author>
                                     <note type="description">50 illustrations by Ida Lovering</note>
                                     <imprint>
                                         <date>n.d.</date>
@@ -41370,9 +41500,15 @@
                             <biblStruct corresp="#owned" xml:id="sb865.2">
                                 <monogr>
                                     <title>Sir Hudson Lowe and Napoleon</title>
-                                    <author corresp="#seaton">Seaton, R. C.</author>
+                                    <author corresp="#seaton">
+                                        <persName>Seaton, R. C.</persName>
+                                    </author>
                                     <note type="description">portrait</note>
                                     <imprint>
+                                        <publisher corresp="#nutt">
+                                            <persName>David Nutt</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1898"/>
                                     </imprint>
                                 </monogr>
@@ -41382,7 +41518,9 @@
                             <biblStruct corresp="#owned" xml:id="sb865.3">
                                 <monogr>
                                     <title>Pictures of Travel, and other Poems</title>
-                                    <author corresp="#bell">Bell, Mackenzie</author>
+                                    <author corresp="#bell">
+                                        <persName>Bell, Mackenzie</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">portrait and
                                         illustrations, presentation copy with inscription</note>
                                     <note type="inscription">To Algernon Charles Swinburne, with
@@ -41392,6 +41530,10 @@
                                         copies to Swinburne with inscriptions<num value="12"
                                         /></note>
                                     <imprint>
+                                        <publisher corresp="#hurst_blackett">
+                                            <orgName>Hurst and Blackett</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1898"/>
                                     </imprint>
                                 </monogr>
