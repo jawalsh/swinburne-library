@@ -24,4 +24,4 @@ More details about the project and the data will be including in a forthcoming d
 
 ## Acknowledgments
 
-The project is grateful for generous funding from the [Indiana University Presidential Arts and Humanities Program](https://research.iu.edu/funding-proposals/funding/opportunities/presidential-arts-humanities/index.html)
+The project is grateful for generous funding from the [Indiana University Presidential Arts and Humanities Program](https://research.iu.edu/funding-proposals/funding/opportunities/presidential-arts-humanities/index.html).
