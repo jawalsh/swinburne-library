@@ -15,12 +15,12 @@ More details about the project and the data will be including in a forthcoming d
 
 ## Contributors
 
-- John A. Walsh, Indiana University, [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu)
-- Caroline Nurkkala, independent scholar, [caroline.nurkkala@gmail.com](mailto:caroline.nurkkala@gmail.com)
-- Alexandra Wingate, Indiana University, [alewinga@indiana.edu](mailto:alewinga@indiana.edu)
-- Alyssa Ollier, Kentucky Historical Society, [alyssa.ollier@ky.gov](mailto:ollier@ky.gov)
-- Damien Thomas, Indiana University, [thomdaro@indiana.edu](mailto:thomdaro@indiana.edu)
-- Jennifer Christie, Indiana University, [jechri@indiana.edu](mailto:jechri@indiana.edu)
+- [John A. Walsh](https://github.com/jawalsh/), Indiana University
+- [Caroline Nurkkala](https://github.com/Ordeyn), independent scholar
+- [Alexandra Wingate](https://github.com/aewingate), Indiana University
+- [Alyssa Ollier](https://github.com/AlyssaMertka), Kentucky Historical Society
+- [Damien Thomas](https://github.com/thomdaro), Indiana University
+- [Jennifer Christie](https://github.com/jchristie01), Indiana University
 
 ## Acknowledgments
 
