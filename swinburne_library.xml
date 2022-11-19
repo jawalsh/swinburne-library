@@ -294,6 +294,9 @@
                     <place source="http://vocab.getty.edu/page/tgn/7003947" xml:id="catania">
                         <placeName type="preferred">Catania</placeName>
                     </place>
+                    <place source="http://vocab.getty.edu/page/tgn/7013596" xml:id="chicago">
+                        <placeName type="preferred">Chicago</placeName>
+                    </place>
                     <place source="http://vocab.getty.edu/page/tgn/7453942" xml:id="chilworth">
                         <placeName type="preferred">Chilworth</placeName>
                     </place>
@@ -5645,6 +5648,10 @@
                         <orgName source="http://id.loc.gov/authorities/names/no2002113997">Villon
                             Society</orgName>
                     </org>
+                    <org xml:id="virtue_company">
+                        <orgName source="http://id.loc.gov/authorities/names/no2004119329">Virtue 
+                            and Company</orgName>
+                    </org>
                     <org xml:id="w_h_allen_co">
                         <orgName source="http://id.loc.gov/authorities/names/no2006099052">W.
                             H. Allen &amp; Co.</orgName>
@@ -5660,6 +5667,10 @@
                     <org xml:id="ward_lock_co">
                         <orgName source="http://id.loc.gov/authorities/names/n80036611">Ward, 
                             Lock &amp; Co.</orgName>
+                    </org>
+                    <org xml:id="werner_company">
+                        <orgName source="http://id.loc.gov/authorities/names/n2008078337">Werner 
+                            Company (Chicago, Ill.)</orgName>
                     </org>
                     <org xml:id="whittaker_co">
                         <orgName source="http://id.loc.gov/authorities/names/nr98011309">Whittaker 
@@ -6606,6 +6617,10 @@
                             Matthew, active 1622-1642</persName>
                         <floruit from="1622" to="1642"/>
                     </person>
+                    <person xml:id="richards">
+                        <persName source="http://id.loc.gov/authorities/names/nr2003006476">Richards, 
+                            Thomas, active 1851-1883</persName>
+                    </person>
                     <person xml:id="richardson_w">
                         <persName source="http://id.loc.gov/authorities/names/nr97002823">Richardson, 
                             William, -1788</persName>
@@ -6655,6 +6670,14 @@
                         <persName source="http://id.loc.gov/authorities/names/nr93034674">Sare, 
                             Richard, -1724</persName>
                         <death when="1724"/>
+                    </person>
+                    <person xml:id="sawbridge">
+                        <persName source="http://id.loc.gov/authorities/names/no96044506">Sawbridge, 
+                            H. (Hannah)</persName>
+                    </person>
+                    <person xml:id="sawbridge_t">
+                        <persName source="http://id.loc.gov/authorities/names/nr95001849">Sawbridge, 
+                            Thomas</persName>
                     </person>
                     <person xml:id="scott_wa_publisher">
                         <persName source="http://id.loc.gov/authorities/names/nr93008554">Scott, 
@@ -7028,6 +7051,8 @@
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="none" target=""/>
+                                <!-- Found on Google Books, but no preview available.
+                                   https://www.google.com/books/edition/Roxana_Trag%C3%A6dia/DP5bxwEACAAJ?hl=en -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.2">
                                 <monogr>
@@ -7088,6 +7113,7 @@
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="none" target=""/>
+                                <!-- See above. -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb006">
@@ -8793,7 +8819,10 @@
                                         <date when="1868"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="ia" 
+                                    target="https://archive.org/details/charlesbaudelai00fizegoog/page/n10/mode/2up"/>
+                                <!-- Appears to be a misspelling, should be Fizelière. IA item linked here
+                                    matches all information save for that typo.-->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb043">
@@ -43596,7 +43625,9 @@
                                 <monogr>
                                     <title>Lives of the Noble Grecians and Romanes, translated into
                                         French bu J. Amiot, and into English by Thos. North</title>
-                                    <author corresp="#plutarch">Plutarch</author>
+                                    <author corresp="#plutarch">
+                                        <persName>Plutarch</persName>
+                                    </author>
                                     <respStmt>
                                         <resp>translator</resp>
                                         <persName>Thomas North</persName>
@@ -43605,11 +43636,12 @@
                                         portraits, old russia broken. Presentation copy from William
                                         Morris to A. C. Swinburne, with autograph inscription</note>
                                     <imprint>
-                                        <publisher corresp="#field_r">Imprinted by Richard Field</publisher>
+                                        <publisher corresp="#field_r">
+                                            Imprinted by <persName>Richard Field</persName>
+                                        </publisher>
                                         <date when="1595"/>
                                     </imprint>
                                 </monogr>
-
                                 <relatedItem type="tcp"
                                     target="http://name.umdl.umich.edu/A09802.0001.001"/>
                                 <note type="fulltext">OTA published 1579; TCP same as OTA.</note>
@@ -43620,7 +43652,9 @@
                                 <monogr>
                                     <title xml:lang="fr">Les Vies des Hommes Illustres, Grecs et
                                         Romains, translatees en Francois par J. Amiot</title>
-                                    <author corresp="#plutarch">Plutarch</author>
+                                    <author corresp="#plutarch">
+                                        <persName>Plutarch</persName>
+                                    </author>
                                     <note type="description">calf</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -43635,7 +43669,9 @@
                             <biblStruct corresp="#owned" xml:id="sb929.2">
                                 <monogr>
                                     <title>Les Oeuvres Morales, transltees par J. Amiot</title>
-                                    <author corresp="#plutarch">Plutarch</author>
+                                    <author corresp="#plutarch">
+                                        <persName>Plutarch</persName>
+                                    </author>
                                     <note type="description">old calf, title in facsimile</note>
                                     <note type="etc">
                                         <num value="4"/>
@@ -43658,8 +43694,10 @@
                                     <note type="description" corresp="#uncut">reprint of the edition of 1499,
                                         woodcuts, uncut</note>
                                     <imprint>
+                                        <publisher corresp="#methuen_co">
+                                            <persName>Methuen &amp; Co.</persName>
+                                        </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <publisher corresp="#methuen_co">Methuen &amp; Co.</publisher>
                                         <date when="1904"/>
                                     </imprint>
                                 </monogr>
@@ -43671,7 +43709,9 @@
                             <biblStruct corresp="#owned" xml:id="sb931.1">
                                 <monogr>
                                     <title xml:lang="la">De Humana Physiognomia Libri IIII</title>
-                                    <author corresp="#porta">Porta, Jo. Bapt.</author>
+                                    <author corresp="#porta">
+                                        <persName>Porta, Jo. Bapt.</persName>
+                                    </author>
                                     <note type="description">engraved title and curious plates, old
                                         vellum</note>
                                     <imprint>
@@ -43686,7 +43726,9 @@
                                 <monogr>
                                     <title>Twelve Etchings by Paul R. Rajon with Memoir and Notes by
                                         F. G. Stephens</title>
-                                    <author corresp="#rajon">Rajon</author>
+                                    <author corresp="#rajon">
+                                        <persName>Rajon</persName>
+                                    </author>
                                     <note type="description">portraits and plates</note>
                                     <imprint>
                                         <date>18--?</date>
@@ -43699,13 +43741,19 @@
                                 <monogr>
                                     <title>Ramblings in the Elucidation of the Autograph of
                                         Milton</title>
-                                    <author corresp="#sotheby">Sotheby, S. Leigh</author>
+                                    <author corresp="#sotheby">
+                                        <persName>Sotheby, S. Leigh</persName>
+                                    </author>
                                     <note type="description">portraits and facsimiles, half
                                         morocco</note>
                                     <note type="etc">
                                         <num value="3"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#richards">
+                                            <persName>Thomas Richards</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1861"/>
                                     </imprint>
                                 </monogr>
@@ -43717,7 +43765,9 @@
                             <biblStruct corresp="#owned" xml:id="sb933.1">
                                 <monogr>
                                     <title>Opera</title>
-                                    <author corresp="#sallust">Sallustius</author>
+                                    <author corresp="#sallust">
+                                        <persName>Sallustius</persName>
+                                    </author>
                                     <note type="description">engraved title and woodcuts,
                                         vellum</note>
                                     <imprint>
@@ -43733,7 +43783,9 @@
                             <biblStruct corresp="#owned" xml:id="sb934.1">
                                 <monogr>
                                     <title>Comedies, Histories and Tragedies</title>
-                                    <author corresp="#shakespeare">Shakespeare, W.</author>
+                                    <author corresp="#shakespeare">
+                                        <persName>Shakespeare, W.</persName>
+                                    </author>
                                     <note type="description">facsimile reprint of the first folio of
                                         1623, portrait on title, russia, - e.</note>
                                     <!-- Can't read the last part. -->
@@ -43754,10 +43806,15 @@
                                     <title>Comedies, Histories and Tragedies, facsimile of the first
                                         folio of 1623, with Introduction and Census of Copies by
                                         Sidney Lee</title>
-                                    <author corresp="#shakespeare">Shakespeare, W.</author>
+                                    <author corresp="#shakespeare">
+                                        <persName>Shakespeare, W.</persName>
+                                    </author>
                                     <note type="description" corresp="#uncut">rough calf, uncut,
                                         with ties</note>
                                     <imprint>
+                                        <publisher corresp="#oxford_university_press">
+                                            <orgName>Clarendon Press</orgName>
+                                        </publisher>
                                         <pubPlace ref="#oxford">Oxford</pubPlace>
                                         <date when="1902"/>
                                     </imprint>
@@ -43771,10 +43828,16 @@
                                 <monogr>
                                     <title>Things, New and Old, or a Storehouse of Similes,
                                         Sentences, Allegories, etc.</title>
-                                    <author corresp="#spencer">Spencer, John</author>
+                                    <author corresp="#spencer">
+                                        <persName>Spencer, John</persName>
+                                    </author>
                                     <note type="description">calf</note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#spencer">
+                                            <persName>John Spencer</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1658"/>
                                     </imprint>
                                 </monogr>
@@ -43788,12 +43851,24 @@
                                 <monogr>
                                     <title>Chronicle of the Kings of England</title>
                                     <idno type="tcp">A29737</idno>
-                                    <author corresp="#baker">Baker, R.</author>
+                                    <author corresp="#baker">
+                                        <persName>Baker, R.</persName>
+                                    </author>
                                     <note type="description">engraved title, old calf</note>
                                     <note type="etc">
                                         <num value="5"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#sawbridge">
+                                            <persName>H. Sawbridge</persName>
+                                        </publisher>
+                                        <publisher corresp="#tooke">
+                                            <persName>B. Tooke</persName>
+                                        </publisher>
+                                        <publisher corresp="#sawbridge_t">
+                                            <persName>T. Sawbridge</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1684"/>
                                     </imprint>
                                 </monogr>
@@ -43806,7 +43881,9 @@
                                 <monogr>
                                     <title xml:lang="fr">Le Grant Therece en Francoys tat en Rime
                                         que en Prose, nouvellement imprime à Paris</title>
-                                    <author corresp="#terence">Terentius</author>
+                                    <author corresp="#terence">
+                                        <persName>Terentius</persName>
+                                    </author>
                                     <note type="description" corresp="#presentation">lettres
                                         batardes, double columns, woodcut title repaired, numerous
                                         spirited woodcuts of theartrical scenes, old russia, broken,
@@ -43817,7 +43894,9 @@
                                         friend, William Morris, <date when="1872-03-25">March 25th,
                                             1872</date></note>
                                     <imprint>
-                                        <publisher corresp="#petit">J. Petit</publisher>
+                                        <publisher corresp="#petit">
+                                            <persName>J. Petit</persName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1539"/>
                                         <!-- Hard to read. Looks like a "9" written in for the last digit. -->
@@ -43837,6 +43916,10 @@
                                     <note type="description">first series, plates, half calf
                                         gilt</note>
                                     <imprint>
+                                        <publisher corresp="#virtue_company">
+                                            <orgName>Virtue and Company</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1850"/>
                                     </imprint>
                                 </monogr>
@@ -43852,6 +43935,10 @@
                                         <num value="3"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#werner_company">
+                                            <orgName>The Werner Company</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#chicago">Chicago</pubPlace>
                                         <date when="1895"/>
                                     </imprint>
                                 </monogr>
