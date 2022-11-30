@@ -10312,7 +10312,9 @@
                                         <measure unit="volumes" quantity="1"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=J6lxSs0kMbcC"/>
+                                <note type="fulltext">From 1511.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb079">
@@ -13518,7 +13520,11 @@
                                         <date when="1716"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=rfAQdYYg-KQC"/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=rP3v4u_MP5MC"/>
+                                <note type="fulltext">All other information matches, but this is a 2-volume set.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb149.3">
                                 <monogr>
@@ -15438,16 +15444,18 @@
                                         broken</note>
                                     <imprint>
                                         <publisher corresp="#oporinus">
-                                            <persName>Oporinus</persName>
+                                            <persName>Ioannis Oporini</persName>
                                         </publisher>
-                                        <pubPlace ref="#basel">Basil</pubPlace>
+                                        <pubPlace ref="#basel">Basileæ</pubPlace>
                                         <date when="1547"/>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=V2VdAAAAcAAJ"/>
+                                <note type="fulltexr">Only Vol. 2 is available.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb199">
@@ -15907,11 +15915,15 @@
                                     </author>
                                     <note type="description">portrait</note>
                                     <imprint>
+                                        <publisher corresp="#thacker_spink_co">
+                                            <orgName>Thacker, Spink, and Co.</orgName>
+                                        </publisher>
                                         <pubPlace ref="#kolkata">Calcutta</pubPlace>
                                         <date>n. d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="ia" 
+                                    target="https://archive.org/details/dli.granth.85646/page/n5/mode/2up"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb208.3">
                                 <monogr>
@@ -16457,10 +16469,15 @@
                                         <num value="9"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#ward_downey">
+                                            <orgName>Ward &amp; Downey</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=BwKNmBJnjq0C"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb220">
@@ -16550,7 +16567,8 @@
                                         <date when="1544"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=0oocxpwng_AC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb223">
