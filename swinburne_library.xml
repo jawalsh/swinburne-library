@@ -1325,14 +1325,14 @@
                         <floruit when="1600"/>
                     </person>
                     <person xml:id="chamberlayne">
-                        <persName source="http://id.loc.gov/authorities/names/n83206580"
-                            >Chamberlayne, William, 1619-1689</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n83206580">Chamberlayne, 
+                            William, 1619-1689</persName>
                         <birth when="1619"/>
                         <death when="1689"/>
                     </person>
                     <person xml:id="champfleury">
-                        <persName source="http://id.loc.gov/authorities/names/n50007845"
-                            >Champfleury, 1821-1889</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n50007845">Champfleury, 
+                            1821-1889</persName>
                         <birth when="1821"/>
                         <death when="1889"/>
                     </person>
@@ -1428,8 +1428,8 @@
                         <death when="1834"/>
                     </person>
                     <person xml:id="coleridge-taylor">
-                        <persName source="http://id.loc.gov/authorities/names/n81004092"
-                            >Coleridge-Taylor, Samuel, 1875-1912</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n81004092">Coleridge-Taylor, 
+                            Samuel, 1875-1912</persName>
                         <birth when="1875"/>
                         <death when="1912"/>
                     </person>
@@ -6276,6 +6276,12 @@
                         <birth when="1878"/>
                         <death when="1950"/>
                     </person>
+                    <person xml:id="klemm">
+                        <persName source="http://id.loc.gov/authorities/names/no2008133744">Klemm, 
+                            Josef, 1821-1882</persName>
+                        <birth when="1821"/>
+                        <death when="1882"/>
+                    </person>
                     <person xml:id="klug">
                         <persName source="http://id.loc.gov/authorities/names/no97038923">Klug, 
                             Joseph, active 1523-1552</persName>
@@ -6688,6 +6694,11 @@
                             Henry, 1595-1660</persName>
                         <birth when="1595"/>
                         <death when="1660"/>
+                    </person>
+                    <person xml:id="sermartelli"> 
+                        <persName source="http://id.loc.gov/authorities/names/nr96038861">Sermartelli, 
+                            Bartolomeo, active 1563-1600</persName>
+                        <floruit from="1563" to="1600"/>
                     </person>
                     <person xml:id="sheares">
                         <persName source="http://id.loc.gov/authorities/names/nr94033789">Sheares, 
@@ -17126,11 +17137,15 @@
                                     </author>
                                     <!-- No LCNAF found. -->
                                     <imprint>
+                                        <publisher corresp="#klemm">
+                                            <persName>Josef Klemm</persName>
+                                        </publisher>
                                         <pubPlace ref="#vienna">Wien</pubPlace>
                                         <date when="1879"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=u5MJO_KAurcC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb237.2">
                                 <monogr>
@@ -17139,6 +17154,11 @@
                                         <persName>Friedmann, Alfred</persName>
                                     </author>
                                     <imprint>
+                                        <publisher>
+                                            <persName>L. Rosner</persName>
+                                        </publisher>
+                                        <!-- No conclusive LCNAF found, possibly
+                                           http://id.loc.gov/authorities/names/n87126767 -->
                                         <pubPlace ref="#vienna">Wien</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -17153,11 +17173,15 @@
                                         <persName>Friedmann, Alfred</persName>
                                     </author>
                                     <imprint>
+                                        <publisher>
+                                            <persName>L. Rosner</persName>
+                                        </publisher>
                                         <pubPlace ref="#vienna">Wien</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=p02s4KZx2nUC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb237.4">
                                 <monogr>
@@ -17173,7 +17197,9 @@
                                         <date when="1874"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=phsPk--NFSsC"/>
+                                <note type="fulltext">This edition is from 1873, same pubPlace.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb238">
@@ -17766,15 +17792,21 @@
                                 <monogr>
                                     <title xml:lang="la">Oratio in Obitum Ser. Cosmi Medicis Magni
                                         Hetrutuae Ducis</title>
+                                    <!-- Title appears to have "Hetruriae", possible typo? -->
                                     <author>
                                         <persName>Baudinius, O.</persName>
                                     </author>
                                     <!-- No LCNAF found. -->
                                     <imprint>
+                                        <publisher corresp="#sermartelli">
+                                            <persName>Bartholomæi Sermartillij</persName>
+                                        </publisher>
+                                        <pubPlace ref="#florence">Florentiæ</pubPlace>
                                         <date when="1574"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="ia" 
+                                    target="https://archive.org/details/bub_gb_WpcJHUNYRJ4C/page/n5/mode/2up"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb254.2">
                                 <monogr>
@@ -17803,22 +17835,24 @@
                             <biblStruct corresp="#owned" xml:id="sb254.3">
                                 <monogr>
                                     <title>Agripanda Tragedia</title>
+                                    <!-- Typo? Seems like it should be "Acripanda." -->
                                     <author corresp="#decio">
                                         <persName>Decis da Herte, Ant.</persName>
                                     </author>
-                                    <!-- Probably Antonio Decio, but difficult to verify. The time period matches,
-                                        and Decio has one associated work with his LCNAF titled 'Acripanda'. -->
                                     <note type="description">vellum</note>
                                     <note type="etc">
                                         <num value="2"/>
                                     </note>
                                     <imprint>
-                                        <pubPlace xml:lang="it" ref="#florence">in
-                                            Firenze</pubPlace>
+                                        <publisher corresp="#sermartelli">
+                                            <persName>Sermartelli</persName>
+                                        </publisher>
+                                        <pubPlace xml:lang="it" ref="#florence">in Firenze</pubPlace>
                                         <date when="1592"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="ia" 
+                                    target="https://archive.org/details/image93TeatroOpal/mode/2up"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb255">
