@@ -6112,6 +6112,10 @@
                         <birth when="1804"/>
                         <death when="1868"/>
                     </person>
+                    <person xml:id="giolito">
+                        <persName source="http://id.loc.gov/authorities/names/no94022029">Giolito 
+                            de' Ferrari, Gabriele</persName>
+                    </person>
                     <person xml:id="giunta">
                         <persName source="http://id.loc.gov/authorities/names/nr97028549">Giunta, 
                             Bernardo, active 1567-1627</persName>
@@ -6791,6 +6795,11 @@
                             Lorenzo, -1563</persName>
                         <death when="1563"/>
                     </person>
+                    <person xml:id="torresano">
+                        <persName source="http://id.loc.gov/authorities/names/no2010015050">Torresano, 
+                            Federico, -1561 or 1562</persName>
+                        <death when="1561" cert="unknown"/>
+                    </person>
                     <person xml:id="torresanus">
                         <persName source="http://id.loc.gov/authorities/names/no95027093">Torresanus, 
                             Andreas, de Asula, 1451-1529</persName>
@@ -6812,6 +6821,11 @@
                             Léon, 1847-1896</persName>
                         <birth when="1847"/>
                         <death when="1896"/>
+                    </person>
+                    <person xml:id="vascosan">
+                        <persName source="http://id.loc.gov/authorities/names/nr95024401">Vascosan, 
+                            Michel de, -approximately 1577</persName>
+                        <death when="1577" cert="unknown"/>
                     </person>
                     <person xml:id="vitali">
                         <persName source="http://id.loc.gov/authorities/names/nr94029692">Vitali, 
@@ -18286,7 +18300,9 @@
                                         <date when="1483"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="ia" 
+                                    target="https://archive.org/details/wotb_7597128/page/n7/mode/2up"/>
+                                <note type="fulltext">This is a 1547 edition, same pubPlace.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb270">
@@ -18300,11 +18316,15 @@
                                     <note type="description">title within ornamental border,
                                         calf</note>
                                     <imprint>
+                                        <publisher corresp="#torresano">
+                                            <persName>Federico Toresano</persName>
+                                        </publisher>
                                         <pubPlace ref="#venice">in Venetia</pubPlace>
                                         <date when="1548"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=wGBoAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb271">
@@ -18611,10 +18631,16 @@
                                         of the author written at the age of 92</note>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher>
+                                            <persName>Septimus Prowett</persName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1825"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=pkVgAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb281">
@@ -18657,13 +18683,15 @@
                                     </author>
                                     <note type="description">calf</note>
                                     <imprint>
+                                        <publisher corresp="#vascosan">
+                                            <persName>Michaelis Vascosani</persName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1543"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
-                                <note type="fulltext">EEBO has some copies dated 1517ish, but the
-                                    author is different.</note>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=thQjYhuu8wAC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb282.2">
                                 <monogr>
@@ -18671,11 +18699,16 @@
                                         de Michelangnolo suo Nipote</title>
                                     <note type="description">half bound</note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>Giunti</persName>
+                                        </publisher>
+                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
                                         <pubPlace ref="#florence">in Firenze</pubPlace>
                                         <date when="1623"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=xLiE0feGb6gC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb283">
@@ -20018,11 +20051,16 @@
                                         Holland paper, uncut</note>
                                     <edition/>
                                     <imprint>
+                                        <publisher corresp="#gay">
+                                            <persName>Jéan Gay</persName>
+                                        </publisher>
+                                        <!-- "chez l'auteur" -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1866"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=0lYaSKFEn8MC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb316.3">
                                 <monogr>
@@ -20087,6 +20125,8 @@
                             <biblStruct corresp="#owned" xml:id="sb318.1">
                                 <monogr>
                                     <title xml:lang="it">Le Fiammedi</title>
+                                    <!-- Title should potentially just be "Le Fiamme" ("The Flames").
+                                        'di' is a separate word that connects to the author, like 'by'. -->
                                     <author corresp="#giraldi">
                                         <persName>Giraldi Cinthio, G. B.</persName>
                                     </author>
@@ -20097,11 +20137,15 @@
                                     <note type="description"/>
                                     <edition/>
                                     <imprint>
+                                        <publisher corresp="#giolito">
+                                            <persName>Gabriel Giolito De Ferrari</persName>
+                                        </publisher>
                                         <pubPlace ref="#venice">in Vinegia</pubPlace>
                                         <date when="1548"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=PNcwEq5zyrAC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb318.2">
                                 <monogr>
