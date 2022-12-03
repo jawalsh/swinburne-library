@@ -5440,6 +5440,10 @@
                         <orgName source="http://id.loc.gov/authorities/names/no99039897">Minerva 
                             Press</orgName>
                     </org>
+                    <org xml:id="munday_slatter">
+                        <orgName source="http://id.loc.gov/authorities/names/nr2007005256">Munday 
+                            and Slatter</orgName>
+                    </org>
                     <org xml:id="orr_compy">
                         <orgName source="http://id.loc.gov/authorities/names/n82057485">Orr 
                             &amp; Compy</orgName>
@@ -5812,6 +5816,11 @@
                             Henry G. (Henry George), 1796-1884</persName>
                         <birth when="1796"/>
                         <death when="1884"/>
+                    </person>
+                    <person xml:id="booth">
+                        <persName source="http://id.loc.gov/authorities/names/no2015015811">Booth, 
+                            John, active 1795-1840</persName>
+                        <floruit from="1795" to="1840"/>
                     </person>
                     <person xml:id="bosworth">
                         <persName source="http://id.loc.gov/authorities/names/no98089357">Bosworth, 
@@ -21778,11 +21787,16 @@
                                     <note type="inscription">A. C. Swinburne, <date
                                             when="1859-10-27">Oct. 27th, 1859</date></note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>La Veuve Verteneuil</persName>
+                                        </publisher>
+                                        <!-- "the widow Verteneuil," no LCNAF found. -->
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1859"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=RaYNAAAAQAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb363.2">
                                 <monogr>
@@ -22639,7 +22653,8 @@
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
-                                        <!-- I think this is a series published by A. Lemerre. They aren't numbered 1-10. see HathiTrust -->
+                                        <!-- I think this is a series published by A. Lemerre. 
+                                            They aren't numbered 1-10. see HathiTrust -->
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="10"/>
@@ -24121,6 +24136,8 @@
                             <biblStruct corresp="#owned" xml:id="sb424.1">
                                 <monogr>
                                     <title xml:lang="la">Laudes Deatae Mariae Virginis</title>
+                                    <!-- Check title, should possibly be "Beatae". Found entries on
+                                        Google books for this matching pub info, but no previews. -->
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">S. C. Cockerell</name>
@@ -24302,7 +24319,8 @@
                                         <date when="1819"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=u8IIAAAAQAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb429">
@@ -24745,10 +24763,15 @@
                                     <note type="description"/>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#booth">
+                                            <persName>John Booth</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1824"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=6BkOAAAAQAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb438.2">
                                 <monogr>
@@ -24811,11 +24834,15 @@
                                         <persName>Landor, W. S.</persName>
                                     </author>
                                     <imprint>
+                                        <publisher corresp="#munday_slatter">
+                                            <orgName>Slatter and Munday</orgName>
+                                        </publisher>
                                         <pubPlace ref="#oxford">Oxford</pubPlace>
                                         <date when="1803"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=4zdcAAAAcAAJ"/>
                             </biblStruct>
                             <bibl xml:id="sb440.2">
                                 <title>Anthony and Octavius</title>
@@ -25740,7 +25767,9 @@
                                 <monogr>
                                     <title>Encyclopaedie Dictionary</title>
                                     <!-- Check spelling. -->
-                                    <author>Lloyd, E.</author>
+                                    <author>
+                                        <persName>Lloyd, E.</persName>
+                                    </author>
                                     <!-- No LCNAF found. -->
                                     <note type="description">numerous illustrations, cloth gilt,
                                         royal 8vo.</note>
@@ -25748,7 +25777,10 @@
                                         <date when="1895"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=UeYOAAAAQAAJ"/>
+                                <note type="fulltext">This is vol.4 of a set of an unknown number of
+                                    volumes. Publication year matches.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb460">
