@@ -6641,6 +6641,11 @@
                         <birth when="1883"/>
                         <death when="1900"/>
                     </person>
+                    <person xml:id="reeve">
+                        <persName source="http://id.loc.gov/authorities/names/n88140968">Reeve, 
+                            W. (William), -1759</persName>
+                        <death when="1759"/>
+                    </person>
                     <person xml:id="rhodes">
                         <persName source="http://id.loc.gov/authorities/names/n2005015955">Rhodes, 
                             Matthew, active 1622-1642</persName>
@@ -6775,6 +6780,12 @@
                             Bernhard, 1816-1895</persName>
                         <birth when="1816"/>
                         <death when="1895"/>
+                    </person>
+                    <person xml:id="techener">
+                        <persName source="http://id.loc.gov/authorities/names/n83227330">Techener, 
+                            J. (Jacques), 1802-1870</persName>
+                        <birth when="1802"/>
+                        <death when="1870"/>
                     </person>
                     <person xml:id="thorpe">
                         <persName source="http://id.loc.gov/authorities/names/no00048827">Thorpe, 
@@ -27428,7 +27439,12 @@
                                         <measure unit="volumes" quantity="2">vol. I-II</measure>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=1NvGAAAAMAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=lOjGAAAAMAAJ"/>
+                                <note type="fulltext">This edition is vol. 1-2 of a set four volumes printed in London,
+                                    but there is another edition in five volumes that's translated, printed in Liepzig.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb498.2">
                                 <monogr>
@@ -27943,11 +27959,15 @@
                                         <num value="14"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#techener">
+                                            <persName>Joseph Techener</persName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1836"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=R6hbAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb510">
@@ -28326,10 +28346,16 @@
                                     </respStmt>
                                     <note type="description" corresp="#uncut">portrait, uncut</note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>Alexander Gardner</persName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=gAlor4qrACoC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb519.2">
                                 <monogr>
@@ -29158,10 +29184,15 @@
                                         <num value="6"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#reeve">
+                                            <persName>W. Reeve</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1747"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=1cGe72TW_JgC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb537">
@@ -29393,10 +29424,15 @@
                                         <num value="4"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#stock">
+                                            <persName>Elliot Stock</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=gV4JAAAAIAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb544">
@@ -29440,7 +29476,12 @@
                                         <measure unit="volumes" quantity="1">2 vol. in 1</measure>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=tbhCAAAAcAAJ"/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=aogLAAAAYAAJ"/>
+                                <note type="fulltext">This is a 2-vol. set with same published year.
+                                    Wasn't able to locate a 2-in-1.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb545">
@@ -30506,6 +30547,10 @@
                                         pictoral borders by Giacomelli, portraits, plates, etc.
                                         uncut</note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>A. Mame</persName>
+                                        </publisher>
+                                        <!-- LCNAF found. -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1878"/>
                                     </imprint>
@@ -30576,7 +30621,9 @@
                                         <date>n.d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=AQiW9tIAWYEC"/>
+                                <note type="fulltext">This is the work contained within a larger volume.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb574.2">
                                 <monogr>
