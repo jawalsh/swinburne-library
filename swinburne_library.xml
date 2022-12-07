@@ -31003,11 +31003,15 @@
                                     </author>
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=lycTAAAAQAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb588.3">
                                 <monogr>
@@ -31717,6 +31721,9 @@
                                     <note type="description">half bound, some leaves cut round and
                                         cut into</note>
                                     <imprint>
+                                        <publisher corresp="#meighen">
+                                            <persName>R. Meighen</persName>
+                                        </publisher>
                                         <date when="1630"/>
                                     </imprint>
                                 </monogr>
@@ -32450,6 +32457,9 @@
                                         presentation copies to Swinburne, with inscriptions<num
                                             value="14"/></note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1898"/>
                                     </imprint>
@@ -32994,10 +33004,15 @@
                                     <note type="inscription">A. C. Swinburne, Esqre. from the Author
                                         J. P.</note>
                                     <imprint>
+                                        <publisher corresp="#bosworth">
+                                            <persName>Thomas Bosworth</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1866"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=oYUEAAAAQAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb644">
@@ -33556,6 +33571,10 @@
                                     </author>
                                     <note type="description">half bound</note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>Buisson</persName>
+                                        </publisher>
+                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1791"/>
                                     </imprint>
@@ -33563,7 +33582,12 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=Py46AAAAcAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=YC46AAAAcAAJ"/>
+                                <relatedItem n="3" type="google" 
+                                    target="https://books.google.com/books?id=U9rqwSpIpBsC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned #signed" xml:id="sb656.2">
                                 <monogr>
@@ -33578,6 +33602,10 @@
                                         <num value="7"/>
                                     </note>
                                     <imprint>
+                                        <publisher>
+                                            <orgName>Librairie d'Alex</orgName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1837"/>
                                     </imprint>
@@ -33585,7 +33613,9 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=RT5AG2E4GakC"/>
+                                <note type="fulltext">This is both volumes in a single google entry.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb657">
