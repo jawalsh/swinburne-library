@@ -6310,6 +6310,11 @@
                             Joseph, active 1523-1552</persName>
                         <floruit from="1523" to="1552"/>
                     </person>
+                    <person xml:id="knapton">
+                        <persName source="http://id.loc.gov/authorities/names/nr93044537">Knapton, 
+                            James, -1738</persName>
+                        <death when="1738"/>
+                    </person>
                     <person xml:id="knight">
                         <persName source="http://id.loc.gov/authorities/names/nr93044520">Knight, 
                             Charles, 1750-1824</persName>
@@ -35167,10 +35172,15 @@
                                     </author>
                                     <note type="description">portrait</note>
                                     <imprint>
+                                        <publisher corresp="#colburn">
+                                            <persName>Henry Colburn</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1832"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=SKpfAAAAcAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb695.3">
                                 <monogr>
@@ -35183,13 +35193,16 @@
                                         <num value="10"/>
                                     </note>
                                     <imprint>
+                                        <publisher>
+                                            <persName>W. Miller</persName>
+                                        </publisher>
+                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1809"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
-                                <note type="fulltext">The New York Public Library has a digital
-                                    copy.</note>
-                                <!-- I left this note here, but I can't find what I'm talking about.-->
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=entjAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb696">
@@ -35304,13 +35317,27 @@
                                     <note type="description">portrait by Gribelin, calf gilt, yellow
                                         edges</note>
                                     <imprint>
+                                        <publisher corresp="#knapton">
+                                            <persName>James Knapton</persName>
+                                        </publisher>
+                                        <publisher corresp="#tonson">
+                                            <persName>Jacob Tonson</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1720"/>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="4"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=8F1VAAAAcAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=DF5VAAAAcAAJ"/>
+                                <relatedItem n="3" type="google" 
+                                    target="https://books.google.com/books?id=Q15VAAAAcAAJ"/>
+                                <relatedItem n="4" type="google" 
+                                    target="https://books.google.com/books?id=-0DuUAew_-EC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb699">
@@ -36558,10 +36585,15 @@
                                         <num value="8"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#hurst_blackett">
+                                            <orgName>Hurst and Blackett</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1900"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=1TjFL5OOnDwC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb727">
@@ -36603,10 +36635,16 @@
                                     <note type="description" corresp="#uncut">one of 190 copies,
                                         uncut, printed for private circulation</note>
                                     <imprint>
+                                        <publisher>
+                                            <orgName>Charles Wittingham and Co.</orgName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
+                                        <pubPlace ref="#chiswick">Chiswick</pubPlace>
                                         <date when="1884"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=g6Xv96FjotcC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb727.3">
                                 <monogr>
@@ -36976,7 +37014,9 @@
                                     <note type="inscription">For A. C. Swinburne with regards and
                                         thanks of T. W. Higginson</note>
                                     <imprint>
-                                        <publisher>R. Fonet</publisher>
+                                        <publisher>
+                                            <persName>R. Fonet</persName>
+                                        </publisher>
                                         <!-- No LCNAF found. -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1625"/>
@@ -37117,14 +37157,23 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb741">
-                            <bibl xml:id="sb741.1">
-                                <title>The Crookit-Meg, a Story of the Year One</title>
-                                <author corresp="#skelton">
-                                    <persName>Skelton, J.</persName>
-                                </author>
-                                <date when="1880"/>
-                                <relatedItem type="none" target=""/>
-                            </bibl>
+                            <biblStruct xml:id="sb741.1">
+                                <monogr>
+                                    <title>The Crookit-Meg, a Story of the Year One</title>
+                                    <author corresp="#skelton">
+                                        <persName>Skelton, J.</persName>
+                                    </author>
+                                    <imprint>
+                                        <publisher corresp="#longmans_green_co">
+                                            <orgName>Longmans, Green, and Co.</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
+                                        <date when="1880"/>
+                                    </imprint>
+                                </monogr>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=ShoCAAAAQAAJ"/>
+                            </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb741.2">
                                 <monogr>
                                     <title>As in a Looking Glass</title>
@@ -38007,10 +38056,15 @@
                                         high regards, <date when="1861-07-31">July 31,
                                         1861</date></note>
                                     <imprint>
+                                        <publisher corresp="#chapman_and_hall">
+                                            <orgName>Chapman and Hall</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1860"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=0GuoSg9vpT4C"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb761.2">
                                 <monogr>
@@ -38140,6 +38194,7 @@
                             <biblStruct corresp="#owned" xml:id="sb765.1">
                                 <monogr>
                                     <title xml:lang="it">Le Tredecci Piacevoli Notre</title>
+                                    <!-- Linked item has title "Le Tredici Piacevoli Notte" -->
                                     <author corresp="#straparola">
                                         <persName>Straparola da Caravaggio, Giovan.-Fran</persName>
                                     </author>
@@ -38152,7 +38207,8 @@
                                         <date when="1586"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=11JWAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb766">
@@ -38168,7 +38224,8 @@
                                         <date when="1513"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=dM-hSysTy5EC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb767">
@@ -38823,6 +38880,9 @@
                                     </respStmt>
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1891"/>
                                     </imprint>
@@ -38882,6 +38942,9 @@
                                     </author>
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1891"/>
                                     </imprint>
