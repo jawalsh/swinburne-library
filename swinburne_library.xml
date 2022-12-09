@@ -6020,6 +6020,12 @@
                         <birth when="1830"/>
                         <death when="1884"/>
                     </person>
+                    <person xml:id="desbordes">
+                        <persName source="http://id.loc.gov/authorities/names/no2009198431">Desbordes, 
+                            Jacques, 1704-1742</persName>
+                        <birth when="1704"/>
+                        <death when="1742"/>
+                    </person>
                     <person xml:id="dillingham">
                         <persName source="http://id.loc.gov/authorities/names/nr89013850">Dillingham, 
                             Charles Theodore, 1842-</persName>
@@ -6840,6 +6846,10 @@
                             Andreas, de Asula, 1451-1529</persName>
                         <birth when="1451"/>
                         <death when="1529"/>
+                    </person>
+                    <person xml:id="tozzi">
+                        <persName source="http://id.loc.gov/authorities/names/nr2001041131">Tozzi, 
+                            Pietro Paolo</persName>
                     </person>
                     <person xml:id="twyford">
                         <persName source="http://id.loc.gov/authorities/names/no00033912">Twyford, 
@@ -38993,6 +39003,9 @@
                                         presentation copies to Swinburne, with inscriptions<num
                                             value="12"/></note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1890"/>
                                     </imprint>
@@ -39037,6 +39050,9 @@
                                     </respStmt>
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
+                                        <publisher corresp="#mercure_de_france">
+                                            <orgName>Mercure de France</orgName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
@@ -39080,26 +39096,37 @@
                                         and unopened, presentation copy with inscription from
                                         Gabriel Mourey</note>
                                     <imprint>
+                                        <publisher>
+                                            <orgName>P.-V. Stock</orgName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=ujOMBoAbe8oC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb790">
                             <biblStruct corresp="#owned" xml:id="sb790.1">
                                 <monogr>
                                     <title>Anime Figura</title>
+                                    <!-- Linked item has title "Animi" -->
                                     <author corresp="#symonds">
                                         <persName>Symonds, J. Addington</persName>
                                     </author>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher corresp="#smith_elder_co">
+                                            <orgName>Smith, Elder, &amp; Co.</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1882"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=_WAJAAAAQAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb790.2">
                                 <monogr>
@@ -39370,16 +39397,22 @@
                             <biblStruct corresp="#owned" xml:id="sb799.3">
                                 <monogr>
                                     <title>Harold, a Poem</title>
+                                    <!-- Linked item has title "Harold, a Drama" -->
                                     <author corresp="#tennyson">
                                         <persName>Tennyson, Alfred Lord</persName>
                                     </author>
                                     <note type="etc">and others by the same author<num value="8"
                                         /></note>
                                     <imprint>
+                                        <publisher corresp="#henry_s_king_co">
+                                            <orgName>Henry S. King &amp; Co.</orgName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=_HVbAAAAQAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb800">
@@ -39528,7 +39561,8 @@
                                         <date when="1554"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=Y-hmAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb804">
@@ -39802,6 +39836,7 @@
                                     </extent>
                                 </monogr>
                                 <relatedItem type="none" target=""/>
+                                <!-- Some copies available, but no six-volume sets. -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb811">
@@ -41006,10 +41041,16 @@
                                     </author>
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
+                                        <publisher>
+                                            <persName>Samuel Jallasson</persName>
+                                        </publisher>
+                                        <!-- No LCNAF found. -->
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1727"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=0o5bAAAAQAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb839.3">
                                 <monogr>
@@ -41037,11 +41078,15 @@
                                     </author>
                                     <note type="description">in 1 vol. old calf, broken</note>
                                     <imprint>
+                                        <publisher corresp="#desbordes">
+                                            <persName>Jacques Desbordes</persName>
+                                        </publisher>
                                         <pubPlace ref="#amsterdam">Amsterdam</pubPlace>
                                         <date when="1733"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=TDRnAAAAcAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb840">
@@ -42435,11 +42480,15 @@
                                     <note type="description">curios old woodcuts, half bound, pencil
                                         note in Swinburne's writing</note>
                                     <imprint>
+                                        <publisher corresp="#tozzi">
+                                            <persName>Pietro Paolo Tozzi</persName>
+                                        </publisher>
                                         <pubPlace corresp="#padua">Padova</pubPlace>
                                         <date when="1623"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=STDb3dmGOaIC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb881">
