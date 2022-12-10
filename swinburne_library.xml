@@ -6578,6 +6578,10 @@
                             Thomas, -1767</persName>
                         <death when="1767"/>
                     </person>
+                    <person xml:id="ory">
+                        <persName source="http://id.loc.gov/authorities/names/no2011181716">Ory, 
+                            Marc</persName>
+                    </person>
                     <person xml:id="owen">
                         <persName source="http://id.loc.gov/authorities/names/n85089711">Owen, 
                             W. (William), -1793</persName>
@@ -6882,6 +6886,12 @@
                             Michel de, -approximately 1577</persName>
                         <death when="1577" cert="unknown"/>
                     </person>
+                    <person xml:id="virtue">
+                        <persName source="http://id.loc.gov/authorities/names/nr91022431">Virtue, 
+                            George, 1793?-1868</persName>
+                        <birth when="1793" cert="unknown"/>
+                        <death when="1868"/>
+                    </person>
                     <person xml:id="vitali">
                         <persName source="http://id.loc.gov/authorities/names/nr94029692">Vitali, 
                             Bernardino dei, active 1494-1539</persName>
@@ -7130,9 +7140,6 @@
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
-                                <!-- Found on Google Books, but no preview available.
-                                   https://www.google.com/books/edition/Roxana_Trag%C3%A6dia/DP5bxwEACAAJ?hl=en -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.2">
                                 <monogr>
@@ -7192,8 +7199,6 @@
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
-                                <!-- See above. -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb006">
@@ -7873,7 +7878,6 @@
                                         <date when="1876"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">There is a work by this title and close in
                                     year, but the author is Sir Lewis Morris. Additionally, Sir Edwin
                                     Arnold does have works around this same time, but none have this
@@ -9383,7 +9387,6 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb056">
@@ -9968,7 +9971,6 @@
                                         <date when="1901"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb065">
@@ -10473,7 +10475,6 @@
                                 <extent>
                                     <measure unit="volumes" quantity="1"/>
                                 </extent>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">Looks like this is several different chapbooks
                                     rolled into one item, but I was unable to locate anything
                                     remotely like it.</note>
@@ -13130,7 +13131,6 @@
                                         <date when="1870"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb141.2">
                                 <monogr>
@@ -14155,7 +14155,6 @@
                                         <date when="1902"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb164">
@@ -14687,7 +14686,6 @@
                                         <date when="1603"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb177">
@@ -16021,7 +16019,6 @@
                                         <date when="1879"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb209">
@@ -17344,7 +17341,6 @@
                                         <date when="1904"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb240">
@@ -17766,7 +17762,6 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb251">
@@ -18170,7 +18165,6 @@
                                         <date>n. d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb264">
@@ -18187,7 +18181,6 @@
                                         <date when="1897"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb264.2">
                                 <monogr>
@@ -19770,7 +19763,6 @@
                                         <date when="1763"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <!-- Could try ECCO. -->
                             </biblStruct>
                         </listBibl>
@@ -19812,7 +19804,6 @@
                                         <measure unit="volumes" quantity="1"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb309.2">
                                 <monogr>
@@ -19860,7 +19851,6 @@
                                         <date when="1497" instant="false"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb311">
@@ -20417,7 +20407,6 @@
                                         <date when="1879"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb322.2">
                                 <monogr>
@@ -22361,7 +22350,6 @@
                                         <date when="1881"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb375">
@@ -22686,7 +22674,6 @@
                                         <measure unit="volumes" quantity="10"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">HT has a copy, but it's the 12th volume? I'll
                                     need help with this one.</note>
                             </biblStruct>
@@ -24100,7 +24087,6 @@
                                         <date when="1895"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb422">
@@ -24184,7 +24170,6 @@
                                         <date when="1896"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb425">
@@ -24876,7 +24861,6 @@
                                     <persName>Landor, W. S.</persName>
                                 </author>
                                 <date when="1858"/>
-                                <relatedItem type="none" target=""/>
                             </bibl>
                             <biblStruct corresp="#owned" xml:id="sb440.3">
                                 <monogr>
@@ -24913,7 +24897,6 @@
                                         <date when="1815"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb442">
@@ -25917,8 +25900,8 @@
                             </biblStruct>
                             <bibl xml:id="sb463.2">
                                 <title>Hymns of Homer</title>
-                                <!-- There is no more information than the title, unless I am reading the lot wrong. Check. -->
-                                <relatedItem type="none" target=""/>
+                                <!-- There is no more information than the title, 
+                                    unless I am reading the lot wrong. Check. -->
                             </bibl>
                             <biblStruct corresp="#owned" xml:id="sb463.3">
                                 <monogr>
@@ -26279,7 +26262,6 @@
                                         <date when="1903"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb470">
@@ -27411,7 +27393,6 @@
                                         <date when="1819"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb497">
@@ -27547,7 +27528,6 @@
                                         <date when="1899"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb500.2">
                                 <monogr>
@@ -29898,7 +29878,6 @@
                                         <date when="1800"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb554.3">
                                 <monogr>
@@ -30570,7 +30549,6 @@
                                         <date when="1878"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb572">
@@ -30649,7 +30627,6 @@
                                         <date when="1809"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb575">
@@ -31742,7 +31719,6 @@
                                         <date when="1630"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb611">
@@ -31764,7 +31740,6 @@
                                         <date when="1585"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb612">
@@ -31960,7 +31935,6 @@
                                         <date when="1893"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb618">
@@ -32136,7 +32110,6 @@
                                         <date when="1577"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb625">
@@ -32440,7 +32413,6 @@
                                         <date when="1885"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">HT has the English version from this year but
                                     not the translation.</note>
                             </biblStruct>
@@ -32457,7 +32429,6 @@
                                         <date when="1895"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">Other works by this author, but not this
                                     one.</note>
                             </biblStruct>
@@ -32479,7 +32450,6 @@
                                         <date when="1898"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb633">
@@ -33045,7 +33015,6 @@
                                         <date when="1615"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">EEBO has a version translated into English
                                     from 1597.</note>
                             </biblStruct>
@@ -33095,7 +33064,6 @@
                                         <date when="1905"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb645.4">
                                 <monogr>
@@ -33271,7 +33239,6 @@
                                         <date when="1892"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb650">
@@ -33313,7 +33280,6 @@
                                         <date when="1899"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct xml:id="sb651.2">
                                 <monogr>
@@ -33371,7 +33337,6 @@
                                         <date when="1907"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb652.2">
                                 <monogr>
@@ -33410,7 +33375,6 @@
                                         <date when="1903"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb653">
@@ -33426,7 +33390,6 @@
                                         <date when="1906"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb653.2">
                                 <monogr>
@@ -33649,7 +33612,6 @@
                                         <date when="1895"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb657.2">
                                 <monogr>
@@ -34716,7 +34678,6 @@
                                         <date>n.d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb686.2">
                                 <monogr>
@@ -34793,7 +34754,6 @@
                                         <date>n.d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb688">
@@ -35152,7 +35112,6 @@
                                         <date from="1901" to="1902"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">Vol 2 is available for 1902-3.</note>
                             </biblStruct>
                         </listBibl>
@@ -35802,7 +35761,6 @@
                                         <measure unit="volumes" quantity="37"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb709">
@@ -37035,7 +36993,6 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb736">
@@ -37195,7 +37152,6 @@
                                         <date when="1899"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb741.3">
                                 <monogr>
@@ -37383,7 +37339,6 @@
                                         <date when="1884"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">There are other copies, but the closest year
                                     is about 1940.</note>
                             </biblStruct>
@@ -38480,7 +38435,6 @@
                                         <date>n.d. [c. 1866]</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb773">
@@ -38700,7 +38654,6 @@
                                         <date when="1893"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb780">
@@ -38711,7 +38664,6 @@
                                 </author>
                                 <note type="description">another copy</note>
                                 <date when="1893"/>
-                                <relatedItem type="none" target=""/>
                             </bibl>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb781">
@@ -38722,7 +38674,6 @@
                                 </author>
                                 <note type="description">another copy</note>
                                 <date when="1893"/>
-                                <relatedItem type="none" target=""/>
                             </bibl>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb782">
@@ -38897,7 +38848,6 @@
                                         <date when="1891"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb786.2">
                                 <monogr>
@@ -38939,7 +38889,6 @@
                                         <date when="1659"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb787">
@@ -38959,7 +38908,6 @@
                                         <date when="1891"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb787.2">
                                 <monogr>
@@ -38975,7 +38923,6 @@
                                         <date when="1900"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb787.3">
                                 <monogr>
@@ -38990,7 +38937,6 @@
                                         <date>n.d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb787.4">
                                 <monogr>
@@ -39010,7 +38956,6 @@
                                         <date when="1890"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb788">
@@ -39057,7 +39002,6 @@
                                         <date when="1909"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb788.3">
                                 <monogr>
@@ -39323,7 +39267,6 @@
                                         <date when="1906"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb798">
@@ -39434,7 +39377,6 @@
                                         <date when="1875"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <note type="fulltext">There are, of course, copies of this
                                     particular work, but not of this specific copy.</note>
                             </biblStruct>
@@ -39835,7 +39777,6 @@
                                         <measure unit="volumes" quantity="6"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                                 <!-- Some copies available, but no six-volume sets. -->
                             </biblStruct>
                         </listBibl>
@@ -39873,7 +39814,6 @@
                                         <date when="1891"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb811.3">
                                 <monogr>
@@ -40860,7 +40800,6 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb836.2">
                                 <monogr>
@@ -42038,7 +41977,6 @@
                                         <date when="1805"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb867">
@@ -42144,7 +42082,6 @@
                                         <date when="1901"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned #annotated" xml:id="sb869.2">
                                 <monogr>
@@ -42227,7 +42164,6 @@
                                         <date when="1603"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb872">
@@ -42569,13 +42505,20 @@
                                         <num value="4"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#virtue">
+                                            <persName>George Virtue</persName>
+                                        </publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1842"/>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=h2UGAAAAQAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=qGUGAAAAQAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb884">
@@ -43199,7 +43142,6 @@
                                         <date when="1884"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb903">
@@ -43218,7 +43160,6 @@
                                         <date when="1884"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb904">
@@ -43235,7 +43176,6 @@
                                         <date when="1884"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb905">
@@ -43299,7 +43239,6 @@
                                         <date when="1908"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb907">
@@ -43462,7 +43401,8 @@
                                         <date when="1534"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=DRREAQAAMAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb912">
@@ -43610,7 +43550,11 @@
                                         <date when="1750"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=WFQsAQAAMAAJ"/>
+                                <note type="fulltext">While the title matches exactly, along with other
+                                    publication information, every copy I checked lists this as Volume 1 of
+                                    an unknown number of volumes.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb917">
@@ -43764,7 +43708,6 @@
                                         <date when="1893"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb922">
@@ -44032,6 +43975,9 @@
                                     </author>
                                     <note type="description">calf</note>
                                     <imprint>
+                                        <publisher corresp="#ory">
+                                            <persName>Marc Ory</persName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1606"/>
                                     </imprint>
@@ -44039,7 +43985,10 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=Z0pTAAAAcAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=krZAAAAAcAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb929.2">
                                 <monogr>
@@ -44052,6 +44001,9 @@
                                         <num value="4"/>
                                     </note>
                                     <imprint>
+                                        <publisher corresp="#vascosan">
+                                            <persName>Michel de Vascosan</persName>
+                                        </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1572"/>
                                     </imprint>
@@ -44059,7 +44011,10 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem n="1" type="google" 
+                                    target="https://books.google.com/books?id=w6pSAAAAcAAJ"/>
+                                <relatedItem n="2" type="google" 
+                                    target="https://books.google.com/books?id=YPjn4ex6zEcC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb930">
@@ -44093,7 +44048,6 @@
                                         <date when="1566"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb932">
@@ -44110,7 +44064,6 @@
                                         <!-- Date is illegible in lot. -->
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb932.2">
                                 <monogr>
@@ -44151,7 +44104,8 @@
                                         <!-- Date is hard to read.-->
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <!-- Nothing for 1534, but plenty of copies from surrounding years. Could be
+                                    one of those if the date is difficult to discern – I'd have to see the entry -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb934">
@@ -44274,10 +44228,10 @@
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1539"/>
-                                        <!-- Hard to read. Looks like a "9" written in for the last digit. -->
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="none" target=""/>
+                                <relatedItem type="google" 
+                                    target="https://books.google.com/books?id=uLMllcamiNsC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb938">
