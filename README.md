@@ -11,7 +11,7 @@ Swinburne was a poet, critic, and a major cultural figure of the Victorian perio
 - assemble a full-text corpus for computational text analysis of the content of a Victorian personal library;
 - explore questions related to book history and readership.
 
-More details about the project and the data will be including in a forthcoming data paper.
+More details about the project and the data will be included in a forthcoming data paper.
 
 ## Contributors
 
