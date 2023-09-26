@@ -47811,7 +47811,7 @@
                             <date when="1843"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="other" target="http://www.rossettiarchive.org/docs/1-1841.rad.html"/>
+                    <relatedItem type="ra" target="http://www.rossettiarchive.org/docs/1-1841.rad.html"/>
                     <note type="provenance" target=" http://id.lib.harvard.edu/alma/990067142980203941/catalog">Houghton Library, Harvard University</note>
                 </biblStruct>
                 <biblStruct xml:id="torrent_portugal" corresp="#owned">
