@@ -31496,8 +31496,7 @@
                                         <date when="1649"/>
                                     </imprint>
                                 </monogr>
-                                <!-- <relatedItem type="jawalsh" target=""/> -->
-                                <!-- canurk: need help with the Greek title (will need sales catalogue). -->
+                                <relatedItem type="full-text" corresp="#tcp" target="http://name.umdl.umich.edu/A69969.0001.001"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb598">
@@ -32477,6 +32476,7 @@
                                         <measure unit="volumes" quantity="27"/>
                                     </extent>
                                 </monogr>
+                                <!-- jawalsh: I think this may refer to volumes of English drama by William Feales. See https://bit.ly/3ZRzQmt -->
                                 <!-- <relatedItem type="jawalsh" target=""/> -->
                                 <!-- canurk: Not enough information in title. -->
                             </biblStruct>
@@ -38327,13 +38327,7 @@
                                 <title>Strand Magazine, Temple Bar, Macmillan's Magazine, and other
                                     Magazines, in number</title>
                                 <note type="description">a quantity</note>
-                                <!-- <relatedItem n="1" type="jawalsh" target="https://hdl.handle.net/2027/nyp.33433088430602"/>  Strand Magazine -->
-                                <!-- <relatedItem n="2" type="jawalsh" target="https://hdl.handle.net/2027/coo.31924015133139"/>  Temple Bar -->
-                                <!-- <relatedItem n="3" type="jawalsh" target="https://hdl.handle.net/2027/uc1.$b676986"/>  Macmillan's Magazine -->
-                                <note resp="#jawalsh">HathiTrust and other digital libraries include
-                                    copies of these periodicals, but we have not included links
-                                    because the sales catalog does not state with volumes and issues
-                                    were in Swinburne's library.</note>
+                                <note resp="#jawalsh">HathiTrust and other digital libraries include copies of these periodicals, but we have not included links because the sales catalog does not state with volumes and issues were in Swinburne's library.</note>
                             </bibl>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb765">
