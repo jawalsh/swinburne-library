@@ -31496,7 +31496,7 @@
                                         <date when="1649"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="jawalsh" target=""/>
+                                <!-- <relatedItem type="jawalsh" target=""/> -->
                                 <!-- canurk: need help with the Greek title (will need sales catalogue). -->
                             </biblStruct>
                         </listBibl>
@@ -32477,7 +32477,7 @@
                                         <measure unit="volumes" quantity="27"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="jawalsh" target=""/>
+                                <!-- <relatedItem type="jawalsh" target=""/> -->
                                 <!-- canurk: Not enough information in title. -->
                             </biblStruct>
                         </listBibl>
