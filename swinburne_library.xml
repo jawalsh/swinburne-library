@@ -734,8 +734,8 @@
                         <birth when="1835"/>
                         <death when="1913"/>
                     </person>
-                    <!-- Should this id be changed? (it's missing an h) -->
-                    <person xml:id="baccylides">
+                    
+                    <person xml:id="bacchylides">
                         <persName source="http://id.loc.gov/authorities/names/n50058180"
                             >Bacchylides</persName>
                     </person>
@@ -2779,8 +2779,7 @@
                     <person xml:id="kropotkin">
                         <persName source="http://id.loc.gov/authorities/names/n79033037">Kropotkin,
                             Petr Alekseevich, kni︠a︡zʹ, 1842-1921</persName>
-                        <!-- Entry contains a liguature tie and another unidentified mark, 
-                            not sure how to encode. -->
+                        <!-- Entry contains a liguature ties for romanization of Russian name -->
                         <birth when="1842"/>
                         <death when="1921"/>
                     </person>
@@ -4284,11 +4283,6 @@
                         <birth when="1816"/>
                         <death when="1860"/>
                     </person>
-                    <person xml:id="smith_fsas">
-                        <!-- alewinga, unclear if this is necessary -->
-                        <persName source="http://id.loc.gov/authorities/names/no2008126194">Smith,
-                            William, F.S.A.S.</persName>
-                    </person>
                     <person xml:id="smith_h">
                         <persName source="http://id.loc.gov/authorities/names/n50014011">Smith,
                             Horace, 1779-1849</persName>
@@ -5216,6 +5210,9 @@
                         <orgName source="http://id.loc.gov/authorities/names/n79029235">Goupil &amp;
                             Cie</orgName>
                     </org>
+                    <org xml:id="grant_richards">
+                        <orgName source="http://id.loc.gov/authorities/names/nr2004015252">Grant Richards Ltd.</orgName>
+                    </org>
                     <org xml:id="griffith_farran_co">
                         <orgName source="http://id.loc.gov/authorities/names/no2006031121">Griffith,
                             Farran and Co.</orgName>
@@ -5635,6 +5632,9 @@
                     <org xml:id="societe_litteraire_typographique">
                         <orgName source="http://id.loc.gov/authorities/names/nb2018026122">Société
                             littéraire typographique</orgName>
+                    </org>
+                    <org xml:id="spck_tract">
+                        <orgName source="http://id.loc.gov/authorities/names/no2002106533">Society for Promoting Christian Knowledge (Great Britain). Tract Committee</orgName>
                     </org>
                     <org xml:id="spenser_society">
                         <orgName source="http://id.loc.gov/authorities/names/n80044799">Spenser
@@ -7043,10 +7043,9 @@
                                     <note type="description" corresp="#uncut">portrait and etchings,
                                         buckram, uncut, top edge gilt, royal 8vo</note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>Grant Richards</persName>
-                                        </publisher>
-                                        <!-- Difficult to determine LCNAF, if one exists. -->
+                                        <publisher corresp="#grant_richards">
+                                            <orgName>Grant Richards</orgName>
+                                        </publisher>                                    
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -7082,11 +7081,10 @@
                                         <num value="5"/>
                                     </note>
                                     <imprint>
-                                        <publisher>
+                                        <publisher corresp="#spck_tract">
                                             <orgName>Society for Promoting Christian
-                                                Knowledge</orgName>
-                                        </publisher>
-                                        <!-- Several LCNAFs exist for this organization. -->
+                                                Knowledge</orgName><!-- Tracts Committee specified on title page -->
+                                        </publisher>                                    
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1885"/>
                                     </imprint>
@@ -7442,7 +7440,7 @@
                                         <publisher>
                                             <orgName>The Imperial Press</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        <!-- No LCNAF or VIAF found. -->
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -7624,8 +7622,8 @@
                                             <orgName>J. &amp; J. March</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1720"/>
-                                        <!-- I think this was mistakenly noted as 1720 and should be 1770. ESTC lists no edition for 1720. -->
+                                        <date when="1770"/>
+                                        <!-- Mistakenly noted as 1720 and should be 1770. ESTC lists no edition for 1720. -->
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -8530,7 +8528,7 @@
                             <biblStruct corresp="#owned" xml:id="sb033.1">
                                 <monogr>
                                     <title>Poems from a Papyrus in the British Museum</title>
-                                    <author corresp="#baccylides">
+                                    <author corresp="#bacchylides">
                                         <persName>Bacchylides</persName>
                                     </author>
                                     <respStmt>
@@ -17507,10 +17505,10 @@
                                         with homage and gratitued from Richard le Gallienne, <date
                                             when="1900-08">August, 1900</date></note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>Grant Richards</persName>
+                                        <publisher corresp="#grant_richards">
+                                            <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1900"/>
                                     </imprint>
@@ -17635,10 +17633,10 @@
                                         <num value="8"/>
                                     </note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>Grant Richards</persName>
+                                        <publisher corresp="#grant_richards">
+                                            <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1903"/>
                                     </imprint>
@@ -23547,10 +23545,10 @@
                                     </author>
                                     <note type="description">illustrations</note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>Grant Richards</persName>
+                                        <publisher corresp="#grant_richards">
+                                            <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -46879,8 +46877,8 @@
                                     <note type="inscription">Theodore Watts-Dunton from A. C.
                                         Swinburne, <date when="1908-12-25"/>Xmas, 1908</note>
                                     <imprint>
-                                        <publisher>Grant Richards</publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        <publisher corresp="#grant_richards"><orgName>Grant Richards</orgName></publisher>
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
