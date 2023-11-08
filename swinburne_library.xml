@@ -7675,13 +7675,22 @@
                                         <date when="1609"/>
                                     </imprint>
                                     <extent>
-                                        <measure unit="volumes" quantity="3"/>
+                                        <measure unit="volumes" quantity="3"/><!-- seems that 6 volumes bound as 3. -->
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Lettere_di_M_Pietro_Aretino/iVlCAAAAcAAJ"/>
-                                <!-- This entry lists three volumes, but "Libri VI" looks like just one book –
-                                i.e. Volume 6. Should there be others? Maybe Volumes 4 - 6? -->
+                                <relatedItem n="1" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=71hCAAAAcAAJ"/>
+                                <relatedItem n="2" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=EFlCAAAAcAAJ"/>
+                                <relatedItem n="3" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=FxrtTP-2zRIC"/>
+                                <relatedItem n="4" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=YVlCAAAAcAAJ"/>
+                                <relatedItem n="5" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=c1lCAAAAcAAJ"/>
+                                <relatedItem n="6" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=iVlCAAAAcAAJ"/>
+                               
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb015">
@@ -7697,7 +7706,7 @@
                                         <publisher corresp="#vitali">
                                             <persName>Bernardino dei Vitali</persName>
                                         </publisher>
-                                        <!-- HTRC lists publisher as Bernardino dei Vitali, and USTC has a copy
+                                        <!-- HT lists publisher as Bernardino dei Vitali, and USTC has a copy
                                         from 1535 published by him as well.-->
                                         <pubPlace xml:lang="it" ref="#venice">Vinegia</pubPlace>
                                         <date when="1535"/>
@@ -7711,7 +7720,7 @@
                             <biblStruct corresp="#owned #top100" xml:id="sb016.1">
                                 <monogr>
                                     <title xml:lang="it">Sopposite Comediea</title>
-                                    <!-- Check spelling, research suggests Suppositi. -->
+                                    <!-- Title page says Comedia di Lodovico Ariosto intitolata li soppositi-->
                                     <author corresp="#ariosto">
                                         <persName>Ariosto, Lodovico</persName>
                                     </author>
@@ -7731,7 +7740,7 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
                                     target="https://www.google.com/books/edition/Comedia_intitolata_li_soppositi/PCheAAAAcAAJ"/>
-                                <!-- This appears to be the correct edition, assuming the spelling above is correct. -->
+                                
                                 <note type="provenance"
                                     target="https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99573636312205899"
                                     >University of Illinois Urbana-Champaign</note>
@@ -7814,7 +7823,7 @@
                                     target="https://hdl.handle.net/2027/coo.31924013543578"/>
                                 <note type="fulltext">HT copy lists author as G.F. (George Francis)
                                     Armstrong</note>
-                                <!-- Is this the correct copy? -->
+                                <!-- Is this the correct copy? --><!-- alewinga, stopped here in the comments. -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb018.4">
                                 <monogr>
