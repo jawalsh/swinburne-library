@@ -757,6 +757,10 @@
                         <birth when="1694"/>
                         <death when="1764"/>
                     </person>
+                    <person xml:id="bailliere">
+                        <persName source="http://viaf.org/viaf/211164105">Baillière, Paul 1851-19.</persName>
+                        <birth when="1851"/>
+                    </person>
                     <person xml:id="baily">
                         <persName source="http://id.loc.gov/authorities/names/n82070562">Baily,
                             James Thomas Herbert, 1865-1914</persName>
@@ -1291,6 +1295,11 @@
                             Thomas, 1795-1881</persName>
                         <birth when="1795"/>
                         <death when="1881"/>
+                    </person>
+                    <person xml:id="carpani">
+                        <persName source="http://viaf.org/viaf/69854660">Carpani, Giovanni Palamede, 1775-1857</persName>
+                        <birth when="1775"/>
+                        <death when="1857"/>
                     </person>
                     <person xml:id="carr_j">
                         <persName source="http://id.loc.gov/authorities/names/n82208050">Carr, J.
@@ -5273,6 +5282,9 @@
                         <orgName source="http://id.loc.gov/authorities/names/n88002745">Houghton,
                             Mifflin and Company</orgName>
                     </org>
+                    <org xml:id="hs_nichols">
+                        <orgName source="http://id.loc.gov/entities/providers/5d89304cc4b5e193b62eea550045b067">H. S. Nichols</orgName>
+                    </org>
                     <org xml:id="hunt_clarke">
                         <orgName source="http://id.loc.gov/authorities/names/nr2004005822">Hunt and
                             Clarke</orgName>
@@ -5296,6 +5308,9 @@
                     <org xml:id="indian_press">
                         <orgName source="http://id.loc.gov/authorities/names/no2002100455">Indian
                             Press (Allahabad, India)</orgName>
+                    </org>
+                    <org xml:id="p_jannet">
+                        <orgName source="http://id.loc.gov/entities/providers/73ce7056963daf0a4cbb41d35ccec2e6">P. Jannet</orgName>
                     </org>
                     <org xml:id="j_b_lippincott_company">
                         <orgName source="http://id.loc.gov/authorities/names/n80037020">J.B.
@@ -5629,6 +5644,9 @@
                         <orgName source="http://id.loc.gov/authorities/names/no2022002866">Società
                             tipografica de' classici italiani</orgName>
                     </org>
+                    <org xml:id="societe_francaise_dimprimerie">
+                        <orgName source="http://id.loc.gov/authorities/names/no2007087071">Société française d'imprimerie et de librairie</orgName>
+                    </org>
                     <org xml:id="societe_litteraire_typographique">
                         <orgName source="http://id.loc.gov/authorities/names/nb2018026122">Société
                             littéraire typographique</orgName>
@@ -5719,6 +5737,9 @@
                     <org xml:id="ward_lock_co">
                         <orgName source="http://id.loc.gov/authorities/names/n80036611">Ward, Lock
                             &amp; Co.</orgName>
+                    </org>
+                    <org xml:id="weidmannsche">
+                        <orgName source="http://id.loc.gov/authorities/names/n82163119">Weidmannsche Verlagsbuchhandlung</orgName>
                     </org>
                     <org xml:id="werner_company">
                         <orgName source="http://id.loc.gov/authorities/names/n2008078337">Werner
@@ -7823,7 +7844,7 @@
                                     target="https://hdl.handle.net/2027/coo.31924013543578"/>
                                 <note type="fulltext">HT copy lists author as G.F. (George Francis)
                                     Armstrong</note>
-                                <!-- Is this the correct copy? --><!-- alewinga, stopped here in the comments. -->
+                                <!-- Is this the correct copy? --><!-- alewinga, come back to this -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb018.4">
                                 <monogr>
@@ -7839,7 +7860,7 @@
                                     target="https://hdl.handle.net/2027/bc.ark:/13960/t9z06sm8p"/>
                                 <note type="fulltext">HT copy lists author as G.F. (George Francis)
                                     Armstrong</note>
-                                <!-- Is this the correct copy? -->
+                                <!-- Is this the correct copy? --><!-- alewinga, come back to this -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb018.5">
                                 <monogr>
@@ -7866,7 +7887,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb019">
-                            <!-- This lot's etc num is the same as the items in the lot. Use etc still? Occurs more than once following. -->
+                            <!-- This lot's etc num is the same as the items in the lot. Use etc still? Occurs more than once following. --><!-- alewinga, come back -->
                             <biblStruct corresp="#owned" xml:id="sb019.1">
                                 <monogr>
                                     <title>The Poets of Greece</title>
@@ -8295,13 +8316,12 @@
                                             <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1876"/>
+                                        <date when="1873"/><!-- date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876. -->
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc2.ark:/13960/t3125wb8m"/>
-                                <!-- This item and its HT record states it's the 5th edition, 
-                                    should be changed? -->
+                                    target="https://hdl.handle.net/2027/uc2.ark:/13960/t6930v399"/>
+
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb027.2">
                                 <monogr>
@@ -8339,7 +8359,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uva.x000310763"/>
                                 <!-- This item and its HT record states it's the 2nd edition, 
-                                    should be changed? -->
+                                    should be changed? --><!-- alewinga come back and check. Macmillan is 1875 and 2nd ed. first is 1869 and Smith, Elder, and Co -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb027.4">
                                 <monogr>
@@ -8562,9 +8582,9 @@
                                 <monogr>
                                     <title xml:lang="fr">Poètes Allemands et Poètes Anglais, avec
                                         une Preface de Gaston Deschamps</title>
-                                    <!-- No LCNAF found, but appears to be Paul Balliere (1851-19XX) -->
+                                   
                                     <author>
-                                        <persName>Bailliere, P.</persName>
+                                        <persName corresp="#bailliere">Bailliere, P.</persName>
                                     </author>
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy from the author to Swinburne, with
@@ -9115,9 +9135,7 @@
                                         <publisher corresp="#vanderauwera">
                                             <orgName>Typ. de C. Vanderauwera</orgName>
                                         </publisher>
-                                        <!-- Not sure if this is correct, pulled from HT catalog record.
-                                            Record also lists "chez tout les libraires," but this translates
-                                            to "at all booksellers."-->
+                                        
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -9426,11 +9444,11 @@
                                         très sincère, P. Berger, <date when="1907-06-11">11 Juin,
                                             1907</date></note>
                                     <imprint>
-                                        <publisher>
-                                            <orgName>Société franc̜aise d'imprimerie et de
+                                        <publisher corresp="#societe_francaise_dimprimerie">
+                                            <orgName>Société francaise d'imprimerie et de
                                                 librairie</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1907"/>
                                     </imprint>
@@ -9680,9 +9698,9 @@
                         <listBibl type="lot" xml:id="sb059">
                             <biblStruct corresp="#owned" xml:id="sb059.1">
                                 <monogr>
-                                    <title>His Life and Times, by Robert Robinson</title>
-                                    <author corresp="#bewick_t">
-                                        <persName>Bewick, T.</persName>
+                                    <title>Thomas Bewick His Life and Times</title>
+                                    <author corresp="#robinson">
+                                        <persName>Robert Robinson</persName><!-- Sotheby's cataloger mistook Thomas Bewick for the author. -->
                                     </author>
                                     <note type="description">portrait and illustrations, half calf;
                                         imperial 8vo.</note>
@@ -9728,10 +9746,10 @@
                                     </author>
                                     <note type="description">portrait</note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>H. S. Nichols</persName>
+                                        <publisher corresp="#hs_nichols">
+                                            <orgName>H. S. Nichols</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1896"/>
                                     </imprint>
@@ -9788,10 +9806,9 @@
                                         Francois publié avec des Notes par M. Viollet le Due</title>
                                     <note type="description">10 vol.</note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>P. Jannet</persName>
+                                        <publisher corresp="#p_jannet">
+                                            <orgName>P. Jannet</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1854"/>
                                     </imprint>
@@ -9825,8 +9842,8 @@
                                     <title xml:lang="fr">Saint-Amant: Oeuvres Complètes, accompaguée
                                         des Notes par Ch. L. Livet</title>
                                     <imprint>
-                                        <publisher>
-                                            <persName>P. Jannet</persName>
+                                        <publisher corresp="#p_jannet">
+                                            <orgName>P. Jannet</orgName>
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1855"/>
@@ -9848,8 +9865,8 @@
                                         <num value="13"/>
                                     </note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>P. Jannet</persName>
+                                        <publisher corresp="#p_jannet">
+                                            <orgName>P. Jannet</orgName>
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1856"/>
@@ -10894,7 +10911,7 @@
                                     </imprint>
                                     <extent><measure unit="volumes" quantity="8"/>I-IX, missing vol
                                         V</extent>
-                                    <!-- Check formatting. -->
+                                    
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.b3310827"/>
@@ -10914,7 +10931,6 @@
                                     target="https://hdl.handle.net/2027/uc1.b3310835"/>
                                 <note type="fulltext">HT has all vol available, but only acquired
                                     specified vol.</note>
-                                <!-- Check -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb088">
@@ -11970,10 +11986,9 @@
                                     <note type="description">2 vol. portrait, tree-calf gilt,
                                         marbled edges</note>
                                     <imprint>
-                                        <publisher>
-                                            <persName>Weidmann</persName>
+                                        <publisher corresp="#weidmannsche">
+                                            <orgName>Weidmann</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
                                         <pubPlace ref="#leipzig">Lipsia</pubPlace>
                                         <date when="1830"/>
                                     </imprint>
@@ -12639,8 +12654,7 @@
                                 <monogr>
                                     <title xml:lang="it">Vita di Benvenuto Cellini Orefice e
                                         Scultore Fiorentino</title>
-                                    <author><persName>Gio. Palamede Carpani</persName></author>
-                                    <!-- No LCNAF found. -->
+                                    <author corresp="#carpani"><persName>Gio. Palamede Carpani</persName></author>
                                     <note type="description">portrait, calf gilt</note>
                                     <imprint>
                                         <publisher
@@ -17863,7 +17877,7 @@
                                     <author>
                                         <persName>Armstrong, Walter</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    <!-- No LCNAF found. May be http://id.loc.gov/authorities/names/n85050011-->
                                     <note type="description">2 vol. in 1, illustrations, half
                                         morocco, gilt edges</note>
                                     <imprint>
@@ -18010,8 +18024,8 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb254.3">
                                 <monogr>
-                                    <title>Agripanda Tragedia</title>
-                                    <!-- Typo? Seems like it should be "Acripanda." -->
+                                    <title>Acripanda Tragedia</title>
+                                    <!-- Title from title page. Sotheby's has "Agripanda" -->
                                     <author corresp="#decio">
                                         <persName>Decis da Herte, Ant.</persName>
                                     </author>
@@ -18114,7 +18128,12 @@
                                         signature on title; also an Autograph Letter from Sidney C.
                                         Cockerell addressed to Mr. Swinburne.</note>
                                     <imprint>
-                                        <!-- Unsure of how to encode publisher. -->
+                                        <publisher>
+                                            <persName>Ioannes Donatus</persName>
+                                        </publisher>
+                                        <publisher>
+                                            <persName>Bernardidus de Iunctis</persName>
+                                        </publisher>
                                         <pubPlace ref="#florence">Florentiae</pubPlace>
                                         <date when="1613"/>
                                     </imprint>
@@ -18122,6 +18141,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31175029678219"/>
                             </biblStruct>
+                            <!-- alewinga, stopped here. -->
                         </listBibl>
                         <listBibl type="lot" xml:id="sb258">
                             <biblStruct corresp="#owned" xml:id="sb258.1">
