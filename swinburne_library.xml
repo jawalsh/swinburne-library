@@ -46,7 +46,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct xml:id="swinburne_auction_catalogue">
+                <biblStruct xml:id="sales-catalogue-swinburne">
                     <analytic>
                         <author>
                             <orgName full="yes">Sotheby, Wilkinson &amp; Hodge</orgName>
@@ -71,7 +71,7 @@
                     <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=XpVMAQAAMAAJ"/>
                     <note type="full-text">Google Books appears to be a digitized copy of the original catalogue, not the facsimile edition from which the original encoding was conducted.</note>
                 </biblStruct>
-                <biblStruct xml:id="watts-dunton_catalogue">
+                <biblStruct xml:id="sales-catalogue-watts-dunton">
                     <monogr>
                         <title>Catalogue of the Library of Walter Theodore Watts-Dutnon, Esq.</title>
                         <author><orgName>Sotheby, Wilkinson &amp; Hodge</orgName></author>
@@ -83,7 +83,7 @@
                     </monogr>
                     <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/umn.31951001988254v"/>
                 </biblStruct>
-                <biblStruct xml:id="best_hundred_books">
+                <biblStruct xml:id="best-hundred-books">
                     <analytic>
                         <title>The Best Hundred Books. By the Best Hundred Judges.—III. Mr. Swinburne</title>
                         <author><persName>A. C. Swinburne</persName></author>
@@ -102,7 +102,7 @@
                     <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b659691?urlappend=%3Bseq=17%3Bownerid=9007199272287826-21"/>
                     <note type="full-text">HT text is reprint of the original Pall Mall piece in a collection with others' "best hundred books" lists.</note>
                 </biblStruct>
-                <biblStruct>
+                <biblStruct xml:id="poetry">
                     <monogr>
                         <title>The Poems of Algernon Charles Swinburne</title>
                         <author>Algernon Charles Swinburne</author>
@@ -7084,7 +7084,7 @@
             </div>
         </front>
         <body>
-            <div source="sales-catalogue-swinburne">
+            <div source="#sales-catalogue-swinburne">
                 <div type="day" n="1" part="N" org="uniform" sample="complete">
                     <div type="size" n="octavo" part="N" org="uniform" sample="complete">
                         <listBibl type="lot" xml:id="sb001">
@@ -44572,7 +44572,7 @@
                 <!-- End of Day 3 -->
             </div>
 
-            <div source="sales-catalogue-watts-dunton">
+            <div source="#sales-catalogue-watts-dunton">
                 <div type="day" n="1">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd5">
@@ -47898,7 +47898,7 @@
                     </div>
                 </div>
             </div>
-            <div source="best-hundred-books">
+            <div source="#best-hundred-books">
                 <!-- books not owned by Swinburne/listed in Sotheby's or Watts-Dunton auctions but are associated with Swinburne and his reading through his top 100 list -->
                 <listBibl>
                     <!-- 17. Epictetus -->
@@ -48288,7 +48288,7 @@
                 </listBibl>
             </div>
 
-            <div source="poetry">
+            <div source="#poetry">
                 <bibl><title>Grandes Chroniques de France</title>1505.</bibl>
                 <!-- see USTC 6341. There are also 19th c. editions on HathiTrust -->
                 <bibl><author><persName>Sappho</persName></author></bibl>
