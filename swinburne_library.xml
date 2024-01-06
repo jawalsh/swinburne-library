@@ -18725,7 +18725,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb276">
-                            <biblStruct corresp="#owned" xml:id="sb276.1">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb276.1">
                                 <monogr>
                                     <title>Oresteia of Aeschylus, Greek Text, published by Emery
                                         Walker, S. C. Cockerell and A. W. Pollard</title>
@@ -48289,12 +48289,23 @@
             </div>
 
             <div source="#poetry">
-                <bibl><title>Grandes Chroniques de France</title>1505.</bibl>
-                <!-- see USTC 6341. There are also 19th c. editions on HathiTrust -->
-                <bibl><author><persName>Sappho</persName></author></bibl>
-                <!-- in Greek -->
+                <biblStruct>
+                    <analytic>
+                    <author><persName>Sappho</persName></author></analytic>
+                    <monogr><title>Poetae Lyrici Graeci</title>
+                    <editor>Theodorus Bergk</editor>
+                    <imprint>
+                        <pubPlace/>
+                        <publisher/>
+                        <date when="1854"/>      
+                    </imprint>
+                        <biblScope unit="page">664-702</biblScope>
+                    </monogr>
+                    <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
+                    <note type="full-text">Bergk's edition contains many poets, not just Sappho.</note>
+                </biblStruct>
                 <bibl><author><persName>Aeschylus</persName></author></bibl>
-                <!-- in Greek -->
+                <!-- in Greek, -->
                 <bibl><author><persName>Giacomo Leopardi</persName></author></bibl>
                 <!-- must include All'Italia -->
                 <bibl><author><persName>Euripedes</persName></author></bibl>
