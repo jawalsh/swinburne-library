@@ -9049,6 +9049,8 @@
                                 <monogr>
                                     <title xml:lang="fr">Tizelière et Decaux: Charles
                                         Baudelaire</title>
+                                    <author><persName>A. de la Fizelière</persName></author>
+                                    <author><persName>Georges Decaux</persName></author>
                                     <note type="description">half calf, marbled edges</note>
                                     <note type="etc">
                                         <num value="3"/>
@@ -9414,6 +9416,7 @@
                             <biblStruct corresp="#owned" xml:id="sb051.2">
                                 <monogr>
                                     <title xml:lang="la">Terentii De Lingua Latina</title>
+                                    <author corresp="#terence"><persName>Terentius</persName></author>
                                     <note type="description">vellum</note>
                                     <imprint>
                                         <publisher corresp="#luchino">
@@ -18725,10 +18728,11 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb276">
-                            <biblStruct corresp="#owned #referenced" xml:id="sb276.1">
+                            <biblStruct corresp="#owned #referenced #top100" xml:id="sb276.1">
                                 <monogr>
                                     <title>Oresteia of Aeschylus, Greek Text, published by Emery
                                         Walker, S. C. Cockerell and A. W. Pollard</title>
+                                    <author corresp="#aeschylus"><persName>Aeschylus</persName></author>
                                     <note type="description" corresp="#uncut">one of 225 copies,
                                         uncut, with inscription</note>
                                     <note type="inscription">To Algernon Charles Swinburne from
@@ -22262,10 +22266,12 @@
                                 <note type="fulltext">HT has 1860 copy; correct title with Greek and
                                     Latin text.</note>
                             </biblStruct>
-                            <biblStruct xml:id="sb367.3" corresp="#owned">
+                            <biblStruct xml:id="sb367.3" corresp="#owned #top100 #referenced">
                                 <monogr>
                                     <title>Aeschyli et Sophoclis Tragoediae et Fragementa, Gr. et
                                         Lat. cum Indicibus</title>
+                                    <author corresp="#aeschylus"><persName>Aeschylus</persName></author>
+                                    <author corresp="#sophocles"><persName>Sophocles</persName></author>
                                     <note type="description">half morocco, marbled edges, imperial
                                         8vo.</note>
                                     <note type="etc">
@@ -22885,8 +22891,8 @@
                                         <measure unit="volumes" quantity="10"/>
                                     </extent>
                                 </monogr>
-                                <note type="fulltext">HT has a copy, but it's the 12th volume? I'll
-                                    need help with this one.</note>
+                                <!--HT has a copy, but it's the 12th volume? I'll
+                                    need help with this one.-->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb384">
@@ -42964,7 +42970,7 @@
                                         <publisher corresp="#roxburghe_club">
                                             <orgName>Roxburghe Club</orgName>
                                         </publisher>
-                                        <!-- thomdaro: should these Roxburghe Club entries have them as publisher? -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1838"/>
                                     </imprint>
@@ -48304,8 +48310,6 @@
                     <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
                     <note type="full-text">Bergk's edition contains many poets, not just Sappho.</note>
                 </biblStruct>
-                <bibl><author><persName>Aeschylus</persName></author></bibl>
-                <!-- in Greek, -->
                 <bibl><author><persName>Giacomo Leopardi</persName></author></bibl>
                 <!-- must include All'Italia -->
                 <bibl><author><persName>Euripedes</persName></author></bibl>
