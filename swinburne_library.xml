@@ -46,7 +46,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <biblStruct>
+                <biblStruct xml:id="swinburne_auction_catalogue">
                     <analytic>
                         <author>
                             <orgName full="yes">Sotheby, Wilkinson &amp; Hodge</orgName>
@@ -64,8 +64,63 @@
                             <biblScope unit="volume">6</biblScope>
                             <biblScope unit="page">253-337</biblScope>
                         </imprint>
-                        <extent>5 vols.</extent>
+                        <extent>
+                            <measure unit="volumes" quantity="5"/>
+                        </extent>
                     </monogr>
+                    <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=XpVMAQAAMAAJ"/>
+                    <note type="full-text">Google Books appears to be a digitized copy of the original catalogue, not the facsimile edition from which the original encoding was conducted.</note>
+                </biblStruct>
+                <biblStruct xml:id="watts-dunton_catalogue">
+                    <monogr>
+                        <title>Catalogue of the Library of Walter Theodore Watts-Dutnon, Esq.</title>
+                        <author><orgName>Sotheby, Wilkinson &amp; Hodge</orgName></author>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>Dryden Press</publisher>
+                            <date when="1917"/>
+                        </imprint>
+                    </monogr>
+                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/umn.31951001988254v"/>
+                </biblStruct>
+                <biblStruct xml:id="best_hundred_books">
+                    <analytic>
+                        <title>The Best Hundred Books. By the Best Hundred Judges.—III. Mr. Swinburne</title>
+                        <author><persName>A. C. Swinburne</persName></author>
+                    </analytic>
+                    <monogr>
+                        <title>The Pall Mall Gazette. An Evening Newspaper and Review</title>
+                        <editor>William Thomas Stead</editor>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date when="1886-01-26"/>
+                            <biblScope unit="volume">XLIII</biblScope>
+                            <biblScope unit="number">6510</biblScope>
+                            <biblScope unit="page">1-2</biblScope>
+                        </imprint>
+                    </monogr>
+                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b659691?urlappend=%3Bseq=17%3Bownerid=9007199272287826-21"/>
+                    <note type="full-text">HT text is reprint of the original Pall Mall piece in a collection with others' "best hundred books" lists.</note>
+                </biblStruct>
+                <biblStruct>
+                    <monogr>
+                        <title>The Poems of Algernon Charles Swinburne</title>
+                        <author>Algernon Charles Swinburne</author>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>Chatto &amp; Windus</publisher>
+                            <date when="1904"/>
+                        </imprint>
+                        <extent>
+                            <measure unit="volumes" quantity="6"/>
+                        </extent>
+                    </monogr>
+                    <relatedItem n="1" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044090318023"/>
+                    <relatedItem n="2" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044058158858"/>
+                    <relatedItem n="3" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8ui"/>
+                    <relatedItem n="4" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044090318049"/>
+                    <relatedItem n="5" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8ul"/>
+                    <relatedItem n="6" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8tq"/>
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
@@ -4377,6 +4432,11 @@
                             Edmund Clarence, 1833-1908</persName>
                         <birth when="1833"/>
                         <death when="1908"/>
+                    </person>
+                    <person xml:id="stendhal">
+                        <persName source="http://id.loc.gov/authorities/names/n78095494">Stendhal, 1783-1842</persName>
+                        <birth when="1783"/>
+                        <death when="1842"/>
                     </person>
                     <person xml:id="stephen">
                         <persName source="http://id.loc.gov/authorities/names/n79114258">Stephen,
@@ -20934,10 +20994,11 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hx4vs5"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb332.2">
+                            <biblStruct corresp="#owned #top100" xml:id="sb332.2">
                                 <monogr>
                                     <title>De Stendhal: The Chartreuse of Parma, with Introduction
                                         by Maurice Hewlett</title>
+                                    <author corresp="#stendhal"><persName>De Stendhal</persName></author>
                                     <respStmt>
                                         <resp>translated by</resp>
                                         <name full="yes">Lady Mary Lloyd</name>
@@ -22297,7 +22358,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb369">
-                            <biblStruct corresp="#owned" xml:id="sb369.1">
+                            <biblStruct corresp="#owned #top100" xml:id="sb369.1">
                                 <monogr>
                                     <title>Comic Annual for 1832, '34, '35, '37, '38, and
                                         '42</title>
@@ -22335,7 +22396,7 @@
                                 <monogr>
                                     <title>Works, Comic and Serious, in Prose and Verse, with
                                         Notes</title>
-                                    <author corresp="#hood">
+                                    <author corresp="#hood #top100">
                                         <persName>Hood, T.</persName>
                                     </author>
                                     <respStmt>
@@ -34266,7 +34327,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb670">
-                            <biblStruct corresp="#owned" xml:id="sb670.1">
+                            <biblStruct corresp="#owned #top100" xml:id="sb670.1">
                                 <monogr>
                                     <title>Poems</title>
                                     <author corresp="#rossetti_dg">
@@ -34289,7 +34350,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb671">
-                            <biblStruct corresp="#owned" xml:id="sb671.1">
+                            <biblStruct corresp="#owned #top100" xml:id="sb671.1">
                                 <monogr>
                                     <title>Poems, with Memoir by F. Hüffer</title>
                                     <author corresp="#rossetti_dg">
@@ -34314,7 +34375,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb672">
-                            <biblStruct corresp="#owned" xml:id="sb672.1">
+                            <biblStruct corresp="#owned #top100" xml:id="sb672.1">
                                 <monogr>
                                     <title>Collected Works, edited with Preface and Notes by William
                                         M. Rossetti</title>
@@ -34393,7 +34454,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t3tt4q011"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb674.2">
+                            <biblStruct corresp="#owned #top100" xml:id="sb674.2">
                                 <monogr>
                                     <title>A Versified Autobiography, translated and supplmented by
                                         W. M. Rossetti</title>
@@ -41958,7 +42019,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/mdp.39015066674675"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb862.2">
+                            <biblStruct corresp="#owned #top100" xml:id="sb862.2">
                                 <monogr>
                                     <title>Poems</title>
                                     <author corresp="#hood">
@@ -42859,7 +42920,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb887">
-                            <biblStruct corresp="#owned" xml:id="sb887.1">
+                            <biblStruct corresp="#owned #top100" xml:id="sb887.1">
                                 <monogr>
                                     <title>Poems, edited, with Introduction and Notes by W. M.
                                         Rossetti</title>
@@ -43120,7 +43181,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiuc.8016616"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb893.2">
+                            <biblStruct corresp="#owned #top100" xml:id="sb893.2">
                                 <monogr>
                                     <title>The Blessed Damozel, with Introduction by W. M.
                                         Rossetti</title>
@@ -48206,6 +48267,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/hvd.32044019362045"/>
                     </biblStruct>
+                    
                     <!-- 100. Early English metrical romances...Wright -->
                     <biblStruct xml:id="wright_metrical" corresp="#top100">
                         <monogr>
