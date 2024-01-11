@@ -3,24 +3,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- example entry -->
-    <!--
-    <biblStruct xml:id="sb393.1">
-        <monogr>
-            <title>Men, Women and Books</title>
-            <author>Hunt, L.</author>
-            <note type="description">portrait, original cloth</note>
-            <edition>First Edition</edition>
-            <imprint>
-                <date when="1847"/>
-            </imprint>
-            <extent><measure unit="volumes" quantity="2"/></extent>
-        </monogr>
-        <relatedItem n="1" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044082496506"/>
-        <relatedItem n="2" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044019887306"/>
-        <note type="fulltext">HT copy is a different printing/year.</note>
-    </biblStruct>
-    -->
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -218,16 +200,6 @@
     </teiHeader>
     <text>
         <front>
-            <div part="N" org="uniform" sample="complete">
-                <head>Introduction</head>
-                <!-- start slipsum code -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel semper magna.
-                    Mauris molestie tempus dui, eget pretium nunc semper eget. Nulla porttitor justo
-                    eget vulputate viverra. In ac eros enim. Duis sed venenatis turpis. Nam sem
-                    arcu, euismod vel laoreet a, lobortis id enim. Nunc aliquet dolor vel quam
-                    pulvinar, sit amet porta lectus volutpat. In hac habitasse platea dictumst.</p>
-                <!-- end slipsum code -->
-            </div>
             <div>
                 <head>Glossary</head>
                 <list type="gloss">
@@ -501,7 +473,6 @@
                     </place>
                     <place source="http://vocab.getty.edu/page/tgn/7007567" xml:id="new_york">
                         <placeName type="preferred">New York</placeName>
-                        <!-- New York without "city" is the preferred name on TGN -->
                     </place>
                     <place source="http://vocab.getty.edu/page/tgn/7012026" xml:id="newcastle">
                         <placeName type="preferred">Newcastle upon Tyne</placeName>
@@ -600,11 +571,8 @@
                     </place>
                     <place source="http://vocab.getty.edu/page/tgn/7007302" xml:id="zurich">
                         <placeName type="preferred">Zurich</placeName>
-                    </place>
-                    <!--<place source="" xml:id="">
-                        <placeName type="preferred"></placeName>
-                    </place>-->
-                </listPlace>
+                    </place
+                 </listPlace>
             </div>
             <div n="authors">
                 <listPerson>
@@ -2414,7 +2382,7 @@
                     </person>
                     <person xml:id="hafiz">
                         <persName source="http://id.loc.gov/authorities/names/n79086812"
-                            >Ḥāfiẓ<!-- Hafiz with dots under h and z, alewinga -->, active 14th
+                            >Ḥāfiẓ, active 14th
                             century</persName>
                         <floruit from="1300" to="1399"/>
                     </person>
@@ -2843,7 +2811,6 @@
                     <person xml:id="kropotkin">
                         <persName source="http://id.loc.gov/authorities/names/n79033037">Kropotkin,
                             Petr Alekseevich, kni︠a︡zʹ, 1842-1921</persName>
-                        <!-- Entry contains a liguature ties for romanization of Russian name -->
                         <birth when="1842"/>
                         <death when="1921"/>
                     </person>
