@@ -16,11 +16,12 @@ More details about the project and the data will be included in a forthcoming da
 ## Contributors
 
 - [John A. Walsh](https://github.com/jawalsh/), Indiana University
-- [Caroline Nurkkala](https://github.com/Ordeyn), independent scholar
 - [Alexandra Wingate](https://github.com/aewingate), Indiana University
+- [Caroline Nurkkala](https://github.com/Ordeyn), independent scholar
 - [Alyssa Ollier](https://github.com/AlyssaMertka), Kentucky Historical Society
 - [Damien Thomas](https://github.com/thomdaro), Indiana University
 - [Jennifer Christie](https://github.com/jchristie01), Indiana University
+- [Evan Brandon](https://github.com/eobrandon99), Indiana University
 
 ## Acknowledgments
 
