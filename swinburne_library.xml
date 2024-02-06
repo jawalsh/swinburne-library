@@ -2622,6 +2622,9 @@
                         <birth when="1769"/>
                         <death when="1831"/>
                     </person>
+                    <person xml:id="horace">
+                        <persName source="http://id.loc.gov/authorities/names/n79081354">Horace</persName>
+                    </person>
                     <person xml:id="horne">
                         <persName source="http://id.loc.gov/authorities/names/n50030799">Horne, R.
                             H. (Richard H.), 1802-1884</persName>
@@ -28372,10 +28375,10 @@
                                     </extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b3288001"/>
+                                    target="https://hdl.handle.net/2027/hvd.hweyg1"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b3288002"/>
-                                <note type="fulltext">HT catalog record has 8 volumes, but extent
+                                    target="https://hdl.handle.net/2027/hvd.hweygt"/>
+                                <note type="fulltext">HT catalog record has 3 volumes, but extent
                                     only lists two, so I collected only the first two
                                     volumes.</note>
                             </biblStruct>
@@ -44666,7 +44669,7 @@
                 <div type="day" n="1">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd5">
-                            <biblStruct xml:id="wd5.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd5.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title xml:lang="latin">Tragoediae Superstites et deperditarum
                                         Fragments. ex recensione G. Dindorfii</title>
@@ -48379,15 +48382,14 @@
             </div>
 
             <div source="#poetry">
-                <biblStruct>
+                <biblStruct xml:id="sappho" corresp="#referenced">
                     <analytic>
                     <author><persName>Sappho</persName></author></analytic>
                     <monogr><title>Poetae Lyrici Graeci</title>
                     <editor>Theodorus Bergk</editor>
                     <imprint>
                         <pubPlace/>
-                        <publisher/>
-                        <date when="1854"/>      
+                        <publisher/>  
                     </imprint>
                         <biblScope unit="page">664-702</biblScope>
                     </monogr>
@@ -48398,10 +48400,9 @@
                 <!-- must include All'Italia -->
                 <bibl><author><persName>Euripedes</persName></author></bibl>
                 <!-- in Greek -->
-                <bibl><author><persName>Pindar</persName></author></bibl>
-                <!-- in Greek -->
+
                 <!-- Henry Arthur Bright -->
-                <biblStruct xml:id="bright_english_flower">
+                <biblStruct xml:id="bright_english_flower" corresp="#referenced">
                     <monogr>
                         <title>The English flower garden</title>
                         <author><persName>Bright, Henry Arthur</persName></author>
@@ -48416,7 +48417,7 @@
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/uc2.ark:/13960/t06w97b3v"/>
                 </biblStruct>
-                <biblStruct xml:id="bright_year_lancashire">
+                <biblStruct xml:id="bright_year_lancashire" corresp="#referenced">
                     <monogr>
                         <title>A year in a Lancashire garden</title>
                         <author><persName>Bright, Henry Arthur</persName></author>
@@ -48431,7 +48432,7 @@
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/uc2.ark:/13960/t7mp4x580"/>
                 </biblStruct>
-                <biblStruct xml:id="bright_warrington_academy">
+                <biblStruct xml:id="bright_warrington_academy" corresp="#referenced">
                     <monogr>
                         <title>A historical sketch of Warrington Academy</title>
                         <author><persName>Bright, Henry Arthur</persName></author>
@@ -48445,7 +48446,7 @@
                     </monogr>
                     <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044029063310"/>
                 </biblStruct>
-                <biblStruct xml:id="bright_free">
+                <biblStruct xml:id="bright_free" corresp="#referenced">
                     <monogr>
                         <title>Free blacks and slaves. Would immediate abolition be a
                             blessing?</title>
@@ -48458,6 +48459,22 @@
                     </monogr>
                     <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044021216858"/>
                 </biblStruct>
+                <bibl xml:id="horace_epodes" corresp="#referenced"><!-- Swinburne specifically cites poem X -->
+                        <title>Epodes</title>
+                        <author corresp="#horace"><persName>Horace</persName></author>
+                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044085200913"/>
+                </bibl>
+                <bibl xml:id="horace_satire-epistles" corresp="#referenced">
+                    <!-- Swinburne specifically cites the first epistle of the first book -->
+                    <title>The satires and epistles of Horace</title>
+                    <author corresp="#horace"><persName>Horace</persName></author>
+                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b293456"/>
+                </bibl>
+                <bibl xml:id="aristophanes_birds" corresp="#referenced">
+                    <title>The Birds</title>
+                    <author corresp="#aristophanes"><persName>Aristophanes</persName></author>
+                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uiug.30112023764837"/>
+                </bibl>
                 <!--                         
                     <biblStruct xml:id="" corresp="">
                         <monogr>
