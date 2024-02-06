@@ -571,7 +571,7 @@
                     </place>
                     <place source="http://vocab.getty.edu/page/tgn/7007302" xml:id="zurich">
                         <placeName type="preferred">Zurich</placeName>
-                    </place
+                    </place>
                  </listPlace>
             </div>
             <div n="authors">
@@ -22851,21 +22851,38 @@
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
-                                        <!-- I think this is a series published by A. Lemerre. 
-                                            They aren't numbered 1-10. see HathiTrust -->
+                                        <!-- Appears to be a series published by A. Lemerre. According to IU catalog, there are only 10 published in 1875 even if Lemerre published 31 overall. Have listed those 10 volumes in related items -->
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="10"/>
                                     </extent>
                                 </monogr>
-                                <!--HT has a copy, but it's the 12th volume? I'll
-                                    need help with this one.-->
+                                <!-- Odes et balladesl Les orientales, 2 vol -->
+                                <relatedItem n="1" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/inu.30000118163181"/>
+                                <relatedItem n="2" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/hvd.hwkcts"/>
+                                <!-- Les feuilles d'automne. Les chants du crépuscule -->
+                                <relatedItem n="3" type="full-text" corresp="#google" target="https://books.google.com/books?id=kM_d4EeNezUC"/>
+                                <!-- Les voix intérieures. Les rayons et les ombres. -->
+                                <relatedItem n="4" type="full-text" corresp="#google" target="https://books.google.com/books?id=hUAqh_M1uO4C"/>
+                                <!-- Les châtiments -->
+                                <relatedItem n="5" type="full-text" corresp="#google" target="https://books.google.com/books?id=QpHAbu6R74wC"/>
+                                <!-- Les contemplations., 2 vol -->
+                                <relatedItem n="6" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/chi.097229425"/>
+                                <relatedItem n="7" type="full-text" corresp="#google" target="https://books.google.com/books?id=vShe9WoKt0YC"/>
+                                <!-- La legende des siècles -->
+                                <relatedItem n="8" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/mdp.39015030362811"/>
+                                <!-- Les chansons des rues et des bois -->
+                                <relatedItem n="9" type="full-text" corresp="#google" target="https://books.google.com/books?id=vsob_zPKIJYC"/>
+                                <!-- L'année terrible -->
+                                <relatedItem n="10" type="full-text" corresp="#google" target="https://books.google.com/books?id=C_o3vwiKnecC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb384">
                             <biblStruct corresp="#owned #top100" xml:id="sb384.1">
                                 <monogr>
-                                    <title xml:lang="fr">OEvres Complètes</title>
+                                    <title xml:lang="fr">Œuvres Complètes</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
@@ -22878,7 +22895,7 @@
                                             <orgName>J. Hetzel &amp; Cie</orgName>
                                         </publisher>
                                         <publisher corresp="#quantin">
-                                            <orgName>Maison Quantin</orgName>
+                                            <orgName>A. Quantin &amp; Cie</orgName>
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <!-- Edition Hetzel Quantin -->
@@ -22888,8 +22905,108 @@
                                         <measure unit="volumes" quantity="48"/>
                                     </extent>
                                 </monogr>
+                                <!-- poetry 1 -->
                                 <relatedItem n="1" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4065090"/>
+                                    target="https://hdl.handle.net/2027/nyp.33433067317820"/>
+                                <relatedItem n="2" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067317838"/>
+                                <relatedItem n="3" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067317846"/>
+                                <relatedItem n="4" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067317853"/>
+                                <relatedItem n="5" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123322"/>
+                                <relatedItem n="6" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123330"/>
+                                <relatedItem n="7" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123348"/>
+                                <relatedItem n="8" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123355"/>
+                                <relatedItem n="9" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123363"/>
+                                <relatedItem n="10" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067317911"/>
+                                <relatedItem n="11" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uiug.30112114885566"/>
+                                <relatedItem n="12" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123397"/>
+                                <relatedItem n="13" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123405"/>
+                                <relatedItem n="14" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123413"/>
+                                <!-- auction entry says poetry 15 and 16 are lacking -->
+                                <!-- Philosophy I -->
+                                <relatedItem n="17" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123447"/>
+                                <relatedItem n="18" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123454"/>
+                                <!-- Drama I -->
+                                <relatedItem n="19" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123462"/>
+                                <relatedItem n="20" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123470"/>
+                                <relatedItem n="21" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123488"/>
+                                <relatedItem n="22" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123496"/>
+                                <relatedItem n="23" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123504"/>
+                                <!-- Roman I -->
+                                <relatedItem n="24" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123512"/>
+                                <relatedItem n="25" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123520"/>
+                                <relatedItem n="26" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123538"/>
+                                <relatedItem n="27" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123546"/>
+                                <relatedItem n="28" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123553"/>
+                                <relatedItem n="29" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123561"/>
+                                <relatedItem n="30" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123579"/>
+                                <relatedItem n="31" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123587"/>
+                                <relatedItem n="32" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123595"/>
+                                <relatedItem n="33" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067318232"/>
+                                <relatedItem n="34" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123611"/>
+                                <relatedItem n="35" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123629"/>
+                                <relatedItem n="36" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123637"/>
+                                <relatedItem n="37" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123645"/>
+                                <!-- History I -->
+                                <relatedItem n="38" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123652"/>
+                                <relatedItem n="39" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123660"/>
+                                <relatedItem n="40" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123678"/>
+                                <!-- Le Rhin I -->
+                                <relatedItem n="41" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uiug.30112114885830"/>
+                                <relatedItem n="42" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123694"/>
+                                <!-- Actes et paroles I -->
+                                <relatedItem n="43" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123702"/>
+                                <relatedItem n="44" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123710"/>
+                                <relatedItem n="45" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/nyp.33433067318075"/>
+                                <relatedItem n="46" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123736"/>
+                                <!-- Victor Hugo Raconte I -->
+                                <relatedItem n="47" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123744"/>
+                                <relatedItem n="48" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/uc1.a0001123751"/>
+
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb385">
