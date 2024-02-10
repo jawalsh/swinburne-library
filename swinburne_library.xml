@@ -7453,7 +7453,7 @@
                                     </author>
                                     <respStmt>
                                         <resp>Translated by</resp>
-                                        <persName full="yes">T. Bendyshe</persName>
+                                        <name full="yes">T. Bendyshe</name>
                                     </respStmt>
                                     <note type="description">plates</note>
                                     <note type="etc">
@@ -17881,7 +17881,7 @@
                         <listBibl type="lot" xml:id="sb249">
                             <biblStruct corresp="#owned" xml:id="sb249.1">
                                 <monogr>
-                                    <title>England's Parnassus, or The Choyest Flowers of our
+                                    <title>England's Parnassus, or The Choysest Flowers of our
                                         Moderne Poets</title>
                                     <author corresp="#allott">
                                         <persName>Allot, R.</persName>
@@ -44326,7 +44326,7 @@
                                     </author>
                                     <respStmt>
                                         <resp>translator</resp>
-                                        <persName>Thomas North</persName>
+                                        <name>Thomas North</name>
                                     </respStmt>
                                     <note type="description" corresp="#presentation">woodcut
                                         portraits, old russia broken. Presentation copy from William
@@ -47336,7 +47336,7 @@
                                             Bysshe</persName></author>
                                     <respStmt>
                                         <resp>contributor</resp>
-                                        <persName corresp="#browning_r">Robert Browning</persName>
+                                        <name><persName corresp="#browning_r">Robert Browning</persName></name>
                                     </respStmt>
                                     <note type="description">original cloth, Swinburne's copy, with
                                         his signature on the half title, with date May 13th,
@@ -48001,7 +48001,7 @@
                             <author corresp="#epictetus"><persName>Epictetus</persName></author>
                             <respStmt>
                                 <resp> Translator </resp>
-                                <persName>Elizabeth Carter</persName>
+                                <name>Elizabeth Carter</name>
                             </respStmt>
                             <imprint>
                                 <publisher>F.C. and J. Rivington</publisher>
@@ -48150,7 +48150,7 @@
                             <author><persName>Theocritus</persName></author>
                             <respStmt>
                                 <resp>Translator</resp>
-                                <persName>Calverly, Charles Stuart</persName>
+                                <name>Calverly, Charles Stuart</name>
                             </respStmt>
                             <imprint>
                                 <publisher>Deighton, Bell</publisher>
@@ -48180,7 +48180,7 @@
                             <title>The Story of Burnt Njal</title>
                             <respStmt>
                                 <resp>Translator</resp>
-                                <persName>George Webbe Dasent</persName>
+                                <name>George Webbe Dasent</name>
                             </respStmt>
                             <imprint>
                                 <publisher>Edmonston and Douglas</publisher>
@@ -48367,7 +48367,7 @@
                             <title>The Anglo-Norman metrical chronicle of Geoffrey Gaimar</title>
                             <respStmt>
                                 <resp>Edited by</resp>
-                                <persName corresp="#wright_t">Thomas Wright</persName>
+                                <name><persName corresp="#wright_t">Thomas Wright</persName></name>
                             </respStmt>
                             <imprint>
                                 <publisher>Caxton Society</publisher>
