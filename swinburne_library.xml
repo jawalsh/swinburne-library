@@ -10815,7 +10815,7 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hnawqr"/>
-                                <note type="fulltexgt">HT has 1903 is the closest year; IA has 1900,
+                                <note type="fulltext">HT has 1903 is the closest year; IA has 1900,
                                     but preference ot HT.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb085.3">
@@ -15685,7 +15685,7 @@
                                 </monogr>
                                 <relatedItem n="2" type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=V2VdAAAAcAAJ"/>
-                                <note type="fulltexr">Only Vol. 2 is available.</note>
+                                <note type="fulltext">Only Vol. 2 is available.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb199">
@@ -48394,7 +48394,7 @@
                         <biblScope unit="page">664-702</biblScope>
                     </monogr>
                     <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
-                    <note type="full-text">Bergk's edition contains many poets, not just Sappho.</note>
+                    <note type="fulltext">Bergk's edition contains many poets, not just Sappho.</note>
                 </biblStruct>
                 <bibl><author><persName>Giacomo Leopardi</persName></author></bibl>
                 <!-- must include All'Italia -->
