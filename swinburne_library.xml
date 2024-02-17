@@ -48480,27 +48480,21 @@
             </div>
 
             <div source="#poetry">
-                <biblStruct xml:id="sappho" corresp="#referenced">
-                    <analytic>
+                <bibl xml:id="sappho" corresp="#referenced">
+
                         <author><persName>Sappho</persName></author>
-                    </analytic>
-                    <monogr>
+
                         <title>Poetae Lyrici Graeci</title>
                         <respStmt>
                             <resp>edited by</resp>
                             <name><persName>Theodorus Bergk</persName></name>
                         </respStmt>
-                        <imprint>
-                            <pubPlace/>
-                            <publisher/>
-                        </imprint>
-                        <biblScope unit="page">664-702</biblScope>
-                    </monogr>
+
                     <relatedItem type="full-text" corresp="#google"
                         target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
                     <note type="fulltext">Bergk's edition contains many poets, not just
-                        Sappho.</note>
-                </biblStruct>
+                        Sappho, but this was the principal edition of Sappho at the time. See pp. 664-702</note>
+                </bibl>
 
 
                 <!-- Henry Arthur Bright -->
