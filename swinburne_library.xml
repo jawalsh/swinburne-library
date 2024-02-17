@@ -9328,6 +9328,7 @@
                                         <date from="1904" to="1908"/>
                                     </imprint>
                                     <biblScope unit="volume" from="I" to="III"/>
+                                    <extent><measure unit="volumes" quantity="3"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/umn.31951002354622s"/>
@@ -12015,7 +12016,10 @@
                                     <author corresp="#bruno">
                                         <persName>Bruno, G.</persName>
                                     </author>
-                                    <editor>A. Wagner</editor>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>
+                                    A. Wagner</persName></name></respStmt>
                                     <note type="description">2 vol. portrait, tree-calf gilt,
                                         marbled edges</note>
                                     <imprint>
@@ -12317,6 +12321,7 @@
                                         <date when="1835"/>
                                     </imprint>
                                     <biblScope unit="vol" from="1" to="2"/>
+                                    <extent><measure unit="volumes" quantity="2"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwpw6p"/>
@@ -13021,9 +13026,8 @@
                             <biblStruct corresp="#owned" xml:id="sb134.1">
                                 <monogr>
                                     <title>Carmina Mariana. Second Series</title>
-                                    <editor>
-                                        <persName>Orby Shipley</persName>
-                                    </editor>
+                                    <respStmt><resp>edited by</resp><name><persName>Orby Shipley</persName></name></respStmt>
+
                                     <imprint>
                                         <publisher corresp="#burns_oates">
                                             <orgName>Burns and Oates</orgName>
@@ -45972,7 +45976,7 @@
                                     <title>Tragical Reign of Selimus</title>
                                     <author corresp="#greene"><persName>Greene,
                                         R.</persName></author>
-                                    <editor>Grossart, A. B.</editor>
+                                    <respStmt><resp>edited by</resp><name><persName>Grossart, A. B.</persName></name></respStmt>
                                     <note type="description" corresp="#presentation">frontispiece,
                                         presentation copy with inscription in Swinburne's writing: </note>
                                     <note type="inscription">Walter Theodore Watts-Dunton from
@@ -46299,7 +46303,7 @@
                                     <title>Every Man in his Humour</title>
                                     <author corresp="#jonson"><persName>Jonson,
                                         Ben</persName></author>
-                                    <editor>Macneil Dixon, W.</editor>
+                                    <respStmt><resp>edited by</resp><name><persName>Macneil Dixon, W.</persName></name></respStmt>
                                     <note type="description" corresp="#presentation">portrait,
                                         presentation copy, with inscription in Swinburne's writing: </note>
                                     <note type="inscription">W.T. Watts-Dunton, from A.C.S.</note>
@@ -46318,7 +46322,7 @@
                                     <title>Nelson's Words and Deeds</title>
                                     <author corresp="#nelson"><persName>Nelson,
                                         Horatio</persName></author>
-                                    <editor corresp="#russell">Russell, W. Clark</editor>
+                                    <respStmt><resp>edited by</resp><name corresp="#russell"><persName>Russell, W. Clark</persName></name></respStmt>
                                     <note type="description" corresp="#presentation">presentation
                                         copy from Swinburne, with autograph inscription on
                                         half-title: </note>
@@ -46754,7 +46758,7 @@
                                 <monogr>
                                     <title>Lyrics from the Dramatists of the Elizabethan Age</title>
                                     <author/>
-                                    <editor>Bullen, A.H. (Arthur Henry)</editor>
+                                    <respStmt><resp>edited by</resp><name><persName>Bullen, A.H. (Arthur Henry)</persName></name></respStmt>
                                     <note type="description" corresp="#presentation #uncut">buckram,
                                         uncut, presentation copy with inscription in Swinburne's
                                         writing: </note>
@@ -46838,7 +46842,7 @@
                                         Alex. Dyce</title>
                                     <author corresp="#marlowe"><persName>Marlowe,
                                             Christopher</persName></author>
-                                    <editor>Dyce, Alexander</editor>
+                                    <respStmt><resp>edited by</resp><name><persName>Dyce, Alexander</persName></name></respStmt>
                                     <note type="description" corresp="#presentation">brown cloth,
                                         presentation copy from Swinburne with autograph inscription
                                         on half-title. This volume is extremely interesting as
@@ -48049,7 +48053,7 @@
                             <title>Astrophel and Stella </title>
                             <author corresp="#sidney_p1554"><persName>Sidney,
                                 Philip</persName></author>
-                            <editor corresp="#pollard">Pollard, Alfred</editor>
+                            <respStmt><resp>edited by</resp><name corresp="#pollard"><persName>Pollard, Alfred</persName></name></respStmt>
                             <imprint>
                                 <publisher>David Stott</publisher>
                                 <pubPlace ref="#london">London</pubPlace>
@@ -48386,7 +48390,7 @@
                     <analytic>
                     <author><persName>Sappho</persName></author></analytic>
                     <monogr><title>Poetae Lyrici Graeci</title>
-                    <editor>Theodorus Bergk</editor>
+                        <respStmt><resp>edited by</resp><name><persName>Theodorus Bergk</persName></name></respStmt>
                     <imprint>
                         <pubPlace/>
                         <publisher/>  
@@ -48673,7 +48677,7 @@
                     <monogr>
                         <title> The Shelley birthday book and calendar </title>
                         <author><persName>Shelley, Percy Bysshe</persName></author>
-                        <editor>Tutin, J.R.</editor>
+                        <respStmt><resp>edited by</resp><name><persName>Tutin, J.R.</persName></name></respStmt>
                         <note type="description">From William &amp; Mary catalog: " Bookplate
                             affixed to front pastedown: ACS ; From the library of Algernon Charles
                             Swinburne, The Pines, Putney Hill."</note>
@@ -48692,7 +48696,7 @@
                     <monogr>
                         <title>The Swisser </title>
                         <author><persName>Wilson, Arthur</persName></author>
-                        <editor> Feuillerat, Albert, 1874-1953</editor>
+                        <respStmt><resp>edited by</resp><name><persName>Feuillerat, Albert, 1874-1953</persName></name></respStmt>
                         <!-- technically "writer of introduction" -->
 
                         <note type="description">From William &amp; Mary catalog: "Auction label
@@ -48715,8 +48719,8 @@
                 <biblStruct xml:id="the_pageant" corresp="#presented_by">
                     <monogr>
                         <title>The Pageant</title>
-                        <editor>C. Hazelwood Shannon</editor>
-                        <editor>J.W. Gleeson</editor>
+                        <respStmt><resp>edited by</resp><name><persName>C. Hazelwood Shannon</persName></name></respStmt>
+                        <respStmt><resp>edited by</resp><name><persName>J.W. Gleeson</persName></name></respStmt>
                         <note type="description">Inscription from ACS to Alice Swinburne.</note>
                         <note type="inscription" corresp="#presentation">Alice Swinburne from her
                             affectionate brother Algernon Charles Swinburne <date when="1896-01-06"
@@ -48761,7 +48765,7 @@
                         <title> Torrent of Portugal. An English metrical romance. Now first
                             published from an unique manuscript of the fifteenth century, preserved
                             in the Chetham library at Manchester</title>
-                        <editor>James Orchard Halliwell</editor>
+                        <respStmt><resp>edited by</resp><name><persName>James Orchard Halliwell</persName></name></respStmt>
 
                         <note type="description">Original pebble-grain purple cloth; paper label on
                             spine. From the library of Algernon Charles Swinburne, with his
