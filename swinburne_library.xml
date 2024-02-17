@@ -50,12 +50,16 @@
                             <measure unit="volumes" quantity="5"/>
                         </extent>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=XpVMAQAAMAAJ"/>
-                    <note type="full-text">Google Books appears to be a digitized copy of the original catalogue, not the facsimile edition from which the original encoding was conducted.</note>
+                    <relatedItem type="full-text" corresp="#google"
+                        target="https://books.google.com/books?id=XpVMAQAAMAAJ"/>
+                    <note type="full-text">Google Books appears to be a digitized copy of the
+                        original catalogue, not the facsimile edition from which the original
+                        encoding was conducted.</note>
                 </biblStruct>
                 <biblStruct xml:id="sales-catalogue-watts-dunton">
                     <monogr>
-                        <title>Catalogue of the Library of Walter Theodore Watts-Dutnon, Esq.</title>
+                        <title>Catalogue of the Library of Walter Theodore Watts-Dutnon,
+                            Esq.</title>
                         <author><orgName>Sotheby, Wilkinson &amp; Hodge</orgName></author>
                         <imprint>
                             <pubPlace>London</pubPlace>
@@ -63,11 +67,13 @@
                             <date when="1917"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/umn.31951001988254v"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/umn.31951001988254v"/>
                 </biblStruct>
                 <biblStruct xml:id="best-hundred-books">
                     <analytic>
-                        <title>The Best Hundred Books. By the Best Hundred Judges.—III. Mr. Swinburne</title>
+                        <title>The Best Hundred Books. By the Best Hundred Judges.—III. Mr.
+                            Swinburne</title>
                         <author><persName>A. C. Swinburne</persName></author>
                     </analytic>
                     <monogr>
@@ -81,8 +87,10 @@
                             <biblScope unit="page">1-2</biblScope>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b659691?urlappend=%3Bseq=17%3Bownerid=9007199272287826-21"/>
-                    <note type="full-text">HT text is reprint of the original Pall Mall piece in a collection with others' "best hundred books" lists.</note>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/uc1.$b659691?urlappend=%3Bseq=17%3Bownerid=9007199272287826-21"/>
+                    <note type="full-text">HT text is reprint of the original Pall Mall piece in a
+                        collection with others' "best hundred books" lists.</note>
                 </biblStruct>
                 <biblStruct xml:id="poetry">
                     <monogr>
@@ -97,25 +105,31 @@
                             <measure unit="volumes" quantity="6"/>
                         </extent>
                     </monogr>
-                    <relatedItem n="1" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044090318023"/>
-                    <relatedItem n="2" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044058158858"/>
-                    <relatedItem n="3" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8ui"/>
-                    <relatedItem n="4" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044090318049"/>
-                    <relatedItem n="5" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8ul"/>
-                    <relatedItem n="6" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp8tq"/>
+                    <relatedItem n="1" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044090318023"/>
+                    <relatedItem n="2" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044058158858"/>
+                    <relatedItem n="3" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.hwp8ui"/>
+                    <relatedItem n="4" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044090318049"/>
+                    <relatedItem n="5" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.hwp8ul"/>
+                    <relatedItem n="6" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.hwp8tq"/>
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <classDecl>
-				<taxonomy xml:id="full-text">
+                <taxonomy xml:id="full-text">
                     <bibl>
                         <title>Full-Text Sources</title>
                     </bibl>
                     <category xml:id="ht">
                         <catDesc>HathiTrust Digital Library</catDesc>
                     </category>
-                    
+
                     <category xml:id="ia">
                         <catDesc>Internet Archive</catDesc>
                     </category>
@@ -134,11 +148,11 @@
                     <category xml:id="ra">
                         <catDesc>Rossetti Archive</catDesc>
                     </category>
-					<category xml:id="baylor">
-						<catDesc>Baylor University Libraries</catDesc>
-					</category>
+                    <category xml:id="baylor">
+                        <catDesc>Baylor University Libraries</catDesc>
+                    </category>
                 </taxonomy>
-				
+
                 <taxonomy xml:id="biblFeatures">
                     <bibl>
                         <title>Bibliographic Features</title>
@@ -572,7 +586,7 @@
                     <place source="http://vocab.getty.edu/page/tgn/7007302" xml:id="zurich">
                         <placeName type="preferred">Zurich</placeName>
                     </place>
-                 </listPlace>
+                </listPlace>
             </div>
             <div n="authors">
                 <listPerson>
@@ -757,7 +771,7 @@
                         <birth when="1835"/>
                         <death when="1913"/>
                     </person>
-                    
+
                     <person xml:id="bacchylides">
                         <persName source="http://id.loc.gov/authorities/names/n50058180"
                             >Bacchylides</persName>
@@ -781,7 +795,8 @@
                         <death when="1764"/>
                     </person>
                     <person xml:id="bailliere">
-                        <persName source="http://viaf.org/viaf/211164105">Baillière, Paul 1851-19.</persName>
+                        <persName source="http://viaf.org/viaf/211164105">Baillière, Paul
+                            1851-19.</persName>
                         <birth when="1851"/>
                     </person>
                     <person xml:id="baily">
@@ -1320,7 +1335,8 @@
                         <death when="1881"/>
                     </person>
                     <person xml:id="carpani">
-                        <persName source="http://viaf.org/viaf/69854660">Carpani, Giovanni Palamede, 1775-1857</persName>
+                        <persName source="http://viaf.org/viaf/69854660">Carpani, Giovanni Palamede,
+                            1775-1857</persName>
                         <birth when="1775"/>
                         <death when="1857"/>
                     </person>
@@ -2010,6 +2026,10 @@
                         <birth when="1636"/>
                         <death when="1691" cert="unknown"/>
                     </person>
+                    <person xml:id="euripides">
+                        <persName source="http://id.loc.gov/authorities/names/n79063679"
+                            >Euripides</persName>
+                    </person>
                     <person xml:id="eutropius">
                         <persName source="http://id.loc.gov/authorities/names/n85083031">Eutropius,
                             active 4th century</persName>
@@ -2381,9 +2401,8 @@
                         <death when="1907"/>
                     </person>
                     <person xml:id="hafiz">
-                        <persName source="http://id.loc.gov/authorities/names/n79086812"
-                            >Ḥāfiẓ, active 14th
-                            century</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n79086812">Ḥāfiẓ,
+                            active 14th century</persName>
                         <floruit from="1300" to="1399"/>
                     </person>
                     <person xml:id="haggard">
@@ -2623,7 +2642,8 @@
                         <death when="1831"/>
                     </person>
                     <person xml:id="horace">
-                        <persName source="http://id.loc.gov/authorities/names/n79081354">Horace</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n79081354"
+                            >Horace</persName>
                     </person>
                     <person xml:id="horne">
                         <persName source="http://id.loc.gov/authorities/names/n50030799">Horne, R.
@@ -4404,7 +4424,8 @@
                         <death when="1908"/>
                     </person>
                     <person xml:id="stendhal">
-                        <persName source="http://id.loc.gov/authorities/names/n78095494">Stendhal, 1783-1842</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n78095494">Stendhal,
+                            1783-1842</persName>
                         <birth when="1783"/>
                         <death when="1842"/>
                     </person>
@@ -5250,7 +5271,8 @@
                             Cie</orgName>
                     </org>
                     <org xml:id="grant_richards">
-                        <orgName source="http://id.loc.gov/authorities/names/nr2004015252">Grant Richards Ltd.</orgName>
+                        <orgName source="http://id.loc.gov/authorities/names/nr2004015252">Grant
+                            Richards Ltd.</orgName>
                     </org>
                     <org xml:id="griffith_farran_co">
                         <orgName source="http://id.loc.gov/authorities/names/no2006031121">Griffith,
@@ -5313,7 +5335,9 @@
                             Mifflin and Company</orgName>
                     </org>
                     <org xml:id="hs_nichols">
-                        <orgName source="http://id.loc.gov/entities/providers/5d89304cc4b5e193b62eea550045b067">H. S. Nichols</orgName>
+                        <orgName
+                            source="http://id.loc.gov/entities/providers/5d89304cc4b5e193b62eea550045b067"
+                            >H. S. Nichols</orgName>
                     </org>
                     <org xml:id="hunt_clarke">
                         <orgName source="http://id.loc.gov/authorities/names/nr2004005822">Hunt and
@@ -5340,7 +5364,9 @@
                             Press (Allahabad, India)</orgName>
                     </org>
                     <org xml:id="p_jannet">
-                        <orgName source="http://id.loc.gov/entities/providers/73ce7056963daf0a4cbb41d35ccec2e6">P. Jannet</orgName>
+                        <orgName
+                            source="http://id.loc.gov/entities/providers/73ce7056963daf0a4cbb41d35ccec2e6"
+                            >P. Jannet</orgName>
                     </org>
                     <org xml:id="j_b_lippincott_company">
                         <orgName source="http://id.loc.gov/authorities/names/n80037020">J.B.
@@ -5675,14 +5701,17 @@
                             tipografica de' classici italiani</orgName>
                     </org>
                     <org xml:id="societe_francaise_dimprimerie">
-                        <orgName source="http://id.loc.gov/authorities/names/no2007087071">Société française d'imprimerie et de librairie</orgName>
+                        <orgName source="http://id.loc.gov/authorities/names/no2007087071">Société
+                            française d'imprimerie et de librairie</orgName>
                     </org>
                     <org xml:id="societe_litteraire_typographique">
                         <orgName source="http://id.loc.gov/authorities/names/nb2018026122">Société
                             littéraire typographique</orgName>
                     </org>
                     <org xml:id="spck_tract">
-                        <orgName source="http://id.loc.gov/authorities/names/no2002106533">Society for Promoting Christian Knowledge (Great Britain). Tract Committee</orgName>
+                        <orgName source="http://id.loc.gov/authorities/names/no2002106533">Society
+                            for Promoting Christian Knowledge (Great Britain). Tract
+                            Committee</orgName>
                     </org>
                     <org xml:id="spenser_society">
                         <orgName source="http://id.loc.gov/authorities/names/n80044799">Spenser
@@ -5769,7 +5798,8 @@
                             &amp; Co.</orgName>
                     </org>
                     <org xml:id="weidmannsche">
-                        <orgName source="http://id.loc.gov/authorities/names/n82163119">Weidmannsche Verlagsbuchhandlung</orgName>
+                        <orgName source="http://id.loc.gov/authorities/names/n82163119">Weidmannsche
+                            Verlagsbuchhandlung</orgName>
                     </org>
                     <org xml:id="werner_company">
                         <orgName source="http://id.loc.gov/authorities/names/n2008078337">Werner
@@ -7096,7 +7126,7 @@
                                     <imprint>
                                         <publisher corresp="#grant_richards">
                                             <orgName>Grant Richards</orgName>
-                                        </publisher>                                    
+                                        </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -7135,7 +7165,7 @@
                                         <publisher corresp="#spck_tract">
                                             <orgName>Society for Promoting Christian
                                                 Knowledge</orgName><!-- Tracts Committee specified on title page -->
-                                        </publisher>                                    
+                                        </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1885"/>
                                     </imprint>
@@ -7528,9 +7558,12 @@
                             <biblStruct corresp="#owned" xml:id="sb010.3">
                                 <monogr>
                                     <title>Euripides, with English Commentary</title>
-                                    <author corresp="#paley">
-                                        <persName>Paley, F.A.</persName>
-                                    </author>
+                                    <author corresp="#euripides">Euripides </author>
+                                    <respStmt>
+                                        <resp> edited by</resp>
+                                        <name corresp="#paley"><persName>Paley,
+                                            F.A.</persName></name>
+                                    </respStmt>
                                     <note type="etc">
                                         <num value="12"/>
                                     </note>
@@ -7726,7 +7759,8 @@
                                         <date when="1609"/>
                                     </imprint>
                                     <extent>
-                                        <measure unit="volumes" quantity="3"/><!-- seems that 6 volumes bound as 3. -->
+                                        <measure unit="volumes" quantity="3"
+                                        /><!-- seems that 6 volumes bound as 3. -->
                                     </extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#google"
@@ -7741,7 +7775,7 @@
                                     target="https://books.google.com/books?id=c1lCAAAAcAAJ"/>
                                 <relatedItem n="6" type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=iVlCAAAAcAAJ"/>
-                               
+
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb015">
@@ -7791,7 +7825,7 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
                                     target="https://www.google.com/books/edition/Comedia_intitolata_li_soppositi/PCheAAAAcAAJ"/>
-                                
+
                                 <note type="provenance"
                                     target="https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99573636312205899"
                                     >University of Illinois Urbana-Champaign</note>
@@ -7874,7 +7908,8 @@
                                     target="https://hdl.handle.net/2027/coo.31924013543578"/>
                                 <note type="fulltext">HT copy lists author as G.F. (George Francis)
                                     Armstrong</note>
-                                <!-- Is this the correct copy? --><!-- alewinga, come back to this -->
+                                <!-- Is this the correct copy? -->
+                                <!-- alewinga, come back to this -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb018.4">
                                 <monogr>
@@ -7890,7 +7925,8 @@
                                     target="https://hdl.handle.net/2027/bc.ark:/13960/t9z06sm8p"/>
                                 <note type="fulltext">HT copy lists author as G.F. (George Francis)
                                     Armstrong</note>
-                                <!-- Is this the correct copy? --><!-- alewinga, come back to this -->
+                                <!-- Is this the correct copy? -->
+                                <!-- alewinga, come back to this -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb018.5">
                                 <monogr>
@@ -7917,7 +7953,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb019">
-                            <!-- This lot's etc num is the same as the items in the lot. Use etc still? Occurs more than once following. --><!-- alewinga, come back -->
+                            <!-- This lot's etc num is the same as the items in the lot. Use etc still? Occurs more than once following. -->
+                            <!-- alewinga, come back -->
                             <biblStruct corresp="#owned" xml:id="sb019.1">
                                 <monogr>
                                     <title>The Poets of Greece</title>
@@ -8346,7 +8383,8 @@
                                             <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1873"/><!-- date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876. -->
+                                        <date when="1873"/>
+                                        <!-- date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876. -->
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -8389,7 +8427,8 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uva.x000310763"/>
                                 <!-- This item and its HT record states it's the 2nd edition, 
-                                    should be changed? --><!-- alewinga come back and check. Macmillan is 1875 and 2nd ed. first is 1869 and Smith, Elder, and Co -->
+                                    should be changed? -->
+                                <!-- alewinga come back and check. Macmillan is 1875 and 2nd ed. first is 1869 and Smith, Elder, and Co -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb027.4">
                                 <monogr>
@@ -8612,7 +8651,7 @@
                                 <monogr>
                                     <title xml:lang="fr">Poètes Allemands et Poètes Anglais, avec
                                         une Preface de Gaston Deschamps</title>
-                                   
+
                                     <author>
                                         <persName corresp="#bailliere">Bailliere, P.</persName>
                                     </author>
@@ -9167,7 +9206,7 @@
                                         <publisher corresp="#vanderauwera">
                                             <orgName>Typ. de C. Vanderauwera</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -9387,7 +9426,8 @@
                             <biblStruct corresp="#owned" xml:id="sb051.2">
                                 <monogr>
                                     <title xml:lang="la">Terentii De Lingua Latina</title>
-                                    <author corresp="#terence"><persName>Terentius</persName></author>
+                                    <author corresp="#terence"
+                                        ><persName>Terentius</persName></author>
                                     <note type="description">vellum</note>
                                     <imprint>
                                         <publisher corresp="#luchino">
@@ -9482,7 +9522,7 @@
                                             <orgName>Société francaise d'imprimerie et de
                                                 librairie</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1907"/>
                                     </imprint>
@@ -9734,7 +9774,8 @@
                                 <monogr>
                                     <title>Thomas Bewick His Life and Times</title>
                                     <author corresp="#robinson">
-                                        <persName>Robert Robinson</persName><!-- Sotheby's cataloger mistook Thomas Bewick for the author. -->
+                                        <persName>Robert
+                                        Robinson</persName><!-- Sotheby's cataloger mistook Thomas Bewick for the author. -->
                                     </author>
                                     <note type="description">portrait and illustrations, half calf;
                                         imperial 8vo.</note>
@@ -9783,7 +9824,7 @@
                                         <publisher corresp="#hs_nichols">
                                             <orgName>H. S. Nichols</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1896"/>
                                     </imprint>
@@ -10945,7 +10986,7 @@
                                     </imprint>
                                     <extent><measure unit="volumes" quantity="8"/>I-IX, missing vol
                                         V</extent>
-                                    
+
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.b3310827"/>
@@ -12018,8 +12059,8 @@
                                     </author>
                                     <respStmt>
                                         <resp>edited by</resp>
-                                        <name><persName>
-                                    A. Wagner</persName></name></respStmt>
+                                        <name><persName> A. Wagner</persName></name>
+                                    </respStmt>
                                     <note type="description">2 vol. portrait, tree-calf gilt,
                                         marbled edges</note>
                                     <imprint>
@@ -12692,7 +12733,8 @@
                                 <monogr>
                                     <title xml:lang="it">Vita di Benvenuto Cellini Orefice e
                                         Scultore Fiorentino</title>
-                                    <author corresp="#carpani"><persName>Gio. Palamede Carpani</persName></author>
+                                    <author corresp="#carpani"><persName>Gio. Palamede
+                                            Carpani</persName></author>
                                     <note type="description">portrait, calf gilt</note>
                                     <imprint>
                                         <publisher
@@ -13026,7 +13068,10 @@
                             <biblStruct corresp="#owned" xml:id="sb134.1">
                                 <monogr>
                                     <title>Carmina Mariana. Second Series</title>
-                                    <respStmt><resp>edited by</resp><name><persName>Orby Shipley</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>Orby Shipley</persName></name>
+                                    </respStmt>
 
                                     <imprint>
                                         <publisher corresp="#burns_oates">
@@ -17568,7 +17613,7 @@
                                         <publisher corresp="#grant_richards">
                                             <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1900"/>
                                     </imprint>
@@ -17696,7 +17741,7 @@
                                         <publisher corresp="#grant_richards">
                                             <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1903"/>
                                     </imprint>
@@ -18706,7 +18751,8 @@
                                 <monogr>
                                     <title>Oresteia of Aeschylus, Greek Text, published by Emery
                                         Walker, S. C. Cockerell and A. W. Pollard</title>
-                                    <author corresp="#aeschylus"><persName>Aeschylus</persName></author>
+                                    <author corresp="#aeschylus"
+                                        ><persName>Aeschylus</persName></author>
                                     <note type="description" corresp="#uncut">one of 225 copies,
                                         uncut, with inscription</note>
                                     <note type="inscription">To Algernon Charles Swinburne from
@@ -20976,7 +21022,8 @@
                                 <monogr>
                                     <title>De Stendhal: The Chartreuse of Parma, with Introduction
                                         by Maurice Hewlett</title>
-                                    <author corresp="#stendhal"><persName>De Stendhal</persName></author>
+                                    <author corresp="#stendhal"><persName>De
+                                        Stendhal</persName></author>
                                     <respStmt>
                                         <resp>translated by</resp>
                                         <name full="yes">Lady Mary Lloyd</name>
@@ -22244,8 +22291,10 @@
                                 <monogr>
                                     <title>Aeschyli et Sophoclis Tragoediae et Fragementa, Gr. et
                                         Lat. cum Indicibus</title>
-                                    <author corresp="#aeschylus"><persName>Aeschylus</persName></author>
-                                    <author corresp="#sophocles"><persName>Sophocles</persName></author>
+                                    <author corresp="#aeschylus"
+                                        ><persName>Aeschylus</persName></author>
+                                    <author corresp="#sophocles"
+                                        ><persName>Sophocles</persName></author>
                                     <note type="description">half morocco, marbled edges, imperial
                                         8vo.</note>
                                     <note type="etc">
@@ -22849,7 +22898,7 @@
                         <listBibl type="lot" xml:id="sb383">
                             <biblStruct corresp="#owned #top100" xml:id="sb383.1">
                                 <monogr>
-                                    <title>OEvres</title>
+                                    <title>Œuvres</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
@@ -22870,20 +22919,28 @@
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwkcts"/>
                                 <!-- Les feuilles d'automne. Les chants du crépuscule -->
-                                <relatedItem n="3" type="full-text" corresp="#google" target="https://books.google.com/books?id=kM_d4EeNezUC"/>
+                                <relatedItem n="3" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=kM_d4EeNezUC"/>
                                 <!-- Les voix intérieures. Les rayons et les ombres. -->
-                                <relatedItem n="4" type="full-text" corresp="#google" target="https://books.google.com/books?id=hUAqh_M1uO4C"/>
+                                <relatedItem n="4" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=hUAqh_M1uO4C"/>
                                 <!-- Les châtiments -->
-                                <relatedItem n="5" type="full-text" corresp="#google" target="https://books.google.com/books?id=QpHAbu6R74wC"/>
+                                <relatedItem n="5" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=QpHAbu6R74wC"/>
                                 <!-- Les contemplations., 2 vol -->
-                                <relatedItem n="6" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/chi.097229425"/>
-                                <relatedItem n="7" type="full-text" corresp="#google" target="https://books.google.com/books?id=vShe9WoKt0YC"/>
+                                <relatedItem n="6" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/chi.097229425"/>
+                                <relatedItem n="7" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=vShe9WoKt0YC"/>
                                 <!-- La legende des siècles -->
-                                <relatedItem n="8" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/mdp.39015030362811"/>
+                                <relatedItem n="8" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/mdp.39015030362811"/>
                                 <!-- Les chansons des rues et des bois -->
-                                <relatedItem n="9" type="full-text" corresp="#google" target="https://books.google.com/books?id=vsob_zPKIJYC"/>
+                                <relatedItem n="9" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=vsob_zPKIJYC"/>
                                 <!-- L'année terrible -->
-                                <relatedItem n="10" type="full-text" corresp="#google" target="https://books.google.com/books?id=C_o3vwiKnecC"/>
+                                <relatedItem n="10" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=C_o3vwiKnecC"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb384">
@@ -23019,7 +23076,7 @@
                         <listBibl type="lot" xml:id="sb385">
                             <biblStruct corresp="#owned #top100" xml:id="sb385.1">
                                 <monogr>
-                                    <title>OEvres, Poésie XIII</title>
+                                    <title>Œuvres, Poésie XIII</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
@@ -23735,7 +23792,7 @@
                                         <publisher corresp="#grant_richards">
                                             <orgName>Grant Richards</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -25178,13 +25235,20 @@
                                 <relatedItem type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=4zdcAAAAcAAJ"/>
                             </biblStruct>
-                            <bibl xml:id="sb440.2" corresp="#owned #top100">
-                                <title>Anthony and Octavius</title>
-                                <author corresp="#landor_w">
-                                    <persName>Landor, W. S.</persName>
-                                </author>
-                                <date when="1858"/>
-                            </bibl>
+                            <biblStruct xml:id="sb440.2" corresp="#owned #top100">
+                                <monogr>
+                                    <title>Antony and Octavius</title>
+                                    <author corresp="#landor_w">
+                                        <persName>Landor, W. S.</persName>
+                                    </author>
+                                    <imprint>
+                                        <publisher corresp="#bradbury_evans">Bradbury &amp; Evans</publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
+                                        <date when="1856"/>
+                                    </imprint>
+                                </monogr>
+                                <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/loc.ark:/13960/t6zw2rf2r"/>
+                            </biblStruct>
                             <biblStruct corresp="#owned #top100" xml:id="sb440.3">
                                 <monogr>
                                     <title>Hellenics, comprising Heroic Idylls, etc.</title>
@@ -31681,7 +31745,8 @@
                                         <date when="1649"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#tcp" target="http://name.umdl.umich.edu/A69969.0001.001"/>
+                                <relatedItem type="full-text" corresp="#tcp"
+                                    target="http://name.umdl.umich.edu/A69969.0001.001"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb598">
@@ -38512,7 +38577,10 @@
                                 <title>Strand Magazine, Temple Bar, Macmillan's Magazine, and other
                                     Magazines, in number</title>
                                 <note type="description">a quantity</note>
-                                <note resp="#jawalsh">HathiTrust and other digital libraries include copies of these periodicals, but we have not included links because the sales catalog does not state with volumes and issues were in Swinburne's library.</note>
+                                <note resp="#jawalsh">HathiTrust and other digital libraries include
+                                    copies of these periodicals, but we have not included links
+                                    because the sales catalog does not state with volumes and issues
+                                    were in Swinburne's library.</note>
                             </bibl>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb765">
@@ -41775,8 +41843,7 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/umn.31951001992658v"/>
-                                <note type="provenance" target="https://lccn.loc.gov/43036871"
-                                    >
+                                <note type="provenance" target="https://lccn.loc.gov/43036871">
                                     Library of Congress, PS3219 .A1 1871</note>
                             </biblStruct>
                         </listBibl>
@@ -43061,7 +43128,7 @@
                                         <publisher corresp="#roxburghe_club">
                                             <orgName>Roxburghe Club</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1838"/>
                                     </imprint>
@@ -43649,8 +43716,7 @@
                                 <monogr>
                                     <title xml:lang="la">Opera Omnia Gr. et Lat. cum Notis R. F. Ph.
                                         Brunck</title>
-                                    <author corresp="#sophocles"
-                                        >
+                                    <author corresp="#sophocles">
                                         <persName>Sophocles</persName>
                                     </author>
                                     <note type="description">old blue morocco, gilt edges</note>
@@ -44267,8 +44333,7 @@
                             <biblStruct corresp="#owned" xml:id="sb927.1">
                                 <monogr>
                                     <title xml:lang="it">Rime di Francesco Petrarca</title>
-                                    <author corresp="#petrarca"
-                                        >
+                                    <author corresp="#petrarca">
                                         <persName>Petrarch</persName>
                                     </author>
                                     <note type="description">portrait, half vellum, Pisa della
@@ -44324,8 +44389,7 @@
                                 <monogr>
                                     <title>Lives of the Noble Grecians and Romanes, translated into
                                         French bu J. Amiot, and into English by Thos. North</title>
-                                    <author corresp="#plutarch"
-                                        >
+                                    <author corresp="#plutarch">
                                         <persName>Plutarch</persName>
                                     </author>
                                     <respStmt>
@@ -44352,8 +44416,7 @@
                                 <monogr>
                                     <title xml:lang="fr">Les Vies des Hommes Illustres, Grecs et
                                         Romains, translatees en Francois par J. Amiot</title>
-                                    <author corresp="#plutarch"
-                                        >
+                                    <author corresp="#plutarch">
                                         <persName>Plutarch</persName>
                                     </author>
                                     <note type="description">calf</note>
@@ -44376,8 +44439,7 @@
                             <biblStruct corresp="#owned" xml:id="sb929.2">
                                 <monogr>
                                     <title>Les Oeuvres Morales, transltees par J. Amiot</title>
-                                    <author corresp="#plutarch"
-                                        >
+                                    <author corresp="#plutarch">
                                         <persName>Plutarch</persName>
                                     </author>
                                     <note type="description">old calf, title in facsimile</note>
@@ -44477,8 +44539,7 @@
                             <biblStruct corresp="#owned" xml:id="sb933.1">
                                 <monogr>
                                     <title>Opera</title>
-                                    <author corresp="#sallust"
-                                        >
+                                    <author corresp="#sallust">
                                         <persName>Sallustius</persName>
                                     </author>
                                     <note type="description">engraved title and woodcuts,
@@ -44597,8 +44658,7 @@
                                 <monogr>
                                     <title xml:lang="fr">Le Grant Therece en Francoys tat en Rime
                                         que en Prose, nouvellement imprime à Paris</title>
-                                    <author corresp="#terence"
-                                        >
+                                    <author corresp="#terence">
                                         <persName>Terentius</persName>
                                     </author>
                                     <note type="description" corresp="#presentation">lettres
@@ -44673,12 +44733,14 @@
                 <div type="day" n="1">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd5">
-                            <biblStruct xml:id="wd5.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd5.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title xml:lang="latin">Tragoediae Superstites et deperditarum
                                         Fragments. ex recensione G. Dindorfii</title>
-                                    <author corresp="#aeschylus"
-                                        ><persName>Aeschylus</persName></author>
+                                    <author corresp="#euripides"
+                                        ><persName>Euripides</persName></author>
+                                    <!-- auction catalog incorrectly identifies author as Aeschylus -->
                                     <note type="description" corresp="#presentation">vellum,
                                         presentation copy from Swinburne, with autograph
                                         inscription.</note>
@@ -45976,7 +46038,10 @@
                                     <title>Tragical Reign of Selimus</title>
                                     <author corresp="#greene"><persName>Greene,
                                         R.</persName></author>
-                                    <respStmt><resp>edited by</resp><name><persName>Grossart, A. B.</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>Grossart, A. B.</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#presentation">frontispiece,
                                         presentation copy with inscription in Swinburne's writing: </note>
                                     <note type="inscription">Walter Theodore Watts-Dunton from
@@ -46303,7 +46368,10 @@
                                     <title>Every Man in his Humour</title>
                                     <author corresp="#jonson"><persName>Jonson,
                                         Ben</persName></author>
-                                    <respStmt><resp>edited by</resp><name><persName>Macneil Dixon, W.</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>Macneil Dixon, W.</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#presentation">portrait,
                                         presentation copy, with inscription in Swinburne's writing: </note>
                                     <note type="inscription">W.T. Watts-Dunton, from A.C.S.</note>
@@ -46322,7 +46390,11 @@
                                     <title>Nelson's Words and Deeds</title>
                                     <author corresp="#nelson"><persName>Nelson,
                                         Horatio</persName></author>
-                                    <respStmt><resp>edited by</resp><name corresp="#russell"><persName>Russell, W. Clark</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name corresp="#russell"><persName>Russell, W.
+                                                Clark</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#presentation">presentation
                                         copy from Swinburne, with autograph inscription on
                                         half-title: </note>
@@ -46457,12 +46529,14 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd542">
-                            <biblStruct xml:id="wd542.2" corresp="#presented_by #signed #top100">
+                            <biblStruct xml:id="wd542.2" corresp="#presented_by #signed">
                                 <monogr>
-                                    <title>Merry Devil of Edmonton, edited with Notes, etc. by H.
-                                        Walker</title>
-                                    <author corresp="#landor_w"><persName>Landor, W.
-                                        S.</persName></author>
+                                    <title>Merry Devil of Edmonton</title>
+                                    <respStmt>
+                                        <resp>edited with Notes, etc. by</resp>
+                                        <name><persName>Hugh
+                                            Walker</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#uncut #presentation"
                                         >frontispiece, uncut, presentation copy from Swinburne,
                                         written on half-title in pencil.</note>
@@ -46758,7 +46832,11 @@
                                 <monogr>
                                     <title>Lyrics from the Dramatists of the Elizabethan Age</title>
                                     <author/>
-                                    <respStmt><resp>edited by</resp><name><persName>Bullen, A.H. (Arthur Henry)</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>Bullen, A.H. (Arthur
+                                            Henry)</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#presentation #uncut">buckram,
                                         uncut, presentation copy with inscription in Swinburne's
                                         writing: </note>
@@ -46842,7 +46920,10 @@
                                         Alex. Dyce</title>
                                     <author corresp="#marlowe"><persName>Marlowe,
                                             Christopher</persName></author>
-                                    <respStmt><resp>edited by</resp><name><persName>Dyce, Alexander</persName></name></respStmt>
+                                    <respStmt>
+                                        <resp>edited by</resp>
+                                        <name><persName>Dyce, Alexander</persName></name>
+                                    </respStmt>
                                     <note type="description" corresp="#presentation">brown cloth,
                                         presentation copy from Swinburne with autograph inscription
                                         on half-title. This volume is extremely interesting as
@@ -47064,8 +47145,9 @@
                                     <note type="inscription">Theodore Watts-Dunton from A. C.
                                         Swinburne, <date when="1908-12-25"/>Xmas, 1908</note>
                                     <imprint>
-                                        <publisher corresp="#grant_richards"><orgName>Grant Richards</orgName></publisher>
-                                        
+                                        <publisher corresp="#grant_richards"><orgName>Grant
+                                                Richards</orgName></publisher>
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -47340,7 +47422,8 @@
                                             Bysshe</persName></author>
                                     <respStmt>
                                         <resp>contributor</resp>
-                                        <name><persName corresp="#browning_r">Robert Browning</persName></name>
+                                        <name><persName corresp="#browning_r">Robert
+                                                Browning</persName></name>
                                     </respStmt>
                                     <note type="description">original cloth, Swinburne's copy, with
                                         his signature on the half title, with date May 13th,
@@ -48019,7 +48102,7 @@
                         <relatedItem n="2" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/msu.31293100715691"/>
                     </biblStruct>
-                    <biblStruct xml:id="epictetus_works_grc" corresp="#top100">
+                    <biblStruct xml:id="epictetus_works_grc" corresp="#top100 #referenced">
                         <monogr>
                             <title>Epiktētou Encheiridion</title>
                             <author corresp="#epictetus"><persName>Epictetus</persName></author>
@@ -48029,8 +48112,8 @@
                                 <date when="1826"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/nnc1.0023551852"
-                        />
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/nnc1.0023551852"/>
                     </biblStruct>
                     <!-- 19. Rubaiyat of Omar Khayyam (Fitzgerald's 1st version, 1859) -->
                     <!-- There are other editions of the Rubaiyat in the corpus, but they are not the 1859 edition specified in Swinburne's top100 list. -->
@@ -48053,7 +48136,10 @@
                             <title>Astrophel and Stella </title>
                             <author corresp="#sidney_p1554"><persName>Sidney,
                                 Philip</persName></author>
-                            <respStmt><resp>edited by</resp><name corresp="#pollard"><persName>Pollard, Alfred</persName></name></respStmt>
+                            <respStmt>
+                                <resp>edited by</resp>
+                                <name corresp="#pollard"><persName>Pollard, Alfred</persName></name>
+                            </respStmt>
                             <imprint>
                                 <publisher>David Stott</publisher>
                                 <pubPlace ref="#london">London</pubPlace>
@@ -48105,7 +48191,8 @@
                                 <date when="1849"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwp4kn"/>
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hwp4kn"/>
                     </biblStruct>
                     <biblStruct xml:id="byron_vision" corresp="#top100">
                         <monogr>
@@ -48117,7 +48204,8 @@
                                 <date when="1830"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.b3578921"/>
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/uc1.b3578921"/>
                     </biblStruct>
                     <!-- 42. Swift [select works of] -->
                     <!-- Swinburne Letters index has "A Longitude Discover'd" under Swift, but apparently that is an erroneous attribution. -->
@@ -48209,8 +48297,8 @@
                                 <date when="1872"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/nnc1.1001324551"
-                        />
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/nnc1.1001324551"/>
                     </biblStruct>
                     <!-- 69. Butler, excerpts from Hudibras and Remains -->
                     <biblStruct xml:id="butler_hudibras" corresp="#top100">
@@ -48264,8 +48352,8 @@
                                 <date when="1613"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#tcp" target="http://name.umdl.umich.edu/A15623.0001.001"
-                        />
+                        <relatedItem type="full-text" corresp="#tcp"
+                            target="http://name.umdl.umich.edu/A15623.0001.001"/>
                     </biblStruct>
                     <biblStruct xml:id="wither_motto" corresp="#top100">
                         <monogr>
@@ -48277,7 +48365,8 @@
                                 <date when="1814"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b287641"/>
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/uc1.$b287641"/>
                     </biblStruct>
                     <biblStruct xml:id="wither_poems" corresp="#top100">
                         <monogr>
@@ -48290,11 +48379,14 @@
                             </imprint>
                             <extent><measure unit="volumes" quantity="4"/></extent>
                         </monogr>
-                        <relatedItem n="1" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwexdw"/>
-                        <relatedItem n="2" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwexdx"/>
-                        <relatedItem n="3" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwexdy"/>
-                        <relatedItem n="4" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwexdz"
-                        />
+                        <relatedItem n="1" type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hwexdw"/>
+                        <relatedItem n="2" type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hwexdx"/>
+                        <relatedItem n="3" type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hwexdy"/>
+                        <relatedItem n="4" type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hwexdz"/>
                     </biblStruct>
 
                     <!-- 81. La Fontaine [select works of] -->
@@ -48321,7 +48413,8 @@
                                 <date when="1883"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hnt41i"/>
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/hvd.hnt41i"/>
                     </biblStruct>
                     <!-- 84. Chamfort (Maxims) -->
                     <biblStruct xml:id="chamfort_maxims" corresp="#top100">
@@ -48335,7 +48428,8 @@
                                 <date when="1860"/>
                             </imprint>
                         </monogr>
-                        <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uva.x001175292"/>
+                        <relatedItem type="full-text" corresp="#ht"
+                            target="https://hdl.handle.net/2027/uva.x001175292"/>
                     </biblStruct>
                     <!-- 85. Beaumarchais [select works of] -->
                     <biblStruct xml:id="beaumarchais_seville" corresp="#top100">
@@ -48364,7 +48458,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/hvd.32044019362045"/>
                     </biblStruct>
-                    
+
                     <!-- 100. Early English metrical romances...Wright -->
                     <biblStruct xml:id="wright_metrical" corresp="#top100">
                         <monogr>
@@ -48388,22 +48482,26 @@
             <div source="#poetry">
                 <biblStruct xml:id="sappho" corresp="#referenced">
                     <analytic>
-                    <author><persName>Sappho</persName></author></analytic>
-                    <monogr><title>Poetae Lyrici Graeci</title>
-                        <respStmt><resp>edited by</resp><name><persName>Theodorus Bergk</persName></name></respStmt>
-                    <imprint>
-                        <pubPlace/>
-                        <publisher/>  
-                    </imprint>
+                        <author><persName>Sappho</persName></author>
+                    </analytic>
+                    <monogr>
+                        <title>Poetae Lyrici Graeci</title>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>Theodorus Bergk</persName></name>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace/>
+                            <publisher/>
+                        </imprint>
                         <biblScope unit="page">664-702</biblScope>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
-                    <note type="fulltext">Bergk's edition contains many poets, not just Sappho.</note>
+                    <relatedItem type="full-text" corresp="#google"
+                        target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
+                    <note type="fulltext">Bergk's edition contains many poets, not just
+                        Sappho.</note>
                 </biblStruct>
-                <bibl><author><persName>Giacomo Leopardi</persName></author></bibl>
-                <!-- must include All'Italia -->
-                <bibl><author><persName>Euripedes</persName></author></bibl>
-                <!-- in Greek -->
+
 
                 <!-- Henry Arthur Bright -->
                 <biblStruct xml:id="bright_english_flower" corresp="#referenced">
@@ -48448,7 +48546,8 @@
                             <date when="1859"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044029063310"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044029063310"/>
                 </biblStruct>
                 <biblStruct xml:id="bright_free" corresp="#referenced">
                     <monogr>
@@ -48461,23 +48560,27 @@
                             <date when="1853"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044021216858"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044021216858"/>
                 </biblStruct>
                 <bibl xml:id="horace_epodes" corresp="#referenced"><!-- Swinburne specifically cites poem X -->
-                        <title>Epodes</title>
-                        <author corresp="#horace"><persName>Horace</persName></author>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044085200913"/>
+                    <title>Epodes</title>
+                    <author corresp="#horace"><persName>Horace</persName></author>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044085200913"/>
                 </bibl>
                 <bibl xml:id="horace_satire-epistles" corresp="#referenced">
                     <!-- Swinburne specifically cites the first epistle of the first book -->
                     <title>The satires and epistles of Horace</title>
                     <author corresp="#horace"><persName>Horace</persName></author>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.$b293456"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/uc1.$b293456"/>
                 </bibl>
                 <bibl xml:id="aristophanes_birds" corresp="#referenced">
                     <title>The Birds</title>
                     <author corresp="#aristophanes"><persName>Aristophanes</persName></author>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uiug.30112023764837"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/uiug.30112023764837"/>
                 </bibl>
                 <!--                         
                     <biblStruct xml:id="" corresp="">
@@ -48509,7 +48612,8 @@
                             <date when="1881"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044015493414"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044015493414"/>
                     <note type="provenance"
                         target="https://primo.lib.umn.edu/permalink/f/11uk8fo/UMN_ALMA21494093930001701"
                         >University of Minnesota</note>
@@ -48570,7 +48674,8 @@
                             <date when="1902"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/coo.31924024011722"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/coo.31924024011722"/>
                     <note type="provenance" target="RARE BKS PZ7.J79 S5">Boston Public
                         Library</note>
                 </biblStruct>
@@ -48591,7 +48696,8 @@
                             <date when="1907"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/uc1.31175007615357"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/uc1.31175007615357"/>
                     <note type="provenance"
                         target="https://search.lib.umich.edu/catalog/record/990038926010106381"
                         >University of Michigan</note>
@@ -48610,7 +48716,8 @@
                             <date when="1905"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/njp.32101063580037"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/njp.32101063580037"/>
                     <note type="provenance"
                         target="https://franklin.library.upenn.edu/catalog/FRANKLIN_9934363623503681"
                         >Kislak Center, University of Pennsylvania</note>
@@ -48667,7 +48774,8 @@
                             <date when="1883"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.32044014811541"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044014811541"/>
                     <note type="provenance"
                         target="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033380938303196"
                         >College of William &amp; Mary</note>
@@ -48677,7 +48785,10 @@
                     <monogr>
                         <title> The Shelley birthday book and calendar </title>
                         <author><persName>Shelley, Percy Bysshe</persName></author>
-                        <respStmt><resp>edited by</resp><name><persName>Tutin, J.R.</persName></name></respStmt>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>Tutin, J.R.</persName></name>
+                        </respStmt>
                         <note type="description">From William &amp; Mary catalog: " Bookplate
                             affixed to front pastedown: ACS ; From the library of Algernon Charles
                             Swinburne, The Pines, Putney Hill."</note>
@@ -48687,7 +48798,8 @@
                             <date when="1885"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/njp.32101067175578"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/njp.32101067175578"/>
                     <note type="provenance"
                         target="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033225239403196"
                         >College of William &amp; Mary</note>
@@ -48696,7 +48808,10 @@
                     <monogr>
                         <title>The Swisser </title>
                         <author><persName>Wilson, Arthur</persName></author>
-                        <respStmt><resp>edited by</resp><name><persName>Feuillerat, Albert, 1874-1953</persName></name></respStmt>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>Feuillerat, Albert, 1874-1953</persName></name>
+                        </respStmt>
                         <!-- technically "writer of introduction" -->
 
                         <note type="description">From William &amp; Mary catalog: "Auction label
@@ -48711,7 +48826,8 @@
                             <date when="1904"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/mdp.39015063524667"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/mdp.39015063524667"/>
                     <note type="provenance"
                         target="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033261732103196"
                         >College of William &amp; Mary</note>
@@ -48719,8 +48835,14 @@
                 <biblStruct xml:id="the_pageant" corresp="#presented_by">
                     <monogr>
                         <title>The Pageant</title>
-                        <respStmt><resp>edited by</resp><name><persName>C. Hazelwood Shannon</persName></name></respStmt>
-                        <respStmt><resp>edited by</resp><name><persName>J.W. Gleeson</persName></name></respStmt>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>C. Hazelwood Shannon</persName></name>
+                        </respStmt>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>J.W. Gleeson</persName></name>
+                        </respStmt>
                         <note type="description">Inscription from ACS to Alice Swinburne.</note>
                         <note type="inscription" corresp="#presentation">Alice Swinburne from her
                             affectionate brother Algernon Charles Swinburne <date when="1896-01-06"
@@ -48765,7 +48887,10 @@
                         <title> Torrent of Portugal. An English metrical romance. Now first
                             published from an unique manuscript of the fifteenth century, preserved
                             in the Chetham library at Manchester</title>
-                        <respStmt><resp>edited by</resp><name><persName>James Orchard Halliwell</persName></name></respStmt>
+                        <respStmt>
+                            <resp>edited by</resp>
+                            <name><persName>James Orchard Halliwell</persName></name>
+                        </respStmt>
 
                         <note type="description">Original pebble-grain purple cloth; paper label on
                             spine. From the library of Algernon Charles Swinburne, with his
@@ -48797,7 +48922,8 @@
                             <date when="1846"/>
                         </imprint>
                     </monogr>
-                    <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/wu.89016804254"/>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/wu.89016804254"/>
                     <note type="provenance"
                         target="https://wrlc-gu.primo.exlibrisgroup.com/permalink/01WRLC_GUNIV/319hln/alma991037273899604111"
                         >Booth Family Center for Special Collections, Georgetown University</note>
