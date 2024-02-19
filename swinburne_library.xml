@@ -7,7 +7,9 @@
         <fileDesc>
             <titleStmt>
                 <title>The Library and Presumed Reading of Algernon Charles Swinburne</title>
-            </titleStmt>
+                <editor xml:id="jawalsh">Walsh, John A.</editor>
+                <editor xml:id="brandon">Brandon, Evan</editor>
+            </titleStmt>            
             <publicationStmt>
                 <publisher>Digital Culture Lab, <ref target="http://www.ils.indiana.edu/">Department
                         of Information and Library Science</ref>, <ref
@@ -22756,6 +22758,40 @@
                                     target="https://hdl.handle.net/2027/nyp.33433075796072"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433075796080"/>
+                                <note resp="#jawalsh">
+                                    In “A New-Year Ode” Swinburne cites the following individual sections of <title>La Légende des Siècles</title>:
+                                    <list>
+                                        <item>Le Sacre de la Femme</item>
+                                        <item>La Conscience</item>
+                                        <item>Booz endormi</item>
+                                        <item>Première rencontre du Christ avec le tombeau</item>
+                                        <item>La Terre: Hymne</item>
+                                        <item>Les Temps Paniques</item>
+                                        <item>La Ville Disparue</item>
+                                        <item>Les Trois Cents</item>
+                                        <item>Le Détroit de l'Euripe</item>
+                                        <item>La Chanson de Sophocle à Salamine</item>
+                                        <item>Le Romancero du Cid</item>
+                                        <item>Le Petit Roi de Galice</item>
+                                        <item>Le Jour des Rois</item>
+                                        <item>Montfaucon</item>
+                                        <item>La vision d'où est sorti ce livre</item>
+                                        <item>L'an neuf de l'Hégire</item>
+                                        <item>Les sept merveilles du monde</item>
+                                        <item>Les quatre jours d'Elciis</item>
+                                        <item>Le Régiment du baron Madruce</item>
+                                        <item>La Chanson des Aventuriers de la Mer</item>
+                                        <item>Les Reîtres</item>
+                                        <item>La Rose de l'Infante</item>
+                                        <item>Le Satyre</item>
+                                        <item>Les paysans au bord de la mer</item>
+                                        <item>Les pauvres gens</item>
+                                        <item>Petit Paul</item>
+                                        <item>Guerre Civile</item>
+                                        <item>La Vision de Dante</item>
+                                        <item>La Trompette du Jugement</item>
+                                    </list> 
+                                </note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb378.2">
                                 <monogr>
@@ -43736,7 +43772,7 @@
                                     target="https://hdl.handle.net/2027/hvd.hw2jmo"/>
                                 <relatedItem n="4" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hw2jmp"/>
-                                <note resp="jawalsh">There is a discrepancy in the title and the
+                                <note resp="#jawalsh">There is a discrepancy in the title and the
                                     number of volumes, but the volumes are the 1786 editon of
                                     Sophocles with notes by Brunck. Publication place also
                                     matches.</note>
