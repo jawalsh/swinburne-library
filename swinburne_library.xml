@@ -7229,9 +7229,7 @@
                                     <note type="description">illustrations by G. Cruikshank and Tony
                                         Johannot, red cloth</note>
                                     <imprint>
-                                        <publisher corresp="#george_routledge_and_sons">
-                                            <orgName>George Routledge &amp; Sons, Limited</orgName>
-                                        </publisher>
+                                        <publisher/><!-- no publisher indicated in catalog, and multiple publishers (Routledge and Bentley possible) -->
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -7242,7 +7240,7 @@
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/dul1.ark:/13960/t9n30pf1s"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc2.ark:/13960/t06w9c40c"/>
+                                    target="https://hdl.handle.net/2027/uc1.b5204579"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t8w955z6k"/>
                                 <relatedItem n="4" type="full-text" corresp="#ht"
@@ -7273,6 +7271,7 @@
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
+                                <relatedItem type="full-text" corresp="#ia" target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.2">
                                 <monogr>
@@ -7304,34 +7303,30 @@
                                         <measure unit="volumes" quantity="1"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#eebo"
-                                    target="https://proxyiub.uits.iu.edu/login?qurl=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F2240918607%3Faccountid%3D11620"/>
-                                <note>Proquest Document ID: 2240918607.</note>
+                                <relatedItem type="full-text" corresp="#ia"
+                                    target="https://archive.org/details/bim_early-english-books-1475-1640_senile-odium-comoedia-_hausted-peter_1633/"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.3">
                                 <monogr>
-                                    <title/>
+                                    <title>Roxana Tragædia</title><!-- title is omitted from catalog, but understood to be Alabaster's work above, alewinga -->
                                     <author corresp="#alabaster">
-                                        <persName>Alabaster</persName>
+                                        <persName>Alabaster, Gul.</persName>
                                     </author>
                                     <note type="description">another copy, vellum</note>
                                     <note type="etc">
                                         <num value="2"/>
                                     </note>
+                                    <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
-                                        <publisher corresp="#buck">
-                                            <persName>John Buck</persName>
+                                        <publisher corresp="#jones">
+                                            <persName>William Jones</persName>
                                         </publisher>
-                                        <publisher corresp="#buck_t">
-                                            <persName>Thomas Buck</persName>
-                                        </publisher>
-                                        <publisher corresp="#daniel_r">
-                                            <persName>Roger Daniel</persName>
-                                        </publisher>
-                                        <pubPlace ref="#cambridge">Cantabrigiæ</pubPlace>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
+                                
+                                <relatedItem type="full-text" corresp="#ia" target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb006">
@@ -7342,9 +7337,8 @@
                                         <persName>Alfieri, V.</persName>
                                     </author>
                                     <note type="description">vellum</note>
-                                    <note xml:lang="it">riveduta dall'autore e accresciuta</note>
                                     <edition corresp="#sec_ed" xml:lang="it">seconda
-                                        edizione</edition>
+                                        edizione <foreign xml:lang="it">riveduta dall'autore e accresciuta</foreign></edition>
                                     <imprint>
                                         <publisher corresp="#molini">
                                             <persName>Gio. Cl. Molini</persName>
@@ -7357,17 +7351,18 @@
                                     </extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Tragedie_di_Vittorio_Alfieri_da_Asti_Sec/N2VnAAAAcAAJ"/>
+                                    target="https://books.google.com/books?id=N2VnAAAAcAAJ"/>
                                 <relatedItem n="2" type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Tragedie_di_Vittorio_Alfieri_da_Asti_Sec/RWVnAAAAcAAJ"/>
+                                    target="https://books.google.com/books?id=RWVnAAAAcAAJ"/>
                                 <relatedItem n="3" type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Tragedie_di_Vittorio_Alfieri_da_Asti_Vol/5fzrPEVgmSIC"/>
+                                    target="https://books.google.com/books?id=5fzrPEVgmSIC"/>
                                 <relatedItem n="4" type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Volume_Quarto_Inedite/jWVnAAAAcAAJ"/>
+                                    target="https://books.google.com/books?id=jWVnAAAAcAAJ"/>
                                 <relatedItem n="5" type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Volume_Quinto_Inedite/lmVnAAAAcAAJ"/>
-                                <note type="fulltext">Vol. 1, page 277 confirms this set has six
-                                    volumes, but I was not able to locate the sixth.</note>
+                                    target="https://books.google.com/books?id=lmVnAAAAcAAJ"/>
+                                <relatedItem n="6" type="full-text" corresp="#google" target="https://books.google.com/books?id=2_1WAAAAcAAJ"/>
+                                <note type="fulltext">Vol. 1, page 277 confirms this edition's set has six
+                                    volumes. We can't find the sixth volume of the same edition, but include a copy of the sixth volume for an edition saying it follows the Parisian edition.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb007">
