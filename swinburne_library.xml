@@ -48528,66 +48528,7 @@
                 </bibl>
 
 
-                <!-- Henry Arthur Bright -->
-                <biblStruct xml:id="bright_english_flower" corresp="#referenced">
-                    <monogr>
-                        <title>The English flower garden</title>
-                        <author><persName>Bright, Henry Arthur</persName></author>
-
-                        <note type="description"/>
-                        <imprint>
-                            <publisher>Macmillan and co.</publisher>
-                            <pubPlace ref="#london">London</pubPlace>
-                            <date when="1881"/>
-                        </imprint>
-                    </monogr>
-                    <relatedItem type="full-text" corresp="#ht"
-                        target="https://hdl.handle.net/2027/uc2.ark:/13960/t06w97b3v"/>
-                </biblStruct>
-                <biblStruct xml:id="bright_year_lancashire" corresp="#referenced">
-                    <monogr>
-                        <title>A year in a Lancashire garden</title>
-                        <author><persName>Bright, Henry Arthur</persName></author>
-
-                        <note type="description"/>
-                        <imprint>
-                            <publisher>Macmillan</publisher>
-                            <pubPlace ref="#london">London</pubPlace>
-                            <date when="1891"/>
-                        </imprint>
-                    </monogr>
-                    <relatedItem type="full-text" corresp="#ht"
-                        target="https://hdl.handle.net/2027/uc2.ark:/13960/t7mp4x580"/>
-                </biblStruct>
-                <biblStruct xml:id="bright_warrington_academy" corresp="#referenced">
-                    <monogr>
-                        <title>A historical sketch of Warrington Academy</title>
-                        <author><persName>Bright, Henry Arthur</persName></author>
-
-                        <note type="description"/>
-                        <imprint>
-                            <publisher>T. Brakell</publisher>
-                            <pubPlace ref="#liverpool">Liverpool</pubPlace>
-                            <date when="1859"/>
-                        </imprint>
-                    </monogr>
-                    <relatedItem type="full-text" corresp="#ht"
-                        target="https://hdl.handle.net/2027/hvd.32044029063310"/>
-                </biblStruct>
-                <biblStruct xml:id="bright_free" corresp="#referenced">
-                    <monogr>
-                        <title>Free blacks and slaves. Would immediate abolition be a
-                            blessing?</title>
-                        <author><persName>Bright, Henry Arthur</persName></author>
-                        <imprint>
-                            <publisher>A.H. Virtue and Co.</publisher>
-                            <pubPlace ref="#london">London</pubPlace>
-                            <date when="1853"/>
-                        </imprint>
-                    </monogr>
-                    <relatedItem type="full-text" corresp="#ht"
-                        target="https://hdl.handle.net/2027/hvd.32044021216858"/>
-                </biblStruct>
+            
                 <bibl xml:id="horace_epodes" corresp="#referenced"><!-- Swinburne specifically cites poem X -->
                     <title>Epodes</title>
                     <author corresp="#horace"><persName>Horace</persName></author>
