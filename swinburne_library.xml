@@ -3481,6 +3481,11 @@
                         <birth when="1834"/>
                         <death when="1896"/>
                     </person>
+                    <person xml:id="morris_l">
+                        <persName source="http://id.loc.gov/authorities/names/n82117036">Morris, Lewis, 1833-1907</persName>
+                        <birth when="1833"/>
+                        <death when="1907"/>
+                    </person>
                     <person xml:id="morrison-grant">
                         <persName source="http://id.loc.gov/authorities/names/nr94008762"
                             >Morrison-Grant, Lewis, 1872-1893</persName>
@@ -8032,22 +8037,22 @@
                         <listBibl type="lot" xml:id="sb020">
                             <biblStruct corresp="#owned" xml:id="sb020.1">
                                 <monogr>
-                                    <title>The Epic Hades</title>
-                                    <author corresp="#arnold_e">
-                                        <persName>Arnold, Sir. E</persName>
+                                    <title>The Epic of Hades</title><!-- correction from catalog -->
+                                    <author corresp="#morris_l">
+                                        <persName>Sir Lewis Morris</persName>
                                     </author>
                                     <note type="description" corresp="#presentation">presentation
                                         copy, with inscription</note>
                                     <note type="inscription">For the Author of 'Hertha' from the
                                         Writer <date when="1876-02-10">Feb. 10th, '76</date></note>
                                     <imprint>
+                                        <publisher>Henry S. King &amp; Co.</publisher>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1876"/>
                                     </imprint>
                                 </monogr>
-                                <note type="fulltext">There is a work by this title and close in
-                                    year, but the author is Sir Lewis Morris. Additionally, Sir
-                                    Edwin Arnold does have works around this same time, but none
-                                    have this title.</note>
+                                <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=BBlbAAAAYAAJ"/>
+                                <note>The catalog seems to have seriously mixed up who the author is. The author is Sir Lewis Morris, and the book's title page states "By the author of 'Songs of Two Worlds'. Perhaps the cataloger combined two titles by Sir Edwin Arnold "The Light of the World" and "Indian Song of Songs."</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb020.2">
                                 <monogr>
@@ -8264,18 +8269,15 @@
                                     </author>
                                     <edition corresp="#first_ed">First edition</edition>
                                     <imprint>
-                                        <publisher corresp="#burt">
-                                            <persName>A. L. Burt</persName>
+                                        <publisher corresp="#macmillan_co">
+                                            <persName>Macmillan &amp; Co</persName>
                                         </publisher>
-                                        <!-- No title page, but HT catalog record lists A. L. Burt. Assuming the
-                                            individual should be referenced here, but there is also an A. L.
-                                            Burt Company based in New York. -->
-                                        <pubPlace ref="#new_york">New York</pubPlace>
+                                        <pubPlace ref="#london">London</pubPlace>
                                         <date when="1865"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/inu.30000005032754"/>
+                                <relatedItem type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=GgK5FmXD67gC"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb024.2">
                                 <monogr>
