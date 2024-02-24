@@ -8428,20 +8428,18 @@
                                     <author corresp="#arnold_m">
                                         <persName>Arnold, Matthew</persName>
                                     </author>
-                                    <edition corresp="#first_ed">First Edition</edition>
+                                    <!--<edition corresp="#first_ed">First Edition</edition>-->
                                     <imprint>
-                                        <publisher corresp="#macmillan_co">
-                                            <orgName>Macmillan and Co.</orgName>
+                                        <publisher corresp="#smith_elder_co">
+                                            <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
-                                        <pubPlace ref="#new_york">New York</pubPlace>
-                                        <date when="1875"/>
+                                        <pubPlace ref="#london">London</pubPlace>
+                                        <date when="1875"/><!-- 1875 is 2nd edition. -->
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uva.x000310763"/>
-                                <!-- This item and its HT record states it's the 2nd edition, 
-                                    should be changed? -->
-                                <!-- alewinga come back and check. Macmillan is 1875 and 2nd ed. first is 1869 and Smith, Elder, and Co -->
+                                    target="https://hdl.handle.net/2027/uiug.30112073727155"/>
+                                <!-- alewinga come back and check. 1875 is 2nd ed. first is 1869 and Smith, Elder, and Co -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb027.4">
                                 <monogr>
@@ -8552,6 +8550,7 @@
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433075801922"/>
+                                <relatedItem n="2" type="full-text" corresp="#google" target="https://books.google.com/books?id=ILENAAAAQAAJ"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433076093404"/>
                                 <relatedItem n="4" type="full-text" corresp="#ht"
@@ -8560,11 +8559,6 @@
                                     target="https://hdl.handle.net/2027/nyp.33433076093420"/>
                                 <relatedItem n="6" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433076093412"/>
-                                <note type="fulltext">These are the "Steventon Edition" of 6 of Jane
-                                    Austen's novels, though vol 2 is not available. In HT, they are
-                                    collectively called "Jane Austen's Works." Vol 1 is Sense and
-                                    Sensibility, vol 3 is Mansfield Park, vol 4 is Emma, vol 5 is
-                                    Northanger Abbey and Persuasion, and vol 6 is Lady Susan.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb031">
@@ -8589,25 +8583,25 @@
                                         <measure unit="volumes" quantity="10"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem n="1" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712795"/>
-                                <relatedItem n="2" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712796"/>
-                                <relatedItem n="3" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712797"/>
-                                <relatedItem n="4" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4101469"/>
-                                <relatedItem n="5" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712798"/>
-                                <relatedItem n="6" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712799"/>
-                                <relatedItem n="7" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.c041213373"/>
-                                <relatedItem n="8" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712800"/>
-                                <relatedItem n="9" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uc1.b4712801"/>
-                                <note type="fulltext">HT does not have vol 10.</note>
+                                <relatedItem n="1" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=5qvTAAAAMAAJ"/>
+                                <relatedItem n="2" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=MXBKAAAAYAAJ"/>
+                                <relatedItem n="3" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=A7Atq1Iui0sC"/>
+                                <relatedItem n="4" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=b6zTAAAAMAAJ"/>
+                                <relatedItem n="5" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=PChDAQAAMAAJ"/>
+                                <relatedItem n="6" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=5qzTAAAAMAAJ"/>
+                                <relatedItem n="7" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=Hs4KcfjzbvQC"/>
+                                <relatedItem n="8" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=XK3TAAAAMAAJ"/>
+                                <relatedItem n="9" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=8SlDAQAAMAAJ"/>
+                                <relatedItem n="10" type="full-text" corresp="#google" target="https://books.google.com/books?id=r29KAAAAYAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb032">
@@ -8721,11 +8715,13 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/nyp.33433075808166"/>
-                                <note type="fulltext">HT notes title as "Les cent contes
-                                    droslaticques"; unable to locate a 3-vol version from this
-                                    year.</note>
+                                <relatedItem type="full-text" n="1" corresp="#ia"
+                                    target="https://archive.org/details/lescentcontesdro01balz/"/>
+                                <relatedItem type="full-text" n="2" corresp="#ia"
+                                    target="https://archive.org/details/lescentcontesdro02balz/"/>
+                                <relatedItem type="full-text" n="3" corresp="#ia"
+                                    target="https://archive.org/details/lescentcontesdro03balz/"/>
+                                <note type="fulltext">1832 edition versus 1837.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned #top100" xml:id="sb035.3">
                                 <monogr>
@@ -8744,10 +8740,13 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ia"
-                                    target="https://archive.org/details/histoiredesparen00balz/page/86/mode/2up"/>
-                                <note type="fulltext">IA does not have 3-volume version, but this is
-                                    the correct year.</note>
+                                <relatedItem type="full-text" n="1" corresp="#google"
+                                    target="https://books.google.com/books?id=wrM5AAAAcAAJ"/>
+                                <relatedItem type="full-text" n="2" corresp="#google"
+                                    target="https://books.google.com/books?id=zDJUAAAAcAAJ"/>
+                                <relatedItem type="full-text" n="3" corresp="#google"
+                                    target="https://books.google.com/books?id=07M5AAAAcAAJ"/>
+                                <note type="fulltext">1847, 3-volume edition, but not published in La Haye (the Hague)</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb036">
@@ -8798,9 +8797,9 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
+                                <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=JO40ubcR088"/>
                                 <relatedItem type="full-text" corresp="#ia"
                                     target="https://archive.org/details/fairinfearlesso00farmgoog/page/n4/mode/2up"/>
-                                <note type="fulltext">Only vol 2 available.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb037">
@@ -8921,8 +8920,10 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/coo.31924028299430"/>
+                                <relatedItem type="full-text" n="1" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/hvd.hwxrx7"/>
+                                <relatedItem type="full-text" n="2" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/njp.32101008989145"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb039.2">
                                 <monogr>
@@ -8968,7 +8969,7 @@
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
-                                    target="https://www.google.com/books/edition/Richard_Wagner_et_Tannhauser_%C3%A0_Paris/VSRDAAAAcAAJ"
+                                    target="https://books.google.com/books?id=VSRDAAAAcAAJ"
                                 />
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb040.2">
@@ -9116,13 +9117,6 @@
                                     target="https://hdl.handle.net/2027/uiug.30112077306832"/>
                                 <relatedItem n="4" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiug.30112077306923"/>
-                                <relatedItem n="5" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uiug.30112077306907"/>
-                                <relatedItem n="6" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uiug.30112077306865"/>
-                                <relatedItem n="7" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/uiug.30112077306873"/>
-                                <note type="fulltext">HT has only 7-volume sets.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb044">
@@ -9382,12 +9376,12 @@
                                     <biblScope unit="volume" from="I" to="III"/>
                                     <extent><measure unit="volumes" quantity="3"/></extent>
                                 </monogr>
-                                <relatedItem n="1" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/umn.31951002354622s"/>
-                                <relatedItem n="2" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/umn.31951002354623q"/>
-                                <relatedItem n="3" type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/umn.31951p00761383j"/>
+                                <relatedItem n="1" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=jLQN4ZgxQwkC"/>
+                                <relatedItem n="2" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=XiejMiBimTUC"/>
+                                <relatedItem n="3" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=20c6AQAAMAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb050">
