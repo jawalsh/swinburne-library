@@ -7531,7 +7531,7 @@
                                         <publisher>
                                             <orgName>The Imperial Press</orgName>
                                         </publisher>
-                                        <!-- No LCNAF or VIAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -8575,7 +8575,7 @@
                                         <publisher>
                                             <persName>John Grant</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#edinburgh">Edinburgh</pubPlace>
                                         <date when="1898"/>
                                     </imprint>
@@ -9015,7 +9015,7 @@
                                         <publisher>
                                             <persName>De Broise</persName>
                                         </publisher>
-                                        <!-- Sources suggest first name is Eugene, no LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1857"/>
                                     </imprint>
@@ -9226,7 +9226,7 @@
                             <biblStruct corresp="#owned" xml:id="sb046.1">
                                 <monogr>
                                     <title>Royal Illustrated History of Eastern England</title>
-                                    <!-- No LCNAF found -->
+                                    
                                     <author>
                                         <persName>Bayne, A. D.</persName>
                                     </author>
@@ -9543,7 +9543,7 @@
                                 <monogr>
                                     <title>Bertrand: or Memoirs of a Northumbrian Gentleman in the
                                         Seventeenth Century, written by himself</title>
-                                    <!-- Difficult to find LCNAF. Author is listed as anonymous in other sources. -->
+                                    
                                     <author>
                                         <persName>Bertrand</persName>
                                     </author>
@@ -9725,7 +9725,7 @@
                                         <publisher>
                                             <persName>Charles Collett</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#sunbury">Sunbury</pubPlace>
                                         <date when="1862"/>
                                     </imprint>
@@ -10900,7 +10900,7 @@
                                         <publisher>
                                             <persName>Robert Roberts</persName>
                                         </publisher>
-                                        <!-- Difficult to determine LCNAF. -->
+                                        
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date when="1878"/>
                                     </imprint>
@@ -11058,7 +11058,7 @@
                                     <note type="description" corresp="#uncut">3 vol. portrait, uncut
                                         (3 covers missing)</note>
                                     <imprint>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
@@ -12342,7 +12342,7 @@
                                         <publisher>
                                             <orgName>William Mullan and Son</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1879"/>
                                     </imprint>
@@ -13062,7 +13062,7 @@
                                         <publisher>
                                             <orgName>Marshall Japp and Company</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1881"/>
                                     </imprint>
@@ -13242,7 +13242,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -13777,7 +13777,7 @@
                                         <publisher>
                                             <persName>Durand</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#amsterdam">Amsterdam</pubPlace>
                                         <date when="1782"/>
                                     </imprint>
@@ -13914,7 +13914,7 @@
                                         <publisher>
                                             <persName>W. Lewis</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1742"/>
                                     </imprint>
@@ -14644,7 +14644,7 @@
                                         <publisher>
                                             <persName>Edward Arnold</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -14691,7 +14691,7 @@
                                         <publisher>
                                             <persName>Richard Byrn</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#dublin">Dublin</pubPlace>
                                         <date when="1780"/>
                                     </imprint>
@@ -14935,7 +14935,7 @@
                                         <publisher>
                                             <orgName>Perrin et cie</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1905"/>
                                     </imprint>
@@ -15156,7 +15156,7 @@
                                     <author>
                                         <persName>Lannert, G. L.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="etc">
                                         <num value="6"/>
                                     </note>
@@ -15185,7 +15185,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1873"/>
                                     </imprint>
@@ -15255,7 +15255,7 @@
                                         <publisher>
                                             <orgName>Bunce and Huntington</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#new_york">New York</pubPlace>
                                         <date when="1865"/>
                                     </imprint>
@@ -16016,7 +16016,7 @@
                                         <publisher>
                                             <persName>Émile Testard</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -16434,7 +16434,7 @@
                                         <publisher>
                                             <orgName>The Hawarden Press</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -16461,7 +16461,7 @@
                                         <publisher>
                                             <orgName>The Hawarden Press</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -16720,7 +16720,7 @@
                                         <publisher>
                                             <orgName>Sagnier et Bray</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1844"/>
                                     </imprint>
@@ -17309,7 +17309,7 @@
                                         <publisher>
                                             <persName>H. A. Rogers</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
@@ -17412,7 +17412,7 @@
                                     <author>
                                         <persName>Friedmann, Alfred</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <imprint>
                                         <publisher corresp="#klemm">
                                             <persName>Josef Klemm</persName>
@@ -17966,7 +17966,7 @@
                                     <author>
                                         <persName>Armstrong, Walter</persName>
                                     </author>
-                                    <!-- No LCNAF found. May be http://id.loc.gov/authorities/names/n85050011-->
+                                    
                                     <note type="description">2 vol. in 1, illustrations, half
                                         morocco, gilt edges</note>
                                     <imprint>
@@ -18056,7 +18056,7 @@
                                         <publisher>
                                             <orgName>"Pall Mall" Press</orgName>
                                         </publisher>
-                                        <!-- LCNAF found, but only for their Paris location. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1905"/>
                                     </imprint>
@@ -18074,7 +18074,7 @@
                                     <author>
                                         <persName>Baudinius, O.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <imprint>
                                         <publisher corresp="#sermartelli">
                                             <persName>Bartholomæi Sermartillij</persName>
@@ -18212,7 +18212,7 @@
                                     <author>
                                         <persName>Bernard, B.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">vellum, Ben Johnson's copy, with his
                                         signature on title; also an Autograph Letter from Sidney C.
                                         Cockerell addressed to Mr. Swinburne.</note>
@@ -18239,7 +18239,7 @@
                                     <author>
                                         <persName>Berry, W.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut">map and plates,
                                         uncut</note>
                                     <imprint>
@@ -18809,7 +18809,7 @@
                                         <publisher>
                                             <persName>H. Daniel</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#oxford">Oxford</pubPlace>
                                         <date when="1885"/>
                                     </imprint>
@@ -18916,7 +18916,7 @@
                                         <publisher>
                                             <persName>Septimus Prowett</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1825"/>
                                     </imprint>
@@ -18984,7 +18984,7 @@
                                         <publisher>
                                             <persName>Giunti</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#florence">in Firenze</pubPlace>
                                         <date when="1623"/>
                                     </imprint>
@@ -19181,7 +19181,7 @@
                                     <author>
                                         <persName>Cullimore, Henry</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy to Swinburne, with inscription and
                                         dedicatory verse in the author's writing</note>
@@ -19761,7 +19761,7 @@
                                     <imprint>
                                         <publisher xml:lang="it">Pisa dalla Typografia della Società
                                             Letteraria</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <date when="1809"/>
                                     </imprint>
                                     <extent>
@@ -20170,7 +20170,7 @@
                                         <publisher>
                                             <persName>T. Desoer</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1820"/>
                                     </imprint>
@@ -20206,7 +20206,7 @@
                                         <publisher xml:lang="fr">
                                             <orgName>Imprimerie Particulière</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#france">France</pubPlace>
                                         <date when="1873"/>
                                     </imprint>
@@ -20458,7 +20458,7 @@
                                     <author>
                                         <persName>Horivolo, Bart.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -20503,7 +20503,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -20633,7 +20633,7 @@
                                     <author>
                                         <persName>Graham, Jas.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -20777,7 +20777,7 @@
                                     <author>
                                         <persName>Graham, Wm.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -21307,7 +21307,7 @@
                                         <publisher>
                                             <orgName>Fleet and Bishop</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#brighton">Brighton</pubPlace>
                                         <date when="1879"/>
                                     </imprint>
@@ -22012,7 +22012,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -22047,7 +22047,7 @@
                                         <publisher>
                                             <persName>La Veuve Verteneuil</persName>
                                         </publisher>
-                                        <!-- "the widow Verteneuil," no LCNAF found. -->
+                                        
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1859"/>
                                     </imprint>
@@ -22177,7 +22177,7 @@
                                         <publisher>
                                             <orgName>Hamilton and Co.</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#whittaker_co">
                                             <persName>Whittaker and Co.</persName>
                                         </publisher>
@@ -22190,7 +22190,7 @@
                                         <publisher>
                                             <persName>E. Williams</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1847"/>
                                     </imprint>
@@ -22363,7 +22363,7 @@
                                         <publisher>
                                             <orgName>Schweighauser &amp; Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#basel">Basel</pubPlace>
                                         <date when="1838"/>
                                     </imprint>
@@ -22569,7 +22569,7 @@
                                         <publisher>
                                             <persName>George Rivers</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1875"/>
                                     </imprint>
@@ -22655,7 +22655,7 @@
                                         <publisher>
                                             <orgName>Leader &amp; Sons</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#sheffield">Sheffield</pubPlace>
                                         <date when="1880"/>
                                     </imprint>
@@ -23370,7 +23370,7 @@
                                         <publisher>
                                             <persName>Joseph Appleyard</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1822"/>
                                     </imprint>
@@ -25695,7 +25695,7 @@
                                         <publisher>
                                             <persName>P. Mouillot</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1886"/>
                                     </imprint>
@@ -25714,7 +25714,7 @@
                                         <publisher>
                                             <persName>Jaccottet</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#bourdilliat_cie">
                                             <orgName>Bourdilliat et Cie</orgName>
                                         </publisher>
@@ -25917,7 +25917,7 @@
                                         <publisher>
                                             <orgName>Gibbings &amp; Company</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1906"/>
                                     </imprint>
@@ -26034,7 +26034,7 @@
                                         <publisher>
                                             <persName>Roger Norton</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1721"/>
                                     </imprint>
@@ -26207,7 +26207,7 @@
                                     <author>
                                         <persName>Lloyd, E.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">numerous illustrations, cloth gilt,
                                         royal 8vo.</note>
                                     <imprint>
@@ -26255,7 +26255,7 @@
                                         <publisher>
                                             <persName>John Wilson</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1868"/>
                                     </imprint>
@@ -26573,7 +26573,7 @@
                                     <author>
                                         <persName>Woodward, A. T.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presented to A. C. Swinburne by the Author, with original
                                         Sonnet, etc. in his handwriting</note>
@@ -26678,7 +26678,7 @@
                                     <author>
                                         <persName>Bourdel, L.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy to Swinburne with autograph
                                         inscription</note>
@@ -26762,7 +26762,7 @@
                                     <author>
                                         <persName>Barlow, Thos.</persName>
                                     </author>
-                                    <!-- Difficult to determine which LCNAF corresponds here. -->
+                                    
                                     <imprint>
                                         <publisher corresp="#horace_cox">
                                             <persName>Horace Cox</persName>
@@ -26863,7 +26863,7 @@
                                     <author>
                                         <persName>MacCulloch, Sir Edgar</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Edith F. Carey</name>
@@ -27004,7 +27004,7 @@
                                     <author>
                                         <persName>Magasin de Librairie, Le</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">half morocco, marbled edges</note>
                                     <imprint>
                                         <publisher>
@@ -27127,7 +27127,7 @@
                                         <publisher>
                                             <orgName>Office of "The Commonweal"</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
@@ -27282,7 +27282,7 @@
                                         <publisher>
                                             <persName>J. Rothschild</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -27628,7 +27628,7 @@
                                         <publisher>
                                             <persName>Caroli Tauchnitii</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#leipzig">Lipsia</pubPlace>
                                         <date when="1829"/>
                                     </imprint>
@@ -27840,7 +27840,7 @@
                                         <publisher>
                                             <persName>G. Daelli</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#milan">Milano</pubPlace>
                                         <date when="1861"/>
                                     </imprint>
@@ -27952,7 +27952,7 @@
                                     <author>
                                         <persName>Megnin, P.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">illustrations</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -28336,7 +28336,7 @@
                                         <publisher>
                                             <orgName>Firmin Didot Frères</orgName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1836"/>
                                     </imprint>
@@ -28450,7 +28450,7 @@
                                         <publisher>
                                             <persName>John Chapman</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1849"/>
                                     </imprint>
@@ -28648,9 +28648,7 @@
                                         <publisher>
                                             <persName>Furne</persName>
                                         </publisher>
-                                        <!-- No LCNAF found for an organization, and difficult to determine
-                                                correct LCNAF for individuals, if they exist. -->
-                                        <pubPlace ref="#paris">Paris</pubPlace>
+                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1845"/>
                                     </imprint>
                                     <extent>
@@ -28722,7 +28720,7 @@
                                         <publisher>
                                             <orgName>J. Gay et fils</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#san_remo">San Remo</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -28778,7 +28776,7 @@
                                         <publisher>
                                             <persName>Alexander Gardner</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -28809,7 +28807,7 @@
                                     <author>
                                         <persName>Mackay, Alice D.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">portrait</note>
                                     <note type="etc" corresp="#presentation">all presentation copies
                                         to Swinburne with autograph inscriptions<num value="6"
@@ -29075,7 +29073,7 @@
                                         <publisher>
                                             <persName>G. Charpentier</persName>
                                         </publisher>
-                                        <!-- LCNAF found for org, but not for individual. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -29368,7 +29366,7 @@
                                         <publisher>
                                             <persName>E. Picard</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1867"/>
                                     </imprint>
@@ -29561,7 +29559,7 @@
                                         <publisher>
                                             <persName>John Martin</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1814"/>
                                     </imprint>
@@ -29724,7 +29722,7 @@
                                         <publisher>
                                             <persName>Jean Maisonneuve</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1903"/>
                                     </imprint>
@@ -29772,7 +29770,7 @@
                                         <publisher>
                                             <orgName>Ellis and Green</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -29951,7 +29949,7 @@
                                         <publisher>
                                             <persName>Edward Arnold</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1902"/>
                                     </imprint>
@@ -30067,7 +30065,7 @@
                                     <author>
                                         <persName>Paton, F. Noel</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut">illustrations by Mrs.
                                         Hugh Blackburn and H. Paton, uncut</note>
                                     <imprint>
@@ -30811,7 +30809,7 @@
                                         <publisher>
                                             <orgName>East Anglian Daily Times</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#ipswich">Ipswich</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
@@ -30984,7 +30982,7 @@
                                         <publisher>
                                             <persName>A. Mame</persName>
                                         </publisher>
-                                        <!-- LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1878"/>
                                     </imprint>
@@ -31030,7 +31028,7 @@
                                         <publisher>
                                             <persName>R. Anderson</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#glasgow">Glasgow</pubPlace>
                                         <date when="1882"/>
                                     </imprint>
@@ -31090,7 +31088,7 @@
                                         <publisher>
                                             <persName>John Winington</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1589"/>
                                     </imprint>
@@ -31236,7 +31234,7 @@
                                     <author>
                                         <persName>Le Gros, W. B.</persName>
                                     </author>
-                                    <!-- Title found, but no LCNAF / full name. -->
+                                    
                                     <note type="description">illustrations</note>
                                     <imprint>
                                         <publisher corresp="#bentley_1794">
@@ -31463,7 +31461,7 @@
                                         <publisher>
                                             <persName>Veuve Monnom</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -31553,7 +31551,7 @@
                                     <author>
                                         <persName>Ludwig, Chris.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">calf</note>
                                     <imprint>
                                         <publisher corresp="#saalbach">
@@ -31803,7 +31801,7 @@
                                         <publisher>
                                             <persName>Du-Gardianis</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">Londini</pubPlace>
                                         <date when="1651"/>
                                     </imprint>
@@ -32031,7 +32029,7 @@
                                         <publisher>
                                             <persName>John Wylie</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#glasgow">Glasgow</pubPlace>
                                         <date when="1827"/>
                                     </imprint>
@@ -32288,7 +32286,7 @@
                                         <publisher>
                                             <persName>David Stott</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1890"/>
                                     </imprint>
@@ -32993,7 +32991,7 @@
                                         <publisher>
                                             <orgName>Percival and Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date from="1891" to="1892"/>
                                     </imprint>
@@ -33219,21 +33217,21 @@
                                         <publisher>
                                             <persName>R. Baldwin</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#johnston">
                                             <persName>W. Johnston</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>J. Richardson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#crowder">
                                             <persName>S. Crowder</persName>
                                         </publisher>
                                         <publisher>
                                             <orgName>P. Davey and B. Law</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#longman">
                                             <persName>T. Longman</persName>
                                         </publisher>
@@ -33246,11 +33244,11 @@
                                         <publisher>
                                             <persName>T. Pote</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher>
                                             <orgName>H. Woodgate and S. Brooks</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#baker_s">
                                             <persName>S. Baker</persName>
                                         </publisher>
@@ -33557,7 +33555,7 @@
                                         <publisher>
                                             <orgName>Lefèvre et Furne</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1844"/>
                                     </imprint>
@@ -33673,7 +33671,7 @@
                                         <publisher>
                                             <persName>Niccolò Giannotta</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#catania">Catania</pubPlace>
                                         <date when="1883"/>
                                     </imprint>
@@ -33788,7 +33786,7 @@
                                     <author>
                                         <persName>Rees, R. Wilkins</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description">with autograph letter of the
                                         author</note>
                                     <imprint>
@@ -33823,7 +33821,7 @@
                                     <author>
                                         <persName>Temple, J. Scott</persName>
                                     </author>
-                                    <!-- No LCNAF found, possibly http://id.loc.gov/authorities/names/n50005768 -->
+                                    
                                     <note type="description">autograph letter of author
                                         enclosed</note>
                                     <note type="etc" corresp="#presentation">and others, some
@@ -34012,7 +34010,7 @@
                                         <publisher>
                                             <persName>Buisson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1791"/>
                                     </imprint>
@@ -34043,7 +34041,7 @@
                                         <publisher>
                                             <orgName>Librairie d'Alex</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1837"/>
                                     </imprint>
@@ -34086,7 +34084,7 @@
                                         <publisher>
                                             <orgName>Verlags-Magazin</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#zurich">Zurich</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -34167,7 +34165,7 @@
                                     <note type="description">frontispiece, etc.</note>
                                     <imprint>
                                         <publisher>Grampian Club</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -34189,7 +34187,7 @@
                                         <publisher>
                                             <persName>J. Johnson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1790"/>
                                     </imprint>
@@ -34306,7 +34304,7 @@
                                         <publisher>
                                             <orgName>Charpentier</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1866"/>
                                     </imprint>
@@ -34594,7 +34592,7 @@
                                         <publisher>
                                             <orgName>Ellis and Scrutton</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1886"/>
                                     </imprint>
@@ -34843,7 +34841,7 @@
                                         <publisher>
                                             <orgName>Charles Wittingham &amp; Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#chiswick_press">
                                             <orgName>Chiswich Press</orgName>
                                         </publisher>
@@ -34870,7 +34868,7 @@
                                     <author>
                                         <orgName>Royal Colonial Institute</orgName>
                                     </author>
-                                    <!-- LCNAF found, but not sure how to add entry for an organizaton. -->
+                                    
                                     <note type="description">2 duplicates</note>
                                     <imprint>
                                         <publisher corresp="#sampson_low_marston_searle_rivington">
@@ -35156,7 +35154,7 @@
                                         <publisher>
                                             <persName>J. Miller</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1843"/>
                                     </imprint>
@@ -35210,7 +35208,7 @@
                                     <author>
                                         <persName>Kane, E.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy with inscription</note>
                                     <note type="etc" corresp="#presentation">and others, all
@@ -35632,7 +35630,7 @@
                                         <publisher>
                                             <persName>W. Miller</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1809"/>
                                     </imprint>
@@ -35840,7 +35838,7 @@
                                         <publisher>
                                             <persName>L. Davis</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#horsfield">
                                             <persName>R. Horsfield</persName>
                                         </publisher>
@@ -35850,7 +35848,7 @@
                                         <publisher>
                                             <persName>E. Johnson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#crowder">
                                             <persName>S. Crowder</persName>
                                         </publisher>
@@ -35869,7 +35867,7 @@
                                         <publisher>
                                             <orgName>J. and T. Bowles</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#lowndes_t">
                                             <persName>T. Lowndes</persName>
                                         </publisher>
@@ -35894,29 +35892,29 @@
                                         <publisher>
                                             <persName>W. Stuart</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#newberry">
                                             <persName>F. Newberry</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>G. Robinson</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher>
                                             <persName>R. Baldwin</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher>
                                             <persName>T. Beecroft</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#ridley">
                                             <persName>J. Ridley</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>T. Evans</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#hayes_s">
                                             <persName>S. Hayes</persName>
                                         </publisher>
@@ -36150,8 +36148,6 @@
                                         <publisher>
                                             <persName>Thomas Rodd</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. Only one fits the timeline, but he
-                                            doesn't appear to be a publisher. -->
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1830"/>
                                     </imprint>
@@ -36560,7 +36556,7 @@
                                 <author>
                                     <orgName>Shakespeare Society Publications</orgName>
                                 </author>
-                                <!-- Two possible LCNAFs, see entry above. -->
+                                
                                 <date>various years</date>
                                 <extent><measure unit="volumes" quantity="39"/>various</extent>
                                 <note resp="#jawalsh">Not possible to determine the identity of
@@ -37074,7 +37070,7 @@
                                         <publisher>
                                             <orgName>Charles Wittingham and Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#chiswick">Chiswick</pubPlace>
                                         <date when="1884"/>
                                     </imprint>
@@ -37454,7 +37450,7 @@
                                         <publisher>
                                             <persName>R. Fonet</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1625"/>
                                     </imprint>
@@ -37869,7 +37865,7 @@
                                         <publisher>
                                             <persName>James Walton</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#murray_j">
                                             <persName>John Murray</persName>
                                         </publisher>
@@ -37953,7 +37949,7 @@
                                         <publisher>
                                             <persName>George Knapp</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1736"/>
                                     </imprint>
@@ -38217,7 +38213,7 @@
                                         <publisher>
                                             <persName>Charpentier</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1891"/>
                                     </imprint>
@@ -38239,7 +38235,7 @@
                                         <publisher>
                                             <persName>Charles A. Calvo, Jr.</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#columbia">Columbia, S. C.</pubPlace>
                                         <date when="1884"/>
                                     </imprint>
@@ -38575,7 +38571,7 @@
                                     <author>
                                         <persName>Sauter, Edwin</persName>
                                     </author>
-                                    <!-- LCNAF found, but likely not the same Edwin Sauter. -->
+                                    
                                     <note type="description" corresp="#presentation">presentation
                                         copy with inscription</note>
                                     <note type="inscription">To Algernon Charles Swinburne, England,
@@ -38899,7 +38895,7 @@
                                     <imprint>
                                         <publisher> Printed by <persName>J. Andrews</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">Clements Lane, E.C.</pubPlace>
                                         <date>n.d. [c. 1866]</date>
                                     </imprint>
@@ -39387,7 +39383,7 @@
                                     <author>
                                         <persName>Dolane, R.</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -39401,7 +39397,7 @@
                                     <author>
                                         <persName>Dorian, Tola</persName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -39445,7 +39441,7 @@
                                         <publisher>
                                             <persName>P. V. Stock</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1902"/>
                                     </imprint>
@@ -39515,7 +39511,7 @@
                                         <publisher>
                                             <orgName>P.-V. Stock</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
@@ -40078,7 +40074,7 @@
                                         <publisher>
                                             <orgName>Aldine Book Publishing Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date when="1858"/>
                                     </imprint>
@@ -40669,7 +40665,7 @@
                                         <publisher>
                                             <orgName>The Religious Tract Society</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -40884,7 +40880,7 @@
                                     <author>
                                         <orgName>Tudor Library</orgName>
                                     </author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Margaret L. Lee</name>
@@ -41208,7 +41204,7 @@
                                         <publisher>
                                             <persName>Niccolo Giannotta</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#catania">Catania</pubPlace>
                                         <date when="1900"/>
                                     </imprint>
@@ -41288,7 +41284,7 @@
                                         <publisher>
                                             <persName>Lefevre</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1823"/>
                                     </imprint>
@@ -41348,7 +41344,7 @@
                                         <publisher>
                                             <persName>Thomas G. Stevenson</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#edinburgh">Edinburgh</pubPlace>
                                         <date when="1843"/>
                                     </imprint>
@@ -41460,7 +41456,7 @@
                                         <publisher>
                                             <persName>Samuel Jallasson</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1727"/>
                                     </imprint>
@@ -41520,7 +41516,7 @@
                                         <publisher>
                                             <persName>L. White</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher corresp="#wogan">
                                             <persName>P. Wogan</persName>
                                         </publisher>
@@ -41530,18 +41526,18 @@
                                         <publisher>
                                             <persName>J. Cash</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#mkenzie">
                                             <persName>W. M'Kenzie</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>J. Moore</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <publisher>
                                             <persName>J. Jones</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#dublin">Dublin</pubPlace>
                                         <date when="1786"/>
                                     </imprint>
@@ -41973,7 +41969,7 @@
                                         <publisher>
                                             <persName>S. W. Green</persName>
                                         </publisher>
-                                        <!-- Difficult to determine correct LCNAF, if one exists. -->
+                                        
                                         <pubPlace ref="#washington">Washington</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -42578,7 +42574,7 @@
                                         <publisher>
                                             <persName>Septimus Prowett</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1828"/>
                                     </imprint>
@@ -42679,7 +42675,7 @@
                                         <publisher>
                                             <persName>Guillaume Bowyer</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">Londres</pubPlace>
                                         <date when="1722"/>
                                     </imprint>
@@ -42943,7 +42939,7 @@
                                         <publisher>
                                             <persName>Ferdinand Bastien</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1798"/>
                                     </imprint>
@@ -43016,7 +43012,7 @@
                                         <publisher>
                                             <orgName>Turnbull Brothers</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#baltimore">Baltimore</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -43112,7 +43108,7 @@
                                         <publisher>
                                             <persName>John Weld</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1687"/>
                                         <!-- I think 1637 was a mistake by the auctioneers. 
@@ -43371,7 +43367,7 @@
                                     <author>
                                         <persName>Seymour, Mrs.</persName>
                                     </author>
-                                    <!-- Jane Seymour, difficult to determine appropriate LCNAF. -->
+                                    
                                     <note type="description" corresp="#presentation">one of 50
                                         copies, presentation copy, with inscription</note>
                                     <note type="inscription">A. C. Swinburne, Esq. with the
@@ -43538,7 +43534,7 @@
                                     <author>
                                         <orgName>Shakespeare Society</orgName>
                                     </author>
-                                    <!-- Lots of these, hard to determine appropriate LCNAF. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">one of
                                         six copies in this form, half roan, uncut, presentation
                                         copy, with autograph inscription</note>
@@ -43814,7 +43810,7 @@
                                         <publisher>
                                             <persName>Francis Eaglesfield</persName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1641"/>
                                     </imprint>
@@ -44123,7 +44119,7 @@
                                     <note type="description">russia, for John Playfere</note>
                                     <imprint>
                                         <publisher>Printed by G. Miller</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <date when="1665"/>
                                     </imprint>
                                 </monogr>
@@ -44410,7 +44406,7 @@
                                         <publisher>
                                             <orgName>Maison Goupil et Cie</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <publisher corresp="#boussod_valadon_cie">
                                             <orgName>Boussod, Valadon et Cie</orgName>
                                         </publisher>
@@ -45834,7 +45830,7 @@
                                     <edition corresp="#deluxe_ed">"Edition de luxe."</edition>
                                     <imprint>
                                         <publisher>Emile Testard</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -46202,7 +46198,7 @@
                                     <title>Over Fen and Fold</title>
                                     <!-- This is the title given in the catalogue, but actual title is "Wold". See item. -->
                                     <author><persName>Hissey, Jas. John</persName></author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation">map and
                                         illustrations, uncut, presentation copy from Swinburne with
                                         autograph inscription on half title.</note>
@@ -46252,7 +46248,7 @@
                                         Algernon Charles Swinburne</note>
                                     <imprint>
                                         <publisher>J. Hetzel</publisher>
-                                        <!-- No LCNAF found for individual, but some for possible organizations. -->
+                                        
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -47074,7 +47070,7 @@
                                         Swinburne</note>
                                     <imprint>
                                         <publisher>James Hay</publisher>
-                                        <!-- Difficult to determine correct LCNAF if one exists. -->
+                                        
                                         <pubPlace ref="#aberdeen">Aberdeen</pubPlace>
                                         <date when="1888"/>
                                     </imprint>
@@ -47099,7 +47095,7 @@
                                         Swinburne, <date when="1907-12-02"/>Dec. 2, 1907</note>
                                     <imprint>
                                         <publisher>Mayer &amp; Müller</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#berlin">Berlin</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -47898,7 +47894,7 @@
                                     <title>In the Green Leaf and the Sere, by a Son of the Marshes,
                                         edited by J. A. Owen</title>
                                     <author><persName>Visger, Mrs. O.</persName></author>
-                                    <!-- No LCNAF found. -->
+                                    
                                     <note type="description" corresp="#uncut #presentation"
                                         >illustrations, uncut, presentation copy from Swinburne,
                                         with autograph inscription.</note>
@@ -48000,7 +47996,7 @@
                                         Swinburne</note>
                                     <imprint>
                                         <publisher>B. Robson</publisher>
-                                        <!-- No LCNAF found. -->
+                                        
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
