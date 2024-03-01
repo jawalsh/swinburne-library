@@ -2978,6 +2978,12 @@
                         <birth when="1428"/>
                         <death when="1524"/>
                     </person>
+                    <person xml:id="leopardi">
+                        <persName source="https://id.loc.gov/authorities/names/n79084166">Leopardi,
+                            Giacomo, 1798-1837</persName>
+                        <birth when="1798"/>
+                        <death when="1837"/>
+                    </person>
                     <person xml:id="lever">
                         <persName source="http://id.loc.gov/authorities/names/n82108888">Lever,
                             Charles, 1806-1872</persName>
@@ -3853,6 +3859,12 @@
                         <birth when="1815"/>
                         <death when="1891"/>
                     </person>
+                    <person xml:id="propertius">
+                        <persName source="http://id.loc.gov/authorities/names/n79042233">Propertius, 
+                            Sextus</persName>
+                        <birth cert="unknown" when="-0052"/>
+                        <death cert="unknown" when="-0014"/>
+                    </person>
                     <person xml:id="purchas">
                         <persName source="http://id.loc.gov/authorities/names/no94032392">Purchas,
                             John, 1823-1872</persName>
@@ -4646,6 +4658,12 @@
                             Alexandre, baron de, 1765-1842</persName>
                         <birth when="1765"/>
                         <death when="1842"/>
+                    </person>
+                    <person xml:id="tibullus">
+                        <persName source="http://id.loc.gov/authorities/names/n78087625">Tibullus
+                        </persName>
+                        <birth cert="unknown" when="-0054"/>
+                        <death cert="unknown" when="-0018"/>
                     </person>
                     <person xml:id="tomkis">
                         <persName source="http://id.loc.gov/authorities/names/n83008323">Tomkis,
@@ -8996,7 +9014,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb041">
-                            <biblStruct corresp="#owned" xml:id="sb041.1">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb041.1">
                                 <monogr>
                                     <title xml:lang="fr">Les Fleurs du Mal</title>
                                     <author corresp="#baudelaire">
@@ -10434,7 +10452,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb074">
-                            <biblStruct corresp="#owned #top100" xml:id="sb074.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb074.1">
                                 <monogr>
                                     <title xml:lang="it">Il Decameron a la Sphere</title>
                                     <author corresp="#boccaccio">
@@ -10455,7 +10473,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb075">
-                            <biblStruct corresp="#owned #top100" xml:id="sb075.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb075.1">
                                 <monogr>
                                     <title xml:lang="it">Decameron, con discorio da Foscolo</title>
                                     <author corresp="#boccaccio">
@@ -13185,7 +13203,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb136">
-                            <biblStruct corresp="#owned #top100" xml:id="sb136.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb136.1">
                                 <monogr>
                                     <title>Carmina, now first completely Englished into Verse and
                                         Prose</title>
@@ -14895,7 +14913,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb177">
-                            <biblStruct corresp="#owned #top100" xml:id="sb177.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb177.1">
+                                <!-- Swinburne cites Inf. III.84 -->
                                 <monogr>
                                     <title xml:lang="it">La Commedia di Dante Alighieri, illustra da
                                         Ugo Foscolo</title>
@@ -18625,7 +18644,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb272">
-                            <biblStruct corresp="#owned #top100" xml:id="sb272.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb272.1">
                                 <monogr>
                                     <title>With the Pervigilium Veneris</title>
                                     <author corresp="#catullus">
@@ -22741,9 +22760,9 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb378">
-                            <biblStruct corresp="#owned #top100" xml:id="sb378.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb378.1">
                                 <monogr>
-                                    <title xml:lang="fr">La Legende des Siècles</title>
+                                    <title xml:lang="fr">La Légende des Siècles</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
@@ -22838,9 +22857,10 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb379">
-                            <biblStruct corresp="#owned #top100" xml:id="sb379.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb379.1">
+                                <!-- Swinburne cites the poem Floréal -->
                                 <monogr>
-                                    <title xml:lang="fr">Les Chatiments</title>
+                                    <title xml:lang="fr">Les Châtiments</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
@@ -22885,9 +22905,9 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb381">
-                            <biblStruct corresp="#owned #top100" xml:id="sb381.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb381.1">
                                 <monogr>
-                                    <title xml:lang="fr">La Legende des Siècles, Tome cinquième et
+                                    <title xml:lang="fr">La Légende des Siècles, Tome cinquième et
                                         dernier</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
@@ -22937,7 +22957,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb383">
-                            <biblStruct corresp="#owned #top100" xml:id="sb383.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb383.1">
+                                <!-- Swinburne cites Lorsque l’enfant paraît, in Les feuilles d'automne -->
                                 <monogr>
                                     <title>Œuvres</title>
                                     <author corresp="#hugo">
@@ -22954,7 +22975,7 @@
                                         <measure unit="volumes" quantity="10"/>
                                     </extent>
                                 </monogr>
-                                <!-- Odes et balladesl Les orientales, 2 vol -->
+                                <!-- Odes et ballades Les orientales, 2 vol -->
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/inu.30000118163181"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
@@ -22985,7 +23006,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb384">
-                            <biblStruct corresp="#owned #top100" xml:id="sb384.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb384.1">
                                 <monogr>
                                     <title xml:lang="fr">Œuvres Complètes</title>
                                     <author corresp="#hugo">
@@ -25328,7 +25349,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb442">
-                            <biblStruct corresp="#owned #top100" xml:id="sb442.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb442.1">
                                 <monogr>
                                     <title>Imaginary Conversations of Literary Men and Statesmen,
                                         Both Series</title>
@@ -27030,7 +27051,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned #top100" xml:id="sb477.2">
                                 <monogr>
-                                    <title>OEuvres</title>
+                                    <title>OEuvres complètes</title>
                                     <author corresp="#voltaire">
                                         <persName>Voltaire</persName>
                                     </author>
@@ -28460,7 +28481,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb511">
-                            <biblStruct corresp="#owned #top100" xml:id="sb511.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb511.1">
                                 <monogr>
                                     <title>Poetical Works, with Life of the Author by John
                                         Mitford</title>
@@ -28493,7 +28514,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb512">
-                            <biblStruct corresp="#owned #top100" xml:id="sb512.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb512.1">
                                 <monogr>
                                     <title>Poetical Works, with Life, Critical Dissertation and
                                         Explanatory Notes, by Geo. Gilfillan</title>
@@ -29448,7 +29469,7 @@
                                     target="https://hdl.handle.net/2027/nyp.33433075834279"/>
                                 <note type="fulltext">HT copy from 1869.</note>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb533.5">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb533.5">
                                 <monogr>
                                     <title>Villon</title>
                                     <author corresp="#villon"><persName>Villon</persName></author>
@@ -31521,15 +31542,21 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433074382866"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb590.2">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb590.2">
                                 <monogr>
-                                    <title xml:lang="la">Tibulli at Propertii Opera</title>
+                                    <title xml:lang="la">Catulli, Tibulli, et Propertii Opera</title>
                                     <author corresp="#catullus">
                                         <persName>Catulli</persName>
                                     </author>
+                                    <author corresp="#tibullus">
+                                        <persName>Tibullus</persName>
+                                    </author>
+                                    <author corresp="#propertius">
+                                        <persName>Propertius</persName>
+                                    </author>
                                     <note type="description">old calf</note>
                                     <note type="etc">
-                                        <num value="4"/>
+                                        Sb367.3     <num value="4"/>
                                     </note>
                                     <edition>Baskerville's Edition</edition>
                                     <imprint>
@@ -34528,7 +34555,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb670">
-                            <biblStruct corresp="#owned #top100" xml:id="sb670.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb670.1">
                                 <monogr>
                                     <title>Poems</title>
                                     <author corresp="#rossetti_dg">
@@ -36006,7 +36033,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb702">
-                            <biblStruct corresp="#owned #top100" xml:id="sb702.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb702.1">
                                 <monogr>
                                     <title>Titus Andronicus, facsimile of First Quarto by C.
                                         Praetorius, with Introduction by Arthur Symons</title>
@@ -36208,7 +36235,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb708">
-                            <biblStruct corresp="#owned #top100" xml:id="sb708.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb708.1">
                                 <monogr>
                                     <title>Plays, with Prefaces, Glossary, etc. by I.
                                         Gollanez</title>
@@ -36265,7 +36292,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb710">
-                            <biblStruct corresp="#owned #top100" xml:id="sb710.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb710.1">
                                 <monogr>
                                     <title>Works, the Text revised by Alex. Dyce</title>
                                     <author corresp="#shakespeare">
@@ -36608,7 +36635,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb717">
-                            <biblStruct corresp="#owned #top100" xml:id="sb717.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb717.1">
                                 <monogr>
                                     <title>Miscellaneous and Posthumous Poems</title>
                                     <author corresp="#shelley_p">
@@ -36686,7 +36713,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb719">
-                            <biblStruct corresp="#owned #top100" xml:id="sb719.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb719.1">
                                 <monogr>
                                     <title>Poetical Works, edited, with Notes and Memoir, by W. M.
                                         Rossetti</title>
@@ -36749,7 +36776,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb720">
-                            <biblStruct corresp="#owned #top100" xml:id="sb720.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb720.1">
                                 <monogr>
                                     <title>Poetical and Prose Works</title>
                                     <author corresp="#shelley_p">
@@ -37694,7 +37721,7 @@
                                 <note type="fulltext">Volume 1 is Second Edition, published in
                                     1897.</note>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb743.2">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb743.2">
                                 <monogr>
                                     <title>Poems, Dialogues in Verse, and Epigrams</title>
                                     <author corresp="#landor_w">
@@ -40916,7 +40943,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned #top100" xml:id="sb825.3">
                                 <monogr>
-                                    <title>Comus a Maske</title>
+                                    <title>Comus, a Maske</title>
                                     <author corresp="#milton">
                                         <persName>Milton, J.</persName>
                                     </author>
@@ -43749,7 +43776,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb908">
-                            <biblStruct corresp="#owned #top100" xml:id="sb908.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb908.1">
+                                <!-- Swinburne cites a line from Sophocles' Antigone -->
                                 <monogr>
                                     <title xml:lang="la">Opera Omnia Gr. et Lat. cum Notis R. F. Ph.
                                         Brunck</title>
@@ -44592,7 +44620,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb934">
-                            <biblStruct corresp="#owned #top100" xml:id="sb934.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb934.1">
                                 <monogr>
                                     <title>Comedies, Histories and Tragedies</title>
                                     <author corresp="#shakespeare">
@@ -46614,7 +46642,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd545">
-                            <biblStruct xml:id="wd545.1" corresp="#annotated #presented_by #top100">
+                            <biblStruct xml:id="wd545.1" corresp="#annotated #presented_by #top100 #referenced">
                                 <monogr>
                                     <title>Hellenics, enlarged and completed</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -47379,7 +47407,7 @@
                 <div type="day" n="4">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd908">
-                            <biblStruct xml:id="wd908.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd908.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Works, Handy Volume Edition</title>
                                     <author corresp="#shakespeare"><persName>Shakespeare,
@@ -48553,6 +48581,56 @@
                     <author corresp="#aristophanes"><persName>Aristophanes</persName></author>
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/uiug.30112023764837"/>
+                </bibl>
+                <bibl xml:id="gautier_laMorteAmoureuse" corresp="#referenced">
+                    <!-- this title and Une Nuit de Cléopâtre are in this same volume -->
+                    <title>La Morte Amoureuse</title>
+                    <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
+                    <relatedItem type="full-text" corresp="ia"
+                        target="https://archive.org/details/nouvelles01gautgoog/page/n266/mode/2up"/>
+                </bibl>
+                <bibl xml:id="gautier_uneNuitDeCléopâtre" corresp="#referenced">
+                    <title>Une Nuit de Cléopâtre</title>
+                    <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
+                    <relatedItem type="full=text" corresp="ia"
+                        target="https://archive.org/details/nouvelles01gautgoog/page/n326/mode/2up"/>
+                </bibl>
+                <bibl xml:id="gautier_mademoiselleDeMaupin" corresp="#referenced">
+                    <title>Mademoiselle de Maupin</title>
+                    <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
+                    <relatedItem n="1" type="full-text" corresp="#ht" 
+                        target="https://hdl.handle.net/2027/wu.89010630259"/>
+                    <relatedItem n="2" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/wu.89010630242"/>
+                </bibl>
+                <bibl xml:id="leopardi_allItalia" corresp="#referenced">
+                    <!-- Swinburn quotes the poem, All' Italia -->
+                    <title>Canti</title>
+                    <author corresp="#leopardi"><persName>Leopardi, Giacomo</persName></author>
+                    <relatedItem type="full-text" corresp="#ia"
+                        target="https://archive.org/details/bub_gb_bWXW0FJNhDoC/page/n3/mode/2up"/>
+                </bibl>
+                <bibl xml:id="pindar_dithyrambs" corresp="#referenced">
+                    <!-- Swinburne cites Fr. 76 from Pindar's Dithyrambs; and -->
+                    <title>Dithyrambs</title>
+                    <author corresp="#pindar"><persName>Pindar</persName></author>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.32044085146918"/>
+                </bibl>
+                <bibl xml:id="hugo_lesQuatreVents" corresp="#referenced">
+                    <!-- Swinburne cites Le Livre Lyrique from Les Quatre Vents de l’esprit -->
+                    <title>Les Quatre Vents de l’esprit</title>
+                    <author corresp="#hugo"><persName>Hugo, Victor</persName></author>
+                    <relatedItem n="1" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/wu.89015420706"/>
+                    <relatedItem n="2" type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/wu.89015420714"/>
+                </bibl>
+                <bibl xml:id="heine_memoirs" corresp="#referenced">
+                    <title>Memoirs of Heinrich Heine</title>
+                    <author corresp="#heine"><persName>Heine, Heinrich</persName></author>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/hvd.hwsp3c"/>
                 </bibl>
                 <!--                         
                     <biblStruct xml:id="" corresp="">
