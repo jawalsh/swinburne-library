@@ -1286,6 +1286,10 @@
                         <birth when="1853"/>
                         <death when="1931"/>
                     </person>
+                    <person xml:id="callimachus">
+                        <persName source="http://id.loc.gov/authorities/names/n80040584">Callimachus
+                        </persName>
+                    </person>
                     <person xml:id="calvert">
                         <persName source="http://id.loc.gov/authorities/names/n82140097">Calvert,
                             Samuel</persName>
@@ -16724,7 +16728,7 @@
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433082194196"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb218.2">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb218.2">
                                 <monogr>
                                     <title xml:lang="fr">Notre-Dame de Paris</title>
                                     <author corresp="#hugo">
@@ -22709,7 +22713,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb377">
-                            <biblStruct corresp="#owned #top100" xml:id="sb377.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb377.1">
                                 <monogr>
                                     <title xml:lang="fr">Les Contemplations</title>
                                     <author corresp="#hugo">
@@ -22881,7 +22885,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb380">
-                            <biblStruct corresp="#owned #top100" xml:id="sb380.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb380.1">
                                 <monogr>
                                     <title xml:lang="fr">Torquemada, Drame</title>
                                     <author corresp="#hugo">
@@ -22931,7 +22935,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb382">
-                            <biblStruct corresp="#owned #top100" xml:id="sb382.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb382.1">
                                 <monogr>
                                     <title>Hernani, a Drama, with Introduction</title>
                                     <author corresp="#hugo">
@@ -23136,7 +23140,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb385">
-                            <biblStruct corresp="#owned #top100" xml:id="sb385.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb385.1">
                                 <monogr>
                                     <title>Œuvres, Poésie XIII</title>
                                     <author corresp="#hugo">
@@ -46244,7 +46248,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd437">
-                            <biblStruct xml:id="wd437.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd437.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>William Shakespeare</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46265,7 +46269,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd439">
-                            <biblStruct xml:id="wd439.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd439.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Histoire d’un Crime</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46288,7 +46292,7 @@
                         <listBibl type="lot" xml:id="wd440">
                             <biblStruct xml:id="wd440.1" corresp="#presented_by #annotated #top100">
                                 <monogr>
-                                    <title>La Pitié Supreme</title>
+                                    <title>La Pitié Suprême</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
                                     <note type="description" corresp="#presentation">pp. 1-32 only,
                                         presentation copy from Swinburne, with his autograph
@@ -46307,7 +46311,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd442">
-                            <biblStruct xml:id="wd442.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd442.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>OEuvres: Cromwell</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46328,7 +46332,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd443">
-                            <biblStruct xml:id="wd443.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd443.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>OEuvres: Notre Dame de Paris</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -48631,6 +48635,12 @@
                     <author corresp="#heine"><persName>Heine, Heinrich</persName></author>
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/hvd.hwsp3c"/>
+                </bibl>
+                <bibl xml:id="callimachus_lavacrumPalladis" corresp="#referenced">
+                    <title>Lavacrum Palladis</title>
+                    <author corresp="#callimachus"><persName>Callimachus</persName></author>
+                    <relatedItem type="full-text" corresp="#ht" 
+                        target="https://hdl.handle.net/2027/nyp.33433081617890"/>
                 </bibl>
                 <!--                         
                     <biblStruct xml:id="" corresp="">
