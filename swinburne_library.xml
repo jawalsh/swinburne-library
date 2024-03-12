@@ -2698,12 +2698,6 @@
                         <birth when="1802"/>
                         <death when="1885"/>
                     </person>
-                    <person xml:id="hugo_a">
-                        <persName source="http://id.loc.gov/authorities/names/n87143945">Hugo, 
-                            Adèle, 1806-1868</persName>
-                        <birth when="1806"/>
-                        <death when="1868"/>
-                    </person>
                     <person xml:id="hunt_l">
                         <persName source="http://id.loc.gov/authorities/names/n80032721">Hunt,
                             Leigh, 1784-1859</persName>
