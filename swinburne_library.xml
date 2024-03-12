@@ -2698,6 +2698,12 @@
                         <birth when="1802"/>
                         <death when="1885"/>
                     </person>
+                    <person xml:id="hugo_a">
+                        <persName source="http://id.loc.gov/authorities/names/n87143945">Hugo, 
+                            Adèle, 1806-1868</persName>
+                        <birth when="1806"/>
+                        <death when="1868"/>
+                    </person>
                     <person xml:id="hunt_l">
                         <persName source="http://id.loc.gov/authorities/names/n80032721">Hunt,
                             Leigh, 1784-1859</persName>
@@ -3341,6 +3347,12 @@
                             Horace, 1816-1872</persName>
                         <birth when="1816"/>
                         <death when="1872"/>
+                    </person>
+                    <person xml:id="mayne">
+                        <persName source="http://id.loc.gov/authorities/names/n82225906">Mayne, 
+                            Jasper, 1604-1672</persName>
+                        <birth when="1604"/>
+                        <death when="1672"/>
                     </person>
                     <person xml:id="mazzini">
                         <persName source="http://id.loc.gov/authorities/names/n79003282">Mazzini,
@@ -4589,6 +4601,11 @@
                         <persName source="http://id.loc.gov/authorities/names/n80145600">Tacitus,
                             Cornelius</persName>
                     </person>
+                    <person xml:id="tailor">
+                        <persName source="http://id.loc.gov/authorities/names/n83230277">Tailor, 
+                            Robert, active 1614</persName>
+                        <floruit when="1614"/>
+                    </person>
                     <person xml:id="tasso">
                         <persName source="http://id.loc.gov/authorities/names/n79082132">Tasso,
                             Torquato, 1544-1595</persName>
@@ -5008,6 +5025,11 @@
                             Charles Whitworth, 1869-1917</persName>
                         <birth when="1869"/>
                         <death when="1917"/>
+                    </person>
+                    <person>
+                        <persName source="http://id.loc.gov/authorities/names/n83230273">Yarington, 
+                            Robert, active 1601</persName>
+                        <floruit when="1601"/>
                     </person>
                     <person xml:id="young">
                         <persName source="http://id.loc.gov/authorities/names/n91013511">Young,
@@ -15641,9 +15663,9 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb195">
-                            <biblStruct corresp="#owned" xml:id="sb195.1">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb195.1">
                                 <monogr>
-                                    <title>Select Collection of Old English PLays</title>
+                                    <title>Select Collection of Old English Plays</title>
                                     <author corresp="#dodsley">
                                         <persName>Dodsley, Robt.</persName>
                                     </author>
@@ -25284,7 +25306,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb440">
-                            <biblStruct corresp="#owned #top100" xml:id="sb440.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb440.1">
                                 <monogr>
                                     <title>Gebir, a Poem</title>
                                     <author corresp="#landor_w">
@@ -25301,7 +25323,7 @@
                                 <relatedItem type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=4zdcAAAAcAAJ"/>
                             </biblStruct>
-                            <biblStruct xml:id="sb440.2" corresp="#owned #top100">
+                            <biblStruct xml:id="sb440.2" corresp="#owned #top100 #referenced">
                                 <monogr>
                                     <title>Antony and Octavius</title>
                                     <author corresp="#landor_w">
@@ -25315,7 +25337,7 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/loc.ark:/13960/t6zw2rf2r"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb440.3">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb440.3">
                                 <monogr>
                                     <title>Hellenics, comprising Heroic Idylls, etc.</title>
                                     <author corresp="#landor_w">
@@ -25334,7 +25356,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb441">
-                            <biblStruct corresp="#owned #top100" xml:id="sb441.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb441.1">
                                 <monogr>
                                     <title xml:lang="la">Idyllia nova quinque Heroum atque Heroidum,
                                         etc.</title>
@@ -25388,7 +25410,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb443">
-                            <biblStruct corresp="#owned #top100" xml:id="sb443.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb443.1">
                                 <monogr>
                                     <title>The Pentameron and Pentalogia</title>
                                     <author corresp="#landor_w">
@@ -25410,7 +25432,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb444">
-                            <biblStruct corresp="#owned #top100" xml:id="sb444.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb444.1">
                                 <monogr>
                                     <title>Andrea of Hungary, and Giovanna of Naples</title>
                                     <author corresp="#landor_w">
@@ -25428,7 +25450,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t86h4kc8c"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb444.2">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb444.2">
                                 <monogr>
                                     <title>Heroic Idylls, with Additional Poems</title>
                                     <author corresp="#landor_w">
@@ -25509,7 +25531,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb446">
-                            <biblStruct corresp="#owned #top100" xml:id="sb446.1">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb446.1">
                                 <monogr>
                                     <title>Pericles and Aspasia</title>
                                     <author corresp="#landor_w">
@@ -25605,7 +25627,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/mdp.49015000766767"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb447.2">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb447.2">
                                 <monogr>
                                     <title>Imaginary Conversations of Greeks and Romans</title>
                                     <author corresp="#landor_w">
@@ -36373,7 +36395,8 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.32044024365397"/>
                             </biblStruct>
-                            <biblStruct corresp="#owned #top100" xml:id="sb711.3">
+                            <biblStruct corresp="#owned #top100 #referenced" xml:id="sb711.3">
+                                <!-- contains A Yorkshire Tragedy -->
                                 <monogr>
                                     <title>Shakespeare Apocrypha, edited, with Notes, etc. by C. F.
                                         Tucker Brooke</title>
@@ -38024,7 +38047,7 @@
                                     target="https://hdl.handle.net/2027/inu.30000115393435"/>
                                 <note type="fulltext">HT only has vol 1.</note>
                             </biblStruct>
-                            <biblStruct corresp="#owned" xml:id="sb749.2">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb749.2">
                                 <monogr>
                                     <title>Dramatick Works</title>
                                     <author corresp="#lee">
@@ -42800,7 +42823,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb876">
-                            <biblStruct corresp="#owned" xml:id="sb876.1">
+                            <biblStruct corresp="#owned #referenced" xml:id="sb876.1">
                                 <monogr>
                                     <title>Collections of Old English Plays</title>
                                     <respStmt>
@@ -46555,7 +46578,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd539">
-                            <biblStruct xml:id="wd539.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd539.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Gebir, Count Julian, and other Poems</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46577,7 +46600,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd540">
-                            <biblStruct xml:id="wd540.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd540.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Gebir, Count Julian, and other Poems</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46598,7 +46621,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd542">
-                            <biblStruct xml:id="wd542.2" corresp="#presented_by #signed">
+                            <biblStruct xml:id="wd542.2" corresp="#presented_by #signed #referenced">
                                 <monogr>
                                     <title>Merry Devil of Edmonton</title>
                                     <respStmt>
@@ -46622,7 +46645,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd543">
-                            <biblStruct xml:id="wd543.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd543.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>The Pentameron and Pentalogia</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46689,7 +46712,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd550">
-                            <biblStruct xml:id="wd550.1" corresp="#presented_by #annotated #top100">
+                            <biblStruct xml:id="wd550.1" corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Last Fruit off an Old Tree</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -48641,6 +48664,97 @@
                     <author corresp="#callimachus"><persName>Callimachus</persName></author>
                     <relatedItem type="full-text" corresp="#ht" 
                         target="https://hdl.handle.net/2027/nyp.33433081617890"/>
+                </bibl>
+                <biblStruct xml:id="literaryHours" corresp="#referenced">
+                    <monogr>
+                        <title>Literary Hours by Various Friends</title>
+                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#hunt_l"><persName>Hunt, Leigh</persName></author>
+                        <respStmt>
+                            <resp>Editor</resp>
+                            <persName>Josiah Ablett</persName>
+                            <!-- Josiah Ablett not in LCNAF -->
+                        </respStmt>
+                        <note type="description">From HathiTrust: "Includes contributions by Walter Savage Landor and Leigh Hunt.
+                            Edited by Josiah Ablett."</note>
+                        <imprint>
+                            <publisher>George Smith</publisher>
+                            <pubPlace ref="#london">London?</pubPlace>
+                            <date when="1837"/>
+                        </imprint>
+                    </monogr>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/njp.32101072899014"/>
+                    <note resp="#brandon">
+                        This work contains Walter Savage Landor's <title>The Death of Hofer</title>.
+                    </note>
+                </biblStruct>
+                <biblStruct xml:id="landor_citationAndExamination" corresp="#referenced">
+                    <monogr>
+                        <title>Citation and Examination of William Shakespeare</title>
+                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <imprint>
+                            <publisher corresp="#saunders_and_otley">Saunders and Oatley</publisher>
+                            <pubPlace ref="#london">London</pubPlace>
+                            <date when="1834"/>
+                        </imprint>
+                    </monogr>
+                    <relatedItem type="full-text" corresp="#ht"
+                        target="https://hdl.handle.net/2027/uc2.ark:/13960/t8x92878j"/>
+                </biblStruct>
+                <biblStruct xml:id="landor_poems" corresp="#referenced">
+                    <monogr>
+                        <title>The Poems of Walter Savage Landor</title>
+                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <imprint>
+                            <publisher corresp="#cadell_davies">T. Cadell and W. Davies</publisher>
+                            <pubPlace ref="#london">London</pubPlace>
+                            <date when="1795"/>
+                        </imprint>
+                    </monogr>
+                    <!-- Cannot find a scan of this edition online. It is very rare because 
+                        Landor suppressed its publication out of shame. -->
+                </biblStruct>
+                <biblStruct xml:id="landor_moralEpistle" corresp="#referenced">
+                    <monogr>
+                        <title>Moral Epistle, Respectfully Dedicated to Earl Stanhope</title>
+                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <imprint>
+                            <publisher corresp="#cadell_davies">T. Cadell and W. Davies</publisher>
+                            <pubPlace ref="#london">London</pubPlace>
+                            <date when="1795"/>
+                        </imprint>
+                    </monogr>
+                    <!-- cannot find a scan of this edition online -->
+                </biblStruct>
+                <biblStruct xml:id="landor_works" corresp="#referenced">
+                    <!-- to my knowledge, this is the earliest volume in which The Coronation is published -->
+                    <monogr>
+                        <title>The Works of Walter Savage Landor</title>
+                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <imprint>
+                            <publisher corresp="#moxon">Edward Moxon</publisher>
+                            <pubPlace ref="#london"></pubPlace>
+                            <date when="1846"/>
+                        </imprint>
+                        <extent>
+                            <measure unit="volumes" quantity="2"/>
+                        </extent>
+                    </monogr>
+                    <relatedItem n="1" type="full-text" corresp="#ia"
+                        target="https://archive.org/embed/workswaltersava04landgoog"/>
+                    <relatedItem n="2" type="full-text" corresp="#ia"
+                        target="https://archive.org/embed/workswaltersava00moxogoog"/>
+                </biblStruct>
+                <bibl>
+                    <title>Nobody and Somebody</title>
+                    <relatedItem type="full-text" corresp="#ia"
+                        target="https://archive.org/details/cu31924013127133/page/n15/mode/2up"></relatedItem>
+                </bibl>
+                <bibl>
+                    <title>A Warning for Fair Women</title>
+                    <relatedItem type="full-text" corresp="#ia"
+                        target="https://archive.org/details/cu31924013127331/page/n9/mode/2up"></relatedItem>
                 </bibl>
                 <!--                         
                     <biblStruct xml:id="" corresp="">
