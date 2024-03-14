@@ -9524,7 +9524,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.a0012385142"/>
                                 <note type="fulltext">HT has only vol 1, noting that there are 4
-                                    total. Date 1890.</note>
+                                    total. Date 1890. Possible correct edition is Simpkin (1892).</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb053">
@@ -9543,9 +9543,11 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/iau.31858023974466"/>
-                                <note type="fulltext">HT copy is only physically one volume.</note>
+                                <relatedItem type="full-text" corresp="#ht" n="1"
+                                    target="https://hdl.handle.net/2027/nyp.33433074925763"/>
+                                <relatedItem type="full-text" corresp="#ht" n="2"
+                                    target="https://hdl.handle.net/2027/nyp.33433074925771"/>
+                                <note type="fulltext">HT copy is 1807, not 1806 to 1807.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb054">
@@ -9579,7 +9581,7 @@
                         <listBibl type="lot" xml:id="sb055">
                             <biblStruct corresp="#owned" xml:id="sb055.1">
                                 <monogr>
-                                    <title>Bertrand: or Memoirs of a Northumbrian Gentleman in the
+                                    <title>Bertrand: or Memoirs of a Northumbrian Nobleman in the
                                         Seventeenth Century, written by himself</title>
                                     
                                     <author>
@@ -9602,6 +9604,7 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
+                                <note type="fulltext">Cannot locate copy. Title has been corrected from "Northumbrian Gentleman" to "Northumbrian Nobleman."</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb056">
@@ -9724,12 +9727,9 @@
                                         <date>n. d.</date>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht"
-                                    target="https://hdl.handle.net/2027/hvd.hwx2xz"/>
-                                <note type="fulltext">HT copy dated 1892, no illustrations upon
-                                    quick scan, and title is "The Spanish story of the Armada and
-                                    other essays" by James Anthony Froude.</note>
+                                <note type="fulltext">Cannot find copy. Is not Froude's "The Spanish Story of the Armada" because contemporary library catalogs list potential matches.</note>
                             </biblStruct>
+                            <!-- alewinga, stopped here. -->
                             <biblStruct corresp="#owned" xml:id="sb057.3">
                                 <monogr>
                                     <title>'Tis Merry when Gossips Meet</title>
