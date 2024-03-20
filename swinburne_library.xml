@@ -9729,7 +9729,7 @@
                                 </monogr>
                                 <note type="fulltext">Cannot find copy. Is not Froude's "The Spanish Story of the Armada" because contemporary library catalogs list potential matches.</note>
                             </biblStruct>
-                            <!-- alewinga, stopped here. -->
+                            
                             <biblStruct corresp="#owned" xml:id="sb057.3">
                                 <monogr>
                                     <title>'Tis Merry when Gossips Meet</title>
@@ -9930,7 +9930,7 @@
                                             <orgName>P. Jannet</orgName>
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
-                                        <date when="1854"/>
+                                        <date from="1854" to="1857"/><!-- auction catalog just has 1854 -->
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="10"/>
@@ -10110,6 +10110,7 @@
                                     target="https://hdl.handle.net/2027/uiuo.ark:/13960/t1hh6sn06"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiuo.ark:/13960/t7wm1jm9d"/>
+                                <note type="fulltext">Catalog does not list this as having 3 vols.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb063.3">
                                 <monogr>
@@ -10189,6 +10190,7 @@
                                         <date when="1901"/>
                                     </imprint>
                                 </monogr>
+                                <!-- can't find digitized text. -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb065">
@@ -10272,7 +10274,8 @@
                                     target="https://hdl.handle.net/2027/uc1.31822043026632"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31822043032861"/>
-                                <note type="fulltext">HT only has vol 1 and 2.</note>
+                                <relatedItem n="3" type="full-text" corresp="#ia" target="https://archive.org/details/worksofwilliambl03blakrich/page/n9/mode/2up"/>
+
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb068">
@@ -10318,6 +10321,7 @@
                                     target="https://hdl.handle.net/2027/mdp.39015011893180"/>
                             </biblStruct>
                         </listBibl>
+                        <!-- alewinga, stopped here -->
                         <listBibl type="lot" xml:id="sb069">
                             <biblStruct corresp="#owned #top100" xml:id="sb069.1">
                                 <monogr>
@@ -18269,7 +18273,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31175029678219"/>
                             </biblStruct>
-                            <!-- alewinga, stopped here. -->
+                            
                         </listBibl>
                         <listBibl type="lot" xml:id="sb258">
                             <biblStruct corresp="#owned" xml:id="sb258.1">
