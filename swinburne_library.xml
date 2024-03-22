@@ -10321,7 +10321,7 @@
                                     target="https://hdl.handle.net/2027/mdp.39015011893180"/>
                             </biblStruct>
                         </listBibl>
-                        <!-- alewinga, stopped here -->
+
                         <listBibl type="lot" xml:id="sb069">
                             <biblStruct corresp="#owned #top100" xml:id="sb069.1">
                                 <monogr>
@@ -10389,6 +10389,7 @@
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1863"/>
                                     </imprint>
+                                    <extent><measure unit="volumes" quantity="2"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.fl18x7"/>
@@ -10537,6 +10538,7 @@
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date>n. d.</date>
                                     </imprint>
+                                    <extent><measure unit="volumes" quantity="3"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwavry"/>
@@ -10544,6 +10546,7 @@
                                     target="https://hdl.handle.net/2027/hvd.hwavrx"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwavrw"/>
+                                <relatedItem n="4" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwavrv"/>
                                 <note type="fulltext">HT copy has the year 1813, and a fourth volume
                                     listed.</note>
                             </biblStruct>
