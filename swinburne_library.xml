@@ -15667,9 +15667,7 @@
                             <biblStruct corresp="#owned #referenced" xml:id="sb195.1">
                                 <monogr>
                                     <title>Select Collection of Old English Plays</title>
-                                    <author corresp="#dodsley">
-                                        <persName>Dodsley, Robt.</persName>
-                                    </author>
+                                    <!--alewinga, Robert Dodley is listed as author/heading in auction catalog but is merely the original publisher in 1744.-->
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">W. Carew Hazlitt</name>
@@ -31573,7 +31571,7 @@
                                 <monogr>
                                     <title xml:lang="la">Catulli, Tibulli, et Propertii Opera</title>
                                     <author corresp="#catullus">
-                                        <persName>Catulli</persName>
+                                        <persName>Catullus</persName>
                                     </author>
                                     <author corresp="#tibullus">
                                         <persName>Tibullus</persName>
