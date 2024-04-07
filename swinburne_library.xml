@@ -216,7 +216,7 @@
     </teiHeader>
     <text>
         <front>
-            <div>
+            <div n="glossary">
                 <head>Glossary</head>
                 <list type="gloss">
                     <head>Rare Book Terminology</head>
@@ -363,7 +363,7 @@
                     <place source="http://vocab.getty.edu/page/tgn/7013445" xml:id="boston">
                         <placeName type="preferred">Boston</placeName>
                     </place>
-                    <place source="ttp://vocab.getty.edu/page/tgn/7011483" xml:id="brighton">
+                    <place source="http://vocab.getty.edu/page/tgn/7011483" xml:id="brighton">
                         <placeName type="preferred">Brighton</placeName>
                     </place>
                     <place source="http://vocab.getty.edu/page/tgn/7007868" xml:id="brussels">
@@ -5046,7 +5046,7 @@
                 </listPerson>
             </div>
             <div n="publishers">
-                <head>Publishers, Printers, etc.</head>
+                <head>Publishers and Printers</head>
                 <listOrg>
                     <org xml:id="a_k_newman_co">
                         <orgName source="http://id.loc.gov/authorities/names/nr91016003">A.K. Newman
