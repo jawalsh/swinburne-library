@@ -45,16 +45,17 @@
                             <pubPlace ref="#london">London</pubPlace>
                             <publisher>Mansell</publisher>
                             <date when="1972" xml:id="sort_date"/>
-                            <biblScope unit="volume">6</biblScope>
-                            <biblScope unit="page">253-337</biblScope>
+
                         </imprint>
+                        <biblScope unit="volume">6</biblScope>
+                        <biblScope unit="page">253-337</biblScope>
                         <extent>
                             <measure unit="volumes" quantity="5"/>
                         </extent>
                     </monogr>
                     <relatedItem type="full-text" corresp="#google"
                         target="https://books.google.com/books?id=XpVMAQAAMAAJ"/>
-                    <note type="full-text">Google Books appears to be a digitized copy of the
+                    <note type="fulltext">Google Books appears to be a digitized copy of the
                         original catalogue, not the facsimile edition from which the original
                         encoding was conducted.</note>
                 </biblStruct>
@@ -84,14 +85,15 @@
                         <imprint>
                             <pubPlace>London</pubPlace>
                             <date when="1886-01-26"/>
-                            <biblScope unit="volume">XLIII</biblScope>
-                            <biblScope unit="number">6510</biblScope>
-                            <biblScope unit="page">1-2</biblScope>
+
                         </imprint>
+                        <biblScope unit="volume">XLIII</biblScope>
+                        <biblScope unit="number">6510</biblScope>
+                        <biblScope unit="page">1-2</biblScope>
                     </monogr>
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/uc1.$b659691?urlappend=%3Bseq=17%3Bownerid=9007199272287826-21"/>
-                    <note type="full-text">HT text is reprint of the original Pall Mall piece in a
+                    <note type="fulltext">HT text is reprint of the original Pall Mall piece in a
                         collection with others' "best hundred books" lists.</note>
                 </biblStruct>
                 <biblStruct xml:id="poetry">
@@ -7709,9 +7711,10 @@
                                             <orgName>Archibald Constable and Co.</orgName>
                                         </publisher>
                                         <date when="1896"/>
+
                                     </imprint>
                                     <biblScope unit="volume">
-                                        vol. VIII
+                                        VIII
                                     </biblScope>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -7914,7 +7917,7 @@
                                     target="https://hdl.handle.net/2027/hvd.hnjvhy"/>
                                 <relatedItem n="8" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hnjvhz"/>
-                                <note type="full-text">8 volume series also includes Ariosto's I Cinque Canti and Rime e Satire</note>
+                                <note type="fulltext">8 volume series also includes Ariosto's I Cinque Canti and Rime e Satire</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb018">
@@ -9410,8 +9413,9 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date from="1904" to="1908"/>
+
                                     </imprint>
-                                    <biblScope unit="volume" from="I" to="III"/>
+                                    <biblScope unit="volume">I-III</biblScope>
                                     <extent><measure unit="volumes" quantity="3"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#google"
@@ -12413,7 +12417,7 @@
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1835"/>
                                     </imprint>
-                                    <biblScope unit="vol" from="1" to="2"/>
+                                    <biblScope unit="volume">1-2</biblScope>
                                     <extent><measure unit="volumes" quantity="2"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
@@ -17995,7 +17999,7 @@
                                         <date when="1600"/>
                                         <date>rep. n. d.</date>
                                     </imprint>
-                                    <biblScope unit="parts" from="1" to="5"/>
+                                    <biblScope unit="part">1-5</biblScope>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t6154kd2c"/>
@@ -21502,15 +21506,14 @@
                                         >1904</date></note>
                                     <imprint>
                                         <date when="1903"/>
+
                                     </imprint>
-                                    <extent>
-                                        <measure unit="part" quantity="1"/>
-                                    </extent>
+                                    <biblScope unit="part">1</biblScope>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hxqcbe"/>
                                 <note type="fulltext">HT doesn't appear to have 1903 copy; this copy
-                                    is 1904, and is only the first part per extent.</note>
+                                    is 1904, and is only the first part per the catalogue description.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" type="lot" xml:id="sb346.2">
                                 <monogr>
@@ -28020,10 +28023,9 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1896"/>
+
                                     </imprint>
-                                    <extent>
-                                        <measure unit="part" quantity="1">part I</measure>
-                                    </extent>
+                                    <biblScope unit="part">1</biblScope>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/msu.31293106384781"/>
@@ -43280,9 +43282,11 @@
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
                                         <date from="1889" to="1893"/>
+
                                     </imprint>
-                                    <extent><measure unit="parts" quantity="15"/>1-13, 15 and
-                                        18</extent>
+                                    <biblScope unit="part">1-13, 15 and
+                                        18</biblScope>
+                                    <extent><measure unit="parts" quantity="15"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/inu.30000100861784"/>
