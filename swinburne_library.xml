@@ -7220,7 +7220,7 @@
                                     <imprint>
                                         <publisher corresp="#spck_tract">
                                             <orgName>Society for Promoting Christian
-                                                Knowledge</orgName><!-- Tracts Committee specified on title page -->
+                                                Knowledge</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1885"/>
@@ -7724,7 +7724,6 @@
                                     <author>
                                         <persName>Clark, John</persName>
                                     </author>
-                                    <!-- Unsure of how to determine which John Clark may have authored this -->
                                     <note type="descripton" corresp="#presentation">presentation
                                         copy from the author to Swinburne</note>
                                     <note type="etc">
@@ -7750,7 +7749,6 @@
                                     <author corresp="#shakespeare">
                                         <persName>Shakespeare, William</persName>
                                     </author>
-                                    <!-- no author listed in catalog, but now attributed to Shakespeare -->
                                     <note type="description">calf</note>
                                     <note type="etc">etc.</note>
                                     <imprint>
@@ -7759,7 +7757,7 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1770"/>
-                                        <!-- Mistakenly noted as 1720 in catalog and should be 1770. ESTC lists no edition for 1720. -->
+                                        <note type="data">Mistakenly noted as 1720 in catalog and should be 1770. ESTC lists no edition for 1720.</note>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -7784,8 +7782,6 @@
                                         <publisher corresp="#archibald_constable_co">
                                             <orgName>Thomas Constable and Company</orgName>
                                         </publisher>
-                                        <!-- Archibald Constable and Co. became Thomas Constable and Co. in
-                                        the late 1840s. The latter has no LCNAF, so the former might be the best option.-->
                                         <pubPlace ref="#edinburgh">Edinburgh</pubPlace>
                                         <date when="1857"/>
                                     </imprint>
@@ -7811,7 +7807,7 @@
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="3"
-                                        /><!-- seems that 6 volumes bound as 3. -->
+                                        /><note type="data">Likely 6 volumes bound as 3.</note>
                                     </extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#google"
@@ -7841,9 +7837,9 @@
                                     <imprint>
                                         <publisher corresp="#vitali">
                                             <persName>Bernardino dei Vitali</persName>
+                                            <note type="data">HT lists publisher as Bernardino dei Vitali, and USTC has a copy
+                                                from 1535 published by him as well.</note>
                                         </publisher>
-                                        <!-- HT lists publisher as Bernardino dei Vitali, and USTC has a copy
-                                        from 1535 published by him as well.-->
                                         <pubPlace xml:lang="it" ref="#venice">Vinegia</pubPlace>
                                         <date when="1535"/>
                                     </imprint>
@@ -7856,7 +7852,6 @@
                             <biblStruct corresp="#owned #top100" xml:id="sb016.1">
                                 <monogr>
                                     <title xml:lang="it">Sopposite Comediea</title>
-                                    <!-- Title page says Comedia di Lodovico Ariosto intitolata li soppositi-->
                                     <author corresp="#ariosto">
                                         <persName>Ariosto, Lodovico</persName>
                                     </author>
@@ -7893,7 +7888,7 @@
                                     <imprint>
                                         <publisher><persName>Leonardo Ciardetti</persName></publisher>
                                         <pubPlace xml:lang="it" ref="#florence">Firenze</pubPlace>
-                                        <date when="1823">1823</date><!-- to 1824 -->
+                                        <date from="1823" to="1824">1823-1824</date>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="8"/>
@@ -7961,7 +7956,7 @@
                                 <monogr>
                                     <title>A Garland from Greece</title>
                                     <author corresp="#armstrong_g">
-                                        <persName>George Francis Armstrong</persName><!-- catalog incorrectly lists E.J. Armstrong as author -->
+                                        <persName>George Francis Armstrong</persName><note type="data">catalog incorrectly lists E.J. Armstrong as author</note>
                                     </author>
                                     <imprint>
                                         <date when="1882"/>
@@ -7974,7 +7969,7 @@
                                 <monogr>
                                     <title>Stories of Wicklow</title>
                                     <author corresp="#armstrong_g">
-                                        <persName>George Francis Armstrong</persName><!-- catalog incorrectly lists E.J. Armstrong as author -->
+                                        <persName>George Francis Armstrong</persName><note type="data">catalog incorrectly lists E.J. Armstrong as author</note>
                                     </author>
                                     <imprint>
                                         <date when="1886"/>
@@ -8008,8 +8003,6 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb019">
-                            <!-- This lot's etc num is the same as the items in the lot. Use etc still? Occurs more than once following. -->
-                            <!-- alewinga, come back -->
                             <biblStruct corresp="#owned" xml:id="sb019.1">
                                 <monogr>
                                     <title>The Poets of Greece</title>
@@ -8061,10 +8054,10 @@
                                         <publisher corresp="#scott_wa_publisher">
                                             <persName>Walter Scott</persName>
                                         </publisher>
-                                        <!-- Walter Scott (also a Baronet but not the same person as the novelist)
+                                        <note type="data">Walter Scott (also a Baronet but not the same person as the novelist)
                                             also had a publishing company (Walter Scott Publishing Company) but
                                             it appears he personally published some volumes in London, while the
-                                            Company was based in Newcastle-On-Tyne. -->
+                                            Company was based in Newcastle-On-Tyne.</note>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1892"/>
                                     </imprint>
@@ -8076,7 +8069,7 @@
                         <listBibl type="lot" xml:id="sb020">
                             <biblStruct corresp="#owned" xml:id="sb020.1">
                                 <monogr>
-                                    <title>The Epic of Hades</title><!-- correction from catalog -->
+                                    <title>The Epic of Hades<note type="data">correction from catalog.</note></title>
                                     <author corresp="#morris_l">
                                         <persName>Sir Lewis Morris</persName>
                                     </author>
@@ -8435,8 +8428,7 @@
                                             <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1873"/>
-                                        <!-- date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876. -->
+                                        <date when="1873"><note type="data">date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876.</note></date>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -8467,18 +8459,16 @@
                                     <author corresp="#arnold_m">
                                         <persName>Arnold, Matthew</persName>
                                     </author>
-                                    <!--<edition corresp="#first_ed">First Edition</edition>-->
                                     <imprint>
                                         <publisher corresp="#smith_elder_co">
                                             <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1875"/><!-- 1875 is 2nd edition. -->
+                                        <date when="1875"/>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiug.30112073727155"/>
-                                <!-- alewinga come back and check. 1875 is 2nd ed. first is 1869 and Smith, Elder, and Co -->
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb027.4">
                                 <monogr>
@@ -9109,8 +9099,8 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb042.3">
                                 <monogr>
-                                    <title xml:lang="fr">Tizelière et Decaux: Charles
-                                        Baudelaire</title>
+                                    <title xml:lang="fr">Fizelière et Decaux: Charles
+                                        Baudelaire<note type="data">Fizelière corrected from Tizelière in catalog.</note></title>
                                     <author><persName>A. de la Fizelière</persName></author>
                                     <author><persName>Georges Decaux</persName></author>
                                     <note type="description">half calf, marbled edges</note>
@@ -9124,8 +9114,6 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ia"
                                     target="https://archive.org/details/charlesbaudelai00fizegoog/page/n10/mode/2up"/>
-                                <!-- Appears to be a misspelling, should be Fizelière. IA item linked here
-                                    matches all information save for that typo.-->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb043">
@@ -28063,7 +28051,7 @@
                                         <!-- based off of USTC. -->
                                         <pubPlace ref="#wittenberg">Wittenberg</pubPlace>
                                         <date>15--</date>
-                                        <!-- USTC showing dates in 1523, 1525, and 1527, alewinga -->
+                                        <note type="data" resp="#alewinga">USTC showing dates in 1523, 1525, and 1527</note>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
@@ -41604,7 +41592,6 @@
                                     <author corresp="#defoe">
                                         <persName>Defoe, Daniel</persName>
                                     </author>
-                                    <!-- corrected from "Voltaire", alewinga -->
                                     <note type="description">half calf</note>
                                     <imprint>
                                         <date when="1717"/>
