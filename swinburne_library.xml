@@ -8,6 +8,7 @@
             <titleStmt>
                 <title>The Library and Presumed Reading of Algernon Charles Swinburne</title>
                 <editor xml:id="jawalsh">Walsh, John A.</editor>
+                <editor xml:id="alewinga">Wingate, Alexandra</editor>
                 <editor xml:id="brandon">Brandon, Evan</editor>
             </titleStmt>            
             <publicationStmt>
@@ -7284,7 +7285,6 @@
                                     <note type="description">illustrations by G. Cruikshank and Tony
                                         Johannot, red cloth</note>
                                     <imprint>
-                                        <publisher/><!-- no publisher indicated in catalog, and multiple publishers (Routledge and Bentley possible) -->
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -7308,6 +7308,7 @@
                                     are here in order: Jack Shepherd, 1898; Tower of London, 1840;
                                     Windsor Castle, 1843; Guy Fawkes, 1841; Rookwood, 1836; Miser's
                                     Daughter, 1848</note>
+                                <note type="data" resp="#jawalsh">no publisher indicated in catalog, and multiple publishers (Routledge and Bentley possible)</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb005">
@@ -7349,8 +7350,6 @@
                                         <publisher corresp="#daniel_r">
                                             <persName>Roger Daniel</persName>
                                         </publisher>
-                                        <!-- Individuals are listed here, but they can potentially be folded into one organization,
-                                        e.g. Cambridge University Press. These three appear to be the principle printers at the time. -->
                                         <pubPlace ref="#cambridge">Cantabrigiæ</pubPlace>
                                         <date when="1632"/>
                                     </imprint>
@@ -7363,7 +7362,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.3">
                                 <monogr>
-                                    <title>Roxana Tragædia</title><!-- title is omitted from catalog, but understood to be Alabaster's work above, alewinga -->
+                                    <title>Roxana Tragædia<note type="data" resp="#aewinga">title is omitted from catalog, but understood to be Alabaster's work above</note></title>
                                     <author corresp="#alabaster">
                                         <persName>Alabaster, Gul.</persName>
                                     </author>
@@ -7590,20 +7589,19 @@
                                     </author>
                                     <respStmt>
                                         <resp>Translated by</resp>
-                                        <name full="yes">Wilson</name><!-- typo on auction catalog lists it as "Nilson", alewinga -->
+                                        <name full="yes">Wilson<note type="data" resp="#alewinga">typo on auction catalog lists it as "Nilson", alewinga</note></name>
                                     </respStmt>
                                     <note type="description" corresp="#uncut">frontispiece,
                                         uncut</note>
                                     <imprint>
-                                        <publisher>n.a.</publisher>
-                                        <!-- No publisher on the physical item or in the HT catalog record.
-                                            Listed as "for private circulation."-->
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t45q4vw44"/>
+                                <note type="data" resp="#jawalsh">No publisher on the physical item or in the HT catalog record.
+                                    Listed as "for private circulation."</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb010.3">
                                 <monogr>
@@ -7622,7 +7620,7 @@
                                             <orgName>Whittaker and Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date from="1857" to="1860 "/><!-- auction catalog only says 1857, alewinga -->
+                                        <date from="1857" to="1860 "><note type="data" resp="#alewinga">auction catalog only says 1857</note></date>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="3"/>
