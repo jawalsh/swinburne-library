@@ -19438,7 +19438,7 @@
                                 <relatedItem type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=muJiAAAAcAAJ"/>
                                 <relatedItem type="full-text" corresp="#tcp"
-                                    target=" http://name.umdl.umich.edu/A12152.0001.001"/>
+                                    target="http://name.umdl.umich.edu/A12152.0001.001"/>
                                 <note type="fulltext">TCP is first edition.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb293.4">
