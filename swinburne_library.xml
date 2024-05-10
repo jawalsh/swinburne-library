@@ -9262,8 +9262,8 @@
                                         <publisher>
                                             <orgName>James MacDonald &amp; Co.</orgName>
                                         </publisher>
-                                        <!-- No LCNAF found. There is a James MacDonald Co., but
-                                            they're based in New York. -->
+                                        <note type="data" resp="#jawalsh">No LCNAF found. There is a James MacDonald Co., but
+                                            they're based in New York.</note>
                                         <pubPlace ref="#great_yarmouth">Great Yarmouth</pubPlace>
                                         <date cert="unknown">1873</date>
                                     </imprint>
@@ -9810,7 +9810,8 @@
                                     <title>Thomas Bewick His Life and Times</title>
                                     <author corresp="#robinson">
                                         <persName>Robert
-                                        Robinson</persName><!-- Sotheby's cataloger mistook Thomas Bewick for the author. -->
+                                        Robinson</persName>
+										<note type="data" resp="#jawalsh">Sotheby's cataloger mistook Thomas Bewick for the author.</note>
                                     </author>
                                     <note type="description">portrait and illustrations, half calf;
                                         imperial 8vo.</note>
@@ -9818,7 +9819,6 @@
                                         <publisher corresp="#robinson">
                                             <persName>R. Robinson</persName>
                                         </publisher>
-                                        <!-- Self-published? -->
                                         <pubPlace ref="#newcastle">Newcastle</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
@@ -9920,7 +9920,7 @@
                                             <orgName>P. Jannet</orgName>
                                         </publisher>
                                         <pubPlace ref="#paris">Paris</pubPlace>
-                                        <date from="1854" to="1857"/><!-- auction catalog just has 1854 -->
+                                        <date from="1854" to="1857"/>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="10"/>
@@ -10180,7 +10180,6 @@
                                         <date when="1901"/>
                                     </imprint>
                                 </monogr>
-                                <!-- can't find digitized text. -->
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb065">
@@ -11257,11 +11256,9 @@
                             <biblStruct corresp="#owned" xml:id="sb094.2">
                                 <monogr>
                                     <title>The Rodiad</title>
-                                    <!-- According to Wikipedia, the author and publication date of this 
-                                        work has been misattributed, and the actual author is Richard 
-                                        Monckton Milnes. More research needed to confirm this. -->
                                     <author>
                                         <persName>Coleman, G.</persName>
+										<note type="authorship">This pornographic poem was falsely ascribed to George Colman the Younger. Its true author was Richard Monckton Milnes. See <ptr target="https://en.wikipedia.org/wiki/The_Rodiad"/>.</note>
                                     </author>
                                     <note type="description" corresp="#uncut">private reprint of 200
                                         copies only, uncut</note>
@@ -11273,7 +11270,7 @@
                                     target="https://archive.org/details/b24863968/page/n12/mode/2up"/>
                                 <note type="fulltext">IA reprint dated 1898, but title page says
                                     original is 1820.</note>
-                            </biblStruct>
+								</biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb094.3">
                                 <monogr>
                                     <title>Stray Verses, <date from="1889" to="1890"
