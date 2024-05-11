@@ -14447,8 +14447,8 @@
                                         Congreve, Esq.</title>
                                     <author corresp="#oldmixon">
                                         <persName>Wilson, Charles</persName>
+										<note type="data" resp="#jawalsh">Charles Wilson is a pseudonymn of John Oldmixon. See <ptr target="https://catalog.folger.edu/record/947643"/>.</note>
                                     </author>
-                                    <!-- Believed to be a pseudonym of John Oldmixon. -->
                                     <note type="description">portrait, old calf</note>
                                     <imprint>
                                         <publisher/>
@@ -14928,7 +14928,6 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb177">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb177.1">
-                                <!-- Swinburne cites Inf. III.84 -->
                                 <monogr>
                                     <title xml:lang="it">La Commedia di Dante Alighieri, illustra da
                                         Ugo Foscolo</title>
@@ -14951,7 +14950,7 @@
                                     target="https://hdl.handle.net/2027/hvd.32044098647563"/>
                                 <note type="fulltext">HT has 4 vol listed for this item; only vol
                                     1-2 are 1842.</note>
-                            </biblStruct>
+									<note type="reference" resp="#jawalsh">In “Dirae,” Swinburne uses <title>Inf.</title> III.84 as epigraph.</note>                            </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb178">
                             <biblStruct corresp="#owned" xml:id="sb178.1">
@@ -27042,6 +27041,7 @@
                                         <publisher>
                                             <persName>Charpentier</persName>
                                         </publisher>
+										<!-- jawalsh: need to check for correct title. -->
                                         <!-- Difficult to determine correct LCNAF, if one exists. Possibly
                                                http://id.loc.gov/authorities/names/n2004063006 -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
