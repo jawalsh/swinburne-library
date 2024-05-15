@@ -13246,8 +13246,8 @@
                                     <title xml:lang="it">Il Corredo Comedia</title>
                                     <author corresp="#cecchi">
                                         <persName>Cecchi, Gianmaria</persName>
+                                        <note type="data" resp="#jawalsh">Gianmaria is an abbreviation of 'Giovanni Maria'.</note>
                                     </author>
-                                    <!-- Gianmaria is an abbreviation of 'Giovanni Maria'. -->
                                     <note type="description">old blue morocco gilt, inside gilt
                                         borders, gilt edges, by H. Duru</note>
                                     <imprint>
