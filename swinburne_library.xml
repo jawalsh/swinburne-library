@@ -1889,6 +1889,11 @@
                         <birth when="1572"/>
                         <death when="1631"/>
                     </person>
+                    <person xml:id="dowden">
+                        <persName source="http://id.loc.gov/authorities/names/n79081369">Dowden, Edward, 1843-1913</persName>
+                        <birth when="1843"/>
+                        <death when="1913"/>
+                    </person>
                     <person xml:id="douglas">
                         <persName source="http://id.loc.gov/authorities/names/n50027698">Douglas,
                             Alfred Bruce, 1870-1945</persName>
@@ -32784,9 +32789,9 @@
                                         <measure unit="volumes" quantity="27"/>
                                     </extent>
                                 </monogr>
-                                <note type="comment">jawalsh: I think this may refer to volumes of English drama by William Feales. See https://bit.ly/3ZRzQmt </note>
-                                <note type="comment"><relatedItem type="jawalsh" target=""/> </note>
-                                <note type="comment">canurk: Not enough information in title. </note>
+                                <note type="comment">jawalsh: This may refer to volumes of English drama by William Feales. See https://bit.ly/3ZRzQmt </note>
+                                
+                                
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb630">
@@ -33604,9 +33609,9 @@
                                         <persName>Radcliffe, Capt. Alex.</persName>
                                     </author>
                                     <note type="description" corresp="#uncut">one of 250 copies,
-                                        uncut</note>
+                                        uncut</note><note type="comment">Privately printed, location unknown. </note>
                                     <imprint>
-                                        <note type="comment">Privately printed, location unknown. </note>
+                                        
                                         <date when="1889"/>
                                     </imprint>
                                 </monogr>
@@ -36362,13 +36367,14 @@
                                     target="https://hdl.handle.net/2027/hvd.32044024365397"/>
                             </biblStruct>
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb711.3">
-                                <note type="comment">contains A Yorkshire Tragedy </note>
+                                
                                 <monogr>
                                     <title>Shakespeare Apocrypha, edited, with Notes, etc. by C. F.
                                         Tucker Brooke</title>
                                     <author corresp="#shakespeare">
                                         <persName>Shakespeare, W.</persName>
                                     </author>
+                                    <note type="comment">contains A Yorkshire Tragedy </note>
                                     <note type="etc">
                                         <num value="6"/>
                                     </note>
@@ -37254,10 +37260,10 @@
                         <listBibl type="lot" xml:id="sb730">
                             <biblStruct corresp="#owned #top100" xml:id="sb730.1">
                                 <monogr>
-                                    <title>Life, by Edward Dowden</title>
-                                    <note type="comment">Update author. Check </note>
-                                    <author corresp="#shelley_p">
-                                        <persName>Shelley, P. B.</persName>
+                                    <title>The Life of Percy Bysshe Shelley</title>
+                                    
+                                    <author>
+                                        <persName corresp="#dowden">Dowden, E.</persName>
                                     </author>
                                     <note type="description">portraits, red cloth</note>
                                     <imprint>
@@ -38643,8 +38649,8 @@
                         <listBibl type="lot" xml:id="sb765">
                             <biblStruct corresp="#owned" xml:id="sb765.1">
                                 <monogr>
-                                    <title xml:lang="it">Le Tredecci Piacevoli Notre</title>
-                                    <note type="comment">Linked item has title "Le Tredici Piacevoli Notte" </note>
+                                    <title xml:lang="it">Le Tredici Piacevoli Notte</title>
+                                    
                                     <author corresp="#straparola">
                                         <persName>Straparola da Caravaggio, Giovan.-Fran</persName>
                                     </author>
@@ -39543,8 +39549,7 @@
                         <listBibl type="lot" xml:id="sb790">
                             <biblStruct corresp="#owned" xml:id="sb790.1">
                                 <monogr>
-                                    <title>Anime Figura</title>
-                                    <note type="comment">Linked item has title "Animi" </note>
+                                    <title>Animi Figura</title>
                                     <author corresp="#symonds">
                                         <persName>Symonds, J. Addington</persName>
                                     </author>
@@ -39827,8 +39832,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb799.3">
                                 <monogr>
-                                    <title>Harold, a Poem</title>
-                                    <note type="comment">Linked item has title "Harold, a Drama" </note>
+                                    <title>Harold, a Drama</title>
                                     <author corresp="#tennyson">
                                         <persName>Tennyson, Alfred Lord</persName>
                                     </author>
@@ -42519,11 +42523,8 @@
                             <biblStruct corresp="#owned" xml:id="sb868.1">
                                 <monogr>
                                     <title source="http://id.loc.gov/authorities/names/n80049639"
-                                        >The Plays performed by the Crafts or Mysteries of York, on
-                                        the day of Corpus Christi in the 14th, 15th, and 16th
-                                        Centuries</title>
-                                    <author>York Plays</author>
-                                    <note type="comment">alewinga, this isn't the author. Probably should be York Plays: The Plays... </note>
+                                        >The Plays performed by the Crafts or Mysteries of York, on the day of Corpus Christi in the 14th, 15th, and 16th Centuries</title>
+                                    
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Lucy T. Smith</name>
@@ -43769,13 +43770,13 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb908">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb908.1">
-                                <note type="comment">Swinburne cites a line from Sophocles' Antigone </note>
+                                
                                 <monogr>
                                     <title xml:lang="la">Opera Omnia Gr. et Lat. cum Notis R. F. Ph.
                                         Brunck</title>
                                     <author corresp="#sophocles">
                                         <persName>Sophocles</persName>
-                                    </author>
+                                    </author><note type="comment">Swinburne cites a line from Sophocles' Antigone </note>
                                     <note type="description">old blue morocco, gilt edges</note>
                                     <imprint>
                                         <pubPlace ref="#strasbourg">Argent.</pubPlace>
@@ -45440,7 +45441,7 @@
                                     <note type="description">2 portraits, green cloth, pencil note
                                         in Swinburne's writing on fly-leaf</note>
                                     <edition corresp="#first_ed">1st, British</edition>
-                                    <note type="comment">alewinga, inferred from publication date and binding description. </note>
+                                    
                                     <imprint>
                                         <publisher corresp="#methuen_co">Methuen &amp;
                                             Co.</publisher>
@@ -46211,8 +46212,8 @@
                         <listBibl type="lot" xml:id="wd421">
                             <biblStruct xml:id="wd421.1" corresp="#presented_by #annotated">
                                 <monogr>
-                                    <title>Over Fen and Fold</title>
-                                    <note type="comment">This is the title given in the catalogue, but actual title is "Wold". See item. </note>
+                                    <title>Over Fen and Wold</title>
+                                    
                                     <author><persName>Hissey, Jas. John</persName></author>
                                     
                                     <note type="description" corresp="#uncut #presentation">map and
@@ -48134,10 +48135,10 @@
             <div source="#best-hundred-books">
                 <note type="comment">books not owned by Swinburne/listed in Sotheby's or Watts-Dunton auctions but are associated with Swinburne and his reading through his top 100 list </note>
                 <listBibl>
-                    <note type="comment">17. Epictetus </note>
+                    
                     <biblStruct xml:id="epictetus_works_eng" corresp="#top100">
                         <monogr>
-                            <title>The Works of Epictetus</title>
+                            <title>The Works of Epictetus<note type="comment">17. Epictetus </note></title>
                             <author corresp="#epictetus"><persName>Epictetus</persName></author>
                             <respStmt>
                                 <resp> Translator </resp>
@@ -48168,8 +48169,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nnc1.0023551852"/>
                     </biblStruct>
-                    <note type="comment">19. Rubaiyat of Omar Khayyam (Fitzgerald's 1st version, 1859) </note>
-                    <note type="comment">There are other editions of the Rubaiyat in the corpus, but they are not the 1859 edition specified in Swinburne's top100 list. </note>
+                    
                     <biblStruct xml:id="khayyam_rubaiyat_1859" corresp="#top100">
                         <monogr>
                             <title>Rubáiyát of Omar Khayyám, the astronomer-poet of Persia</title>
@@ -48180,13 +48180,15 @@
                                 <date when="1859"/>
                             </imprint>
                         </monogr>
+                        <note type="comment">19. Rubaiyat of Omar Khayyam (Fitzgerald's 1st version, 1859) </note>
+                        <note type="comment">There are other editions of the Rubaiyat in the corpus, but they are not the 1859 edition specified in Swinburne's top100 list. </note>
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc2.ark:/13960/t86h4qc62"/>
                     </biblStruct>
-                    <note type="comment">26. Sir Philip Sidney (Astrophel and Stella) </note>
+                    
                     <biblStruct xml:id="sidney_astrophel" corresp="#top100">
                         <monogr>
-                            <title>Astrophel and Stella </title>
+                            <title>Astrophel and Stella</title>
                             <author corresp="#sidney_p1554"><persName>Sidney,
                                 Philip</persName></author>
                             <respStmt>
@@ -48202,10 +48204,10 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc1.31175005592525"/>
                     </biblStruct>
-                    <note type="comment">37. Burns, Robert [select works of] </note>
+                    
                     <biblStruct xml:id="burns_jolly_beggars" corresp="#top100">
                         <monogr>
-                            <title>The Jolly Beggars</title>
+                            <title>The Jolly Beggars<note type="comment">37. Burns, Robert [select works of] </note></title>
                             <author><persName>Burns, Robert</persName></author>
                             <imprint>
                                 <publisher>Thomas Bird Mosher</publisher>
@@ -48233,10 +48235,10 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/mdp.39015096476208"/>
                     </biblStruct>
-                    <note type="comment">38. Byron, Don Juan and Vision of Judgement </note>
+                    
                     <biblStruct xml:id="byron_donjuan" corresp="#top100">
                         <monogr>
-                            <title>Don Juan</title>
+                            <title>Don Juan<note type="comment">38. Byron, Don Juan and Vision of Judgement </note></title>
                             <author corresp="#byron"><persName>Lord Byron</persName></author>
                             <imprint>
                                 <publisher>H.G. Bohn</publisher>
@@ -48249,7 +48251,7 @@
                     </biblStruct>
                     <biblStruct xml:id="byron_vision" corresp="#top100">
                         <monogr>
-                            <title>The Vision of Judgement</title>
+                            <title>The Vision of Judgement<note type="comment">38. Byron, Don Juan and Vision of Judgement </note></title>
                             <author corresp="#byron"><persName>Lord Byron</persName></author>
                             <imprint>
                                 <publisher>Wakelin</publisher>
@@ -48689,8 +48691,9 @@
                     <note type="comment">cannot find a scan of this edition online </note>
                 </biblStruct>
                 <biblStruct xml:id="landor_works" corresp="#referenced">
-                    <note type="comment">to my knowledge, this is the earliest volume in which The Coronation is published </note>
+                    
                     <monogr>
+                        
                         <title>The Works of Walter Savage Landor</title>
                         <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
                         <imprint>
@@ -48702,6 +48705,7 @@
                             <measure unit="volumes" quantity="2"/>
                         </extent>
                     </monogr>
+                    <note type="comment">Uknown whether or not this is the earliest volume in which The Coronation is published </note>
                     <relatedItem n="1" type="full-text" corresp="#ia"
                         target="https://archive.org/embed/workswaltersava04landgoog"/>
                     <relatedItem n="2" type="full-text" corresp="#ia"
@@ -48723,7 +48727,6 @@
 
                 <biblStruct xml:id="lisle_poemes_barbares" corresp="#signed #owned">
                     <monogr>
-                        <note type="comment">concerned that this may not be at UMinnesota </note>
                         <title> Poèmes barbares</title>
                         <author><persName>Leconte de Lisle, Charles Marie Rene</persName></author>
                         <imprint>
