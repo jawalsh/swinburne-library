@@ -15652,14 +15652,14 @@
                         <listBibl type="lot" xml:id="sb195">
                             <biblStruct corresp="#owned #referenced" xml:id="sb195.1">
                                 <monogr>
-                                    <title>Select Collection of Old English Plays</title>
-                                    <note type="comment">alewinga, Robert Dodley is listed as author/heading in auction catalog but is merely the original publisher in 1744.</note>
+                                    <title>Select Collection of Old English Plays</title>                        
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">W. Carew Hazlitt</name>
                                     </respStmt>
                                     <note type="description" corresp="#uncut">green cloth,
                                         uncut</note>
+                                    <note type="comment">alewinga, Robert Dodley is listed as author/heading in auction catalog but is merely the original publisher in 1744.</note>
                                     <imprint>
                                         <publisher corresp="#reeves_turner">
                                             <orgName>Reeves and Turner</orgName>
@@ -18098,9 +18098,8 @@
                         <listBibl type="lot" xml:id="sb254">
                             <biblStruct corresp="#owned" xml:id="sb254.1">
                                 <monogr>
-                                    <title xml:lang="la">Oratio in Obitum Ser. Cosmi Medicis Magni
-                                        Hetrutuae Ducis</title>
-                                    <note type="comment">Title appears to have "Hetruriae", possible typo? </note>
+                                    <title xml:lang="la">Oratio in Obitum Ser. Cosmi Medicis Magni Hetrutuae Ducis<note type="comment">Title appears to have "Hetruriae", possible typo? </note></title>
+                                    
                                     <author>
                                         <persName>Baudinius, O.</persName>
                                     </author>
@@ -18112,6 +18111,7 @@
                                         <pubPlace ref="#florence">Florentiæ</pubPlace>
                                         <date when="1574"/>
                                     </imprint>
+                                    
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ia"
                                     target="https://archive.org/details/bub_gb_WpcJHUNYRJ4C/page/n5/mode/2up"
@@ -18143,8 +18143,8 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb254.3">
                                 <monogr>
-                                    <title>Acripanda Tragedia</title>
-                                    <note type="comment">Title from title page. Sotheby's has "Agripanda" </note>
+                                    <title>Acripanda Tragedia<note type="comment">Title from title page. Sotheby's has "Agripanda" </note></title>
+                                    
                                     <author corresp="#decio">
                                         <persName>Decis da Herte, Ant.</persName>
                                     </author>
@@ -19394,8 +19394,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb293.2">
                                 <monogr>
-                                    <title>The Witts, a Comedie</title>
-                                    <note type="comment">The vvitts, a comedie </note>
+                                    <title>The Witts, a Comedie</title>           
                                     <author corresp="#davenant">
                                         <persName>Davenant, Sir. Wm.</persName>
                                     </author>
@@ -19525,8 +19524,8 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1630"/>
-                                        <date from="1608" to="1667"/>
-                                        <note type="comment">This refers to all the works in the lot. </note>
+                                        <date from="1608" to="1667"><note type="comment">This date range refers to all the works in the lot. </note></date>
+                                        
                                         <respStmt>
                                             <resp>printer</resp>
                                             <persName>Haviland, John</persName>
@@ -20500,7 +20499,7 @@
                                         <publisher corresp="#valvassori_f">
                                             <persName>Florio Valvassore</persName>
                                         </publisher>
-                                        <note type="comment">"& Florio fratello" on item, so Giovanni's brother Florio </note>
+                                        <note type="comment">"&amp; Florio fratello" on item, so Giovanni's brother Florio </note>
                                         <date from="1544" to="1551"/>
                                     </imprint>
                                     <extent>
@@ -21115,9 +21114,8 @@
                         <listBibl type="lot" xml:id="sb334">
                             <biblStruct corresp="#owned" xml:id="sb334.1">
                                 <monogr>
-                                    <title>Memoirs of Eight Years</title>
-                                    <note type="comment">Title on linked item has "Eighty" </note>
-                                    <author corresp="#hake">
+                                    <title>Memoirs of Eight Years<note type="comment">Title on linked item has "Eighty" </note></title>
+                                        <author corresp="#hake">
                                         <persName>Hake, Gordon</persName>
                                     </author>
                                     <note type="description" corresp="#presentation">presentation
@@ -22865,7 +22863,7 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb379">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb379.1">
-                                <note type="comment">Swinburne cites the poem Floréal </note>
+                                
                                 <monogr>
                                     <title xml:lang="fr">Les Châtiments</title>
                                     <author corresp="#hugo">
@@ -22875,6 +22873,7 @@
                                         presentation copy with autograph inscription</note>
                                     <note type="inscription">Walter Theodore Watts from his friend
                                         Algernon Charles Swinburne</note>
+                                    <note type="comment">Swinburne cites the poem Floréal </note>
                                     <imprint>
                                         <publisher corresp="#michel_levy_freres">
                                             <orgName>Michel Lévy frères</orgName>
@@ -22882,6 +22881,7 @@
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
                                     </imprint>
+                                    
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.32044087041141"/>
@@ -22965,14 +22965,14 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb383">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb383.1">
-                                <note type="comment">Swinburne cites Lorsque l’enfant paraît, in Les feuilles d'automne </note>
+                                
                                 <monogr>
                                     <title>Œuvres</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
                                     <note type="description" corresp="#uncut">portraits,
-                                        uncut</note>
+                                        uncut</note><note type="comment">Swinburne cites Lorsque l’enfant paraît, in Les feuilles d'automne </note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
@@ -24681,7 +24681,6 @@
                             <biblStruct corresp="#owned" xml:id="sb427.1">
                                 <monogr>
                                     <title>Record of a Girlhood</title>
-                                    <note type="comment">Check spelling. </note>
                                     <author corresp="#kemble">
                                         <persName>Kemble, Frances A.</persName>
                                     </author>
@@ -24705,7 +24704,6 @@
                             <biblStruct corresp="#owned" xml:id="sb427.2">
                                 <monogr>
                                     <title>Records of Later Life</title>
-                                    <note type="comment">Check spelling. </note>
                                     <author corresp="#kemble">
                                         <persName>Kemble, Frances A.</persName>
                                     </author>
@@ -25211,7 +25209,6 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb438">
-                            <note type="comment">Check </note>
                             <biblStruct corresp="#owned" xml:id="sb438.1">
                                 <monogr>
                                     <title>The Count Arezzi, a Tragedy</title>
@@ -26228,8 +26225,8 @@
                         <listBibl type="lot" xml:id="sb459">
                             <biblStruct corresp="#owned" xml:id="sb459.1">
                                 <monogr>
-                                    <title>Encyclopaedie Dictionary</title>
-                                    <note type="comment">Check spelling. </note>
+                                    <title>Encyclopaedic Dictionary</title>
+                                    
                                     <author>
                                         <persName>Lloyd, E.</persName>
                                     </author>
@@ -29252,8 +29249,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb530.3">
                                 <monogr>
-                                    <title>Giles Ingleby</title>
-                                    <note type="comment">Spelling. Check. </note>
+                                    <title>Giles Ingilby</title>
                                     <author corresp="#norris">
                                         <persName>Norris, W. E.</persName>
                                     </author>
@@ -29489,8 +29485,9 @@
                                 <series>Nouvelle Collection Jannet</series>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiug.30112069431275"/>
+                                <note type="comment">Sotheby's neglects to list one volume from Nouvelle Collection Jannet (uses "etc." after Villon) since above entries from sb533 only add up to 14 volumes and catalog indicates there are 15 together. Unclear what work it is because there appear to be more than 16 volumes in the Nouvelle Collection Jannet</note>
                             </biblStruct>
-                            <note type="comment">Sotheby's neglects to list one volume from Nouvelle Collection Jannet (uses "etc." after Villon) since above entries from sb533 only add up to 14 volumes and catalog indicates there are 15 together. Unclear what work it is because there appear to be more than 16 volumes in the Nouvelle Collection Jannet</note>
+                            
                             <biblStruct corresp="#owned #top100" xml:id="sb533.6">
                                 <monogr>
                                     <title>La Comtesse de Charny</title>
@@ -30176,7 +30173,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb550A">
-                            <note type="comment">First occurance of A added to lot in catalogue. </note>
+                            
                             <biblStruct corresp="#owned" xml:id="sb550A.1">
                                 <monogr>
                                     <title>Lautrec, a Poem</title>
@@ -31801,9 +31798,8 @@
                         <listBibl type="lot" xml:id="sb597">
                             <biblStruct corresp="#owned #top100" xml:id="sb597.1">
                                 <monogr>
-                                    <title>Εἰκονοκλαστης, in Answer to a Book intitled Εἰκων
-                                        Βασιλικον</title>
-                                    <note type="comment">Need help with Greek. Check </note>
+                                    <title>Εἰκονοκλαστης, in Answer to a Book intitled Εἰκων Βασιλικη</title>
+                                   
                                     <author corresp="#milton">
                                         <persName>Milton, John</persName>
                                     </author>
@@ -31813,8 +31809,8 @@
                                         <date when="1649"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#tcp"
-                                    target="http://name.umdl.umich.edu/A69969.0001.001"/>
+                                <relatedItem type="full-text" corresp="#ia"
+                                    target="https://archive.org/embed/miltoneikonoklastes2ed"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb598">
@@ -32352,8 +32348,8 @@
                         <listBibl type="lot" xml:id="sb615">
                             <biblStruct corresp="#owned" xml:id="sb615.1">
                                 <monogr>
-                                    <title>Certaine Learned and Elegant VVorkes</title>
-                                    <note type="comment">vvorks </note>
+                                    <title>Certaine Learned and Elegant Workes</title>
+                                    
                                     <author corresp="#brooke_f">
                                         <persName>Brooke, Fulke Greville, Lord</persName>
                                     </author>
