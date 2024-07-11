@@ -48138,7 +48138,7 @@
                     
                     <biblStruct xml:id="epictetus_works_eng" corresp="#top100">
                         <monogr>
-                            <title>The Works of Epictetus<note type="comment">17. Epictetus </note></title>
+                            <title>The Works of Epictetus</title>
                             <author corresp="#epictetus"><persName>Epictetus</persName></author>
                             <respStmt>
                                 <resp> Translator </resp>
@@ -48262,9 +48262,9 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc1.b3578921"/>
                     </biblStruct>
-                    <note type="comment">42. Swift [select works of] </note>
-                    <note type="comment">Swinburne Letters index has "A Longitude Discover'd" under Swift, but apparently that is an erroneous attribution. </note>
+                    
                     <biblStruct xml:id="swift_miscellanies" corresp="#top100">
+                        
                         <monogr>
                             <title>Miscellanies</title>
                             <author><persName>Swift, Jonathan</persName></author>
@@ -48275,6 +48275,8 @@
                             </imprint>
                             <extent><measure unit="volumes" quantity="6"/></extent>
                         </monogr>
+                        <note type="comment">42. Swift [select works of] </note>
+                        <note type="comment">Swinburne Letters index has "A Longitude Discover'd" under Swift, but apparently that is an erroneous attribution. </note>
                         <relatedItem n="1" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433067288062"/>
                         <relatedItem n="2" type="full-text" corresp="#ht"
@@ -48290,7 +48292,6 @@
                         <relatedItem n="6" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433067288112"/>
                     </biblStruct>
-                    <note type="comment">51. Theocritus </note>
                     <biblStruct xml:id="theocritus_works_eng" corresp="#top100">
                         <monogr>
                             <title>Theocritus, translated into English verse</title>
@@ -48321,7 +48322,6 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/mdp.39015063836954"/>
                     </biblStruct>
-                    <note type="comment">53. The Saga of Burnt Njal </note>
                     <biblStruct xml:id="burnt_njal" corresp="#top100">
                         <monogr>
                             <title>The Story of Burnt Njal</title>
@@ -48341,7 +48341,6 @@
                         <relatedItem n="2" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/hvd.32044010624831"/>
                     </biblStruct>
-                    <note type="comment">54. Lockhart's Life of Scott </note>
                     <biblStruct xml:id="lockhart_scott" corresp="#top100">
                         <monogr>
                             <title>The Life of Scott</title>
@@ -48355,7 +48354,6 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nnc1.1001324551"/>
                     </biblStruct>
-                    <note type="comment">69. Butler, excerpts from Hudibras and Remains </note>
                     <biblStruct xml:id="butler_hudibras" corresp="#top100">
                         <monogr>
                             <title>Hudibras</title>
@@ -48382,7 +48380,6 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433074831680"/>
                     </biblStruct>
-                    <note type="comment">74. Prior, Matthew [select works of] </note>
                     <biblStruct xml:id="prior_works" corresp="#top100">
                         <monogr>
                             <title>The Poetical Works of Matthew Prior</title>
@@ -48396,7 +48393,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/inu.30000041592746"/>
                     </biblStruct>
-                    <note type="comment">80. Wither, George [select works of] </note>
+
                     <biblStruct xml:id="wither_abuses" corresp="#top100">
                         <monogr>
                             <title>Abuses stript and whipt</title>
@@ -48444,7 +48441,7 @@
                             target="https://hdl.handle.net/2027/hvd.hwexdz"/>
                     </biblStruct>
 
-                    <note type="comment">81. La Fontaine [select works of] </note>
+                    
                     <biblStruct xml:id="fontaine_contes" corresp="#top100">
                         <monogr>
                             <title>Contes et Nouvelles</title>
@@ -48471,7 +48468,6 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/hvd.hnt41i"/>
                     </biblStruct>
-                    <note type="comment">84. Chamfort (Maxims) </note>
                     <biblStruct xml:id="chamfort_maxims" corresp="#top100">
                         <monogr>
                             <title>Pensées, Maximes, Ancedotes, Dialogues, Précédés de L'Histoire de
@@ -48486,7 +48482,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uva.x001175292"/>
                     </biblStruct>
-                    <note type="comment">85. Beaumarchais [select works of] </note>
+                   
                     <biblStruct xml:id="beaumarchais_seville" corresp="#top100">
                         <monogr>
                             <title>Le Barbier de Séville</title>
@@ -48514,7 +48510,7 @@
                             target="https://hdl.handle.net/2027/hvd.32044019362045"/>
                     </biblStruct>
 
-                    <note type="comment">100. Early English metrical romances...Wright </note>
+                  
                     <biblStruct xml:id="wright_metrical" corresp="#top100">
                         <monogr>
                             <title>The Anglo-Norman metrical chronicle of Geoffrey Gaimar</title>
@@ -48527,7 +48523,7 @@
                                 <pubPlace ref="#london">London</pubPlace>
                                 <date when="1850"/>
                             </imprint>
-                        </monogr>
+                        </monogr>  <note type="comment">100. Early English metrical romances...Wright </note>
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433075859649"/>
                     </biblStruct>
