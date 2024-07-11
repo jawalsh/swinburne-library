@@ -10,7 +10,7 @@
                 <editor xml:id="jawalsh">Walsh, John A.</editor>
                 <editor xml:id="alewinga">Wingate, Alexandra</editor>
                 <editor xml:id="brandon">Brandon, Evan</editor>
-            </titleStmt>            
+            </titleStmt>
             <publicationStmt>
                 <publisher>Digital Culture Lab, <ref target="http://www.ils.indiana.edu/">Department
                         of Information and Library Science</ref>, <ref
@@ -731,7 +731,8 @@
                         <death when="1865"/>
                     </person>
                     <person xml:id="armstrong_g">
-                        <persName source="http://id.loc.gov/authorities/names/n83008029">Savage-Armstrong, George Francis, 1845-1906</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n83008029"
+                            >Savage-Armstrong, George Francis, 1845-1906</persName>
                         <birth when="1845"/>
                         <death when="1906"/>
                     </person>
@@ -1890,7 +1891,8 @@
                         <death when="1631"/>
                     </person>
                     <person xml:id="dowden">
-                        <persName source="http://id.loc.gov/authorities/names/n79081369">Dowden, Edward, 1843-1913</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n79081369">Dowden,
+                            Edward, 1843-1913</persName>
                         <birth when="1843"/>
                         <death when="1913"/>
                     </person>
@@ -3351,7 +3353,7 @@
                         <death when="1872"/>
                     </person>
                     <person xml:id="mayne">
-                        <persName source="http://id.loc.gov/authorities/names/n82225906">Mayne, 
+                        <persName source="http://id.loc.gov/authorities/names/n82225906">Mayne,
                             Jasper, 1604-1672</persName>
                         <birth when="1604"/>
                         <death when="1672"/>
@@ -3506,7 +3508,8 @@
                         <death when="1896"/>
                     </person>
                     <person xml:id="morris_l">
-                        <persName source="http://id.loc.gov/authorities/names/n82117036">Morris, Lewis, 1833-1907</persName>
+                        <persName source="http://id.loc.gov/authorities/names/n82117036">Morris,
+                            Lewis, 1833-1907</persName>
                         <birth when="1833"/>
                         <death when="1907"/>
                     </person>
@@ -3878,7 +3881,7 @@
                         <death when="1891"/>
                     </person>
                     <person xml:id="propertius">
-                        <persName source="http://id.loc.gov/authorities/names/n79042233">Propertius, 
+                        <persName source="http://id.loc.gov/authorities/names/n79042233">Propertius,
                             Sextus</persName>
                         <birth cert="unknown" when="-0052"/>
                         <death cert="unknown" when="-0014"/>
@@ -4604,7 +4607,7 @@
                             Cornelius</persName>
                     </person>
                     <person xml:id="tailor">
-                        <persName source="http://id.loc.gov/authorities/names/n83230277">Tailor, 
+                        <persName source="http://id.loc.gov/authorities/names/n83230277">Tailor,
                             Robert, active 1614</persName>
                         <floruit when="1614"/>
                     </person>
@@ -4683,8 +4686,7 @@
                         <death when="1842"/>
                     </person>
                     <person xml:id="tibullus">
-                        <persName source="http://id.loc.gov/authorities/names/n78087625">Tibullus
-                        </persName>
+                        <persName source="http://id.loc.gov/authorities/names/n78087625">Tibullus </persName>
                         <birth cert="unknown" when="-0054"/>
                         <death cert="unknown" when="-0018"/>
                     </person>
@@ -5029,7 +5031,7 @@
                         <death when="1917"/>
                     </person>
                     <person>
-                        <persName source="http://id.loc.gov/authorities/names/n83230273">Yarington, 
+                        <persName source="http://id.loc.gov/authorities/names/n83230273">Yarington,
                             Robert, active 1601</persName>
                         <floruit when="1601"/>
                     </person>
@@ -5747,7 +5749,8 @@
                             &amp; Co.</orgName>
                     </org>
                     <org xml:id="simpkin_marshall_co">
-                        <orgName source="http://id.loc.gov/authorities/names/no91006240">Simpkin, Marshall and Co.</orgName>
+                        <orgName source="http://id.loc.gov/authorities/names/no91006240">Simpkin,
+                            Marshall and Co.</orgName>
                     </org>
                     <org xml:id="simpkin_marshall_hamilton_kent_co">
                         <orgName source="http://id.loc.gov/authorities/names/no2002109454">Simpkin,
@@ -7313,7 +7316,8 @@
                                     are here in order: Jack Shepherd, 1898; Tower of London, 1840;
                                     Windsor Castle, 1843; Guy Fawkes, 1841; Rookwood, 1836; Miser's
                                     Daughter, 1848</note>
-                                <note type="data" resp="#jawalsh">no publisher indicated in catalog, and multiple publishers (Routledge and Bentley possible)</note>
+                                <note type="data" resp="#jawalsh">no publisher indicated in catalog,
+                                    and multiple publishers (Routledge and Bentley possible)</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb005">
@@ -7332,7 +7336,9 @@
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ia" target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"/>
+                                <relatedItem type="full-text" corresp="#ia"
+                                    target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"
+                                />
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.2">
                                 <monogr>
@@ -7363,11 +7369,14 @@
                                     </extent>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ia"
-                                    target="https://archive.org/details/bim_early-english-books-1475-1640_senile-odium-comoedia-_hausted-peter_1633/"/>
+                                    target="https://archive.org/details/bim_early-english-books-1475-1640_senile-odium-comoedia-_hausted-peter_1633/"
+                                />
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb005.3">
                                 <monogr>
-                                    <title>Roxana Tragædia<note type="data" resp="#aewinga">title is omitted from catalog, but understood to be Alabaster's work above</note></title>
+                                    <title>Roxana Tragædia<note type="data" resp="#aewinga">title is
+                                            omitted from catalog, but understood to be Alabaster's
+                                            work above</note></title>
                                     <author corresp="#alabaster">
                                         <persName>Alabaster, Gul.</persName>
                                     </author>
@@ -7384,8 +7393,10 @@
                                         <date when="1632"/>
                                     </imprint>
                                 </monogr>
-                                
-                                <relatedItem type="full-text" corresp="#ia" target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"/>
+
+                                <relatedItem type="full-text" corresp="#ia"
+                                    target="https://archive.org/details/bim_early-english-books-1475-1640_roxana-tragedia_alabaster-william_1632"
+                                />
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb006">
@@ -7396,8 +7407,9 @@
                                         <persName>Alfieri, V.</persName>
                                     </author>
                                     <note type="description">vellum</note>
-                                    <edition corresp="#sec_ed" xml:lang="it">seconda
-                                        edizione <foreign xml:lang="it">riveduta dall'autore e accresciuta</foreign></edition>
+                                    <edition corresp="#sec_ed" xml:lang="it">seconda edizione
+                                            <foreign xml:lang="it">riveduta dall'autore e
+                                            accresciuta</foreign></edition>
                                     <imprint>
                                         <publisher corresp="#molini">
                                             <persName>Gio. Cl. Molini</persName>
@@ -7419,9 +7431,12 @@
                                     target="https://books.google.com/books?id=jWVnAAAAcAAJ"/>
                                 <relatedItem n="5" type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=lmVnAAAAcAAJ"/>
-                                <relatedItem n="6" type="full-text" corresp="#google" target="https://books.google.com/books?id=2_1WAAAAcAAJ"/>
-                                <note type="fulltext">Vol. 1, page 277 confirms this edition's set has six
-                                    volumes. We can't find the sixth volume of the same edition, but include a copy of the sixth volume for an edition saying it follows the Parisian edition.</note>
+                                <relatedItem n="6" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=2_1WAAAAcAAJ"/>
+                                <note type="fulltext">Vol. 1, page 277 confirms this edition's set
+                                    has six volumes. We can't find the sixth volume of the same
+                                    edition, but include a copy of the sixth volume for an edition
+                                    saying it follows the Parisian edition.</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb007">
@@ -7575,7 +7590,7 @@
                                         <publisher>
                                             <orgName>The Imperial Press</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date>n.d.</date>
                                     </imprint>
@@ -7594,7 +7609,9 @@
                                     </author>
                                     <respStmt>
                                         <resp>Translated by</resp>
-                                        <name full="yes">Wilson<note type="data" resp="#alewinga">typo on auction catalog lists it as "Nilson", alewinga</note></name>
+                                        <name full="yes">Wilson<note type="data" resp="#alewinga"
+                                                >typo on auction catalog lists it as "Nilson",
+                                                alewinga</note></name>
                                     </respStmt>
                                     <note type="description" corresp="#uncut">frontispiece,
                                         uncut</note>
@@ -7605,8 +7622,9 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc2.ark:/13960/t45q4vw44"/>
-                                <note type="data" resp="#jawalsh">No publisher on the physical item or in the HT catalog record.
-                                    Listed as "for private circulation."</note>
+                                <note type="data" resp="#jawalsh">No publisher on the physical item
+                                    or in the HT catalog record. Listed as "for private
+                                    circulation."</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb010.3">
                                 <monogr>
@@ -7625,7 +7643,9 @@
                                             <orgName>Whittaker and Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date from="1857" to="1860 "><note type="data" resp="#alewinga">auction catalog only says 1857</note></date>
+                                        <date from="1857" to="1860 "><note type="data"
+                                                resp="#alewinga">auction catalog only says
+                                                1857</note></date>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="3"/>
@@ -7716,9 +7736,7 @@
                                         <date when="1896"/>
 
                                     </imprint>
-                                    <biblScope unit="volume">
-                                        VIII
-                                    </biblScope>
+                                    <biblScope unit="volume"> VIII </biblScope>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/mdp.39015059380629"/>
@@ -7762,7 +7780,8 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1770"/>
-                                        <note type="data">Mistakenly noted as 1720 in catalog and should be 1770. ESTC lists no edition for 1720.</note>
+                                        <note type="data">Mistakenly noted as 1720 in catalog and
+                                            should be 1770. ESTC lists no edition for 1720.</note>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -7811,8 +7830,8 @@
                                         <date when="1609"/>
                                     </imprint>
                                     <extent>
-                                        <measure unit="volumes" quantity="3"
-                                        /><note type="data">Likely 6 volumes bound as 3.</note>
+                                        <measure unit="volumes" quantity="3"/><note type="data"
+                                            >Likely 6 volumes bound as 3.</note>
                                     </extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#google"
@@ -7842,8 +7861,9 @@
                                     <imprint>
                                         <publisher corresp="#vitali">
                                             <persName>Bernardino dei Vitali</persName>
-                                            <note type="data">HT lists publisher as Bernardino dei Vitali, and USTC has a copy
-                                                from 1535 published by him as well.</note>
+                                            <note type="data">HT lists publisher as Bernardino dei
+                                                Vitali, and USTC has a copy from 1535 published by
+                                                him as well.</note>
                                         </publisher>
                                         <pubPlace xml:lang="it" ref="#venice">Vinegia</pubPlace>
                                         <date when="1535"/>
@@ -7891,7 +7911,8 @@
                                     </author>
                                     <note type="description">portrait, half vellum</note>
                                     <imprint>
-                                        <publisher><persName>Leonardo Ciardetti</persName></publisher>
+                                        <publisher><persName>Leonardo
+                                            Ciardetti</persName></publisher>
                                         <pubPlace xml:lang="it" ref="#florence">Firenze</pubPlace>
                                         <date from="1823" to="1824">1823-1824</date>
                                     </imprint>
@@ -7915,7 +7936,8 @@
                                     target="https://hdl.handle.net/2027/hvd.hnjvhy"/>
                                 <relatedItem n="8" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hnjvhz"/>
-                                <note type="fulltext">8 volume series also includes Ariosto's I Cinque Canti and Rime e Satire</note>
+                                <note type="fulltext">8 volume series also includes Ariosto's I
+                                    Cinque Canti and Rime e Satire</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb018">
@@ -7944,7 +7966,8 @@
                                     </author>
                                     <respStmt>
                                         <resp>edited by</resp>
-                                        <name corresp="#armstrong_g"><persName>George Francis Armstrong</persName></name>
+                                        <name corresp="#armstrong_g"><persName>George Francis
+                                                Armstrong</persName></name>
                                     </respStmt>
                                     <imprint>
                                         <publisher corresp="#longmans_green_co">
@@ -7961,7 +7984,9 @@
                                 <monogr>
                                     <title>A Garland from Greece</title>
                                     <author corresp="#armstrong_g">
-                                        <persName>George Francis Armstrong</persName><note type="data">catalog incorrectly lists E.J. Armstrong as author</note>
+                                        <persName>George Francis Armstrong</persName><note
+                                            type="data">catalog incorrectly lists E.J. Armstrong as
+                                            author</note>
                                     </author>
                                     <imprint>
                                         <date when="1882"/>
@@ -7974,7 +7999,9 @@
                                 <monogr>
                                     <title>Stories of Wicklow</title>
                                     <author corresp="#armstrong_g">
-                                        <persName>George Francis Armstrong</persName><note type="data">catalog incorrectly lists E.J. Armstrong as author</note>
+                                        <persName>George Francis Armstrong</persName><note
+                                            type="data">catalog incorrectly lists E.J. Armstrong as
+                                            author</note>
                                     </author>
                                     <imprint>
                                         <date when="1886"/>
@@ -7991,7 +8018,8 @@
                                     </author>
                                     <respStmt>
                                         <resp>edited by</resp>
-                                        <name corresp="#armstrong_g" full="yes">G.F. Armstrong</name>
+                                        <name corresp="#armstrong_g" full="yes">G.F.
+                                            Armstrong</name>
                                     </respStmt>
                                     <note type="etc" corresp="#presentation">some presentation
                                         copies to Swinburne with inscriptions<num value="5"/></note>
@@ -8059,10 +8087,11 @@
                                         <publisher corresp="#scott_wa_publisher">
                                             <persName>Walter Scott</persName>
                                         </publisher>
-                                        <note type="data">Walter Scott (also a Baronet but not the same person as the novelist)
-                                            also had a publishing company (Walter Scott Publishing Company) but
-                                            it appears he personally published some volumes in London, while the
-                                            Company was based in Newcastle-On-Tyne.</note>
+                                        <note type="data">Walter Scott (also a Baronet but not the
+                                            same person as the novelist) also had a publishing
+                                            company (Walter Scott Publishing Company) but it appears
+                                            he personally published some volumes in London, while
+                                            the Company was based in Newcastle-On-Tyne.</note>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1892"/>
                                     </imprint>
@@ -8074,7 +8103,8 @@
                         <listBibl type="lot" xml:id="sb020">
                             <biblStruct corresp="#owned" xml:id="sb020.1">
                                 <monogr>
-                                    <title>The Epic of Hades<note type="data">correction from catalog.</note></title>
+                                    <title>The Epic of Hades<note type="data">correction from
+                                            catalog.</note></title>
                                     <author corresp="#morris_l">
                                         <persName>Sir Lewis Morris</persName>
                                     </author>
@@ -8088,8 +8118,13 @@
                                         <date when="1876"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=BBlbAAAAYAAJ"/>
-                                <note>The catalog seems to have seriously mixed up who the author is. The author is Sir Lewis Morris, and the book's title page states "By the author of 'Songs of Two Worlds'. Perhaps the cataloger combined two titles by Sir Edwin Arnold "The Light of the World" and "Indian Song of Songs."</note>
+                                <relatedItem type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=BBlbAAAAYAAJ"/>
+                                <note>The catalog seems to have seriously mixed up who the author
+                                    is. The author is Sir Lewis Morris, and the book's title page
+                                    states "By the author of 'Songs of Two Worlds'. Perhaps the
+                                    cataloger combined two titles by Sir Edwin Arnold "The Light of
+                                    the World" and "Indian Song of Songs."</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb020.2">
                                 <monogr>
@@ -8433,7 +8468,9 @@
                                             <orgName>Smith, Elder, &amp; Co.</orgName>
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
-                                        <date when="1873"><note type="data">date changed from Sotheby's date (1876) since first edition was published in 1873, not 1876.</note></date>
+                                        <date when="1873"><note type="data">date changed from
+                                                Sotheby's date (1876) since first edition was
+                                                published in 1873, not 1876.</note></date>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
@@ -8584,7 +8621,8 @@
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433075801922"/>
-                                <relatedItem n="2" type="full-text" corresp="#google" target="https://books.google.com/books?id=ILENAAAAQAAJ"/>
+                                <relatedItem n="2" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=ILENAAAAQAAJ"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433076093404"/>
                                 <relatedItem n="4" type="full-text" corresp="#ht"
@@ -8609,7 +8647,7 @@
                                         <publisher>
                                             <persName>John Grant</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#edinburgh">Edinburgh</pubPlace>
                                         <date when="1898"/>
                                     </imprint>
@@ -8635,7 +8673,8 @@
                                     target="https://books.google.com/books?id=XK3TAAAAMAAJ"/>
                                 <relatedItem n="9" type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=8SlDAQAAMAAJ"/>
-                                <relatedItem n="10" type="full-text" corresp="#google" target="https://books.google.com/books?id=r29KAAAAYAAJ"/>
+                                <relatedItem n="10" type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=r29KAAAAYAAJ"/>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb032">
@@ -8780,7 +8819,8 @@
                                     target="https://books.google.com/books?id=zDJUAAAAcAAJ"/>
                                 <relatedItem type="full-text" n="3" corresp="#google"
                                     target="https://books.google.com/books?id=07M5AAAAcAAJ"/>
-                                <note type="fulltext">1847, 3-volume edition, but not published in La Haye (the Hague)</note>
+                                <note type="fulltext">1847, 3-volume edition, but not published in
+                                    La Haye (the Hague)</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb036">
@@ -8831,9 +8871,11 @@
                                         <measure unit="volumes" quantity="2"/>
                                     </extent>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#google" target="https://books.google.com/books?id=JO40ubcR088"/>
+                                <relatedItem type="full-text" corresp="#google"
+                                    target="https://books.google.com/books?id=JO40ubcR088"/>
                                 <relatedItem type="full-text" corresp="#ia"
-                                    target="https://archive.org/details/fairinfearlesso00farmgoog/page/n4/mode/2up"/>
+                                    target="https://archive.org/details/fairinfearlesso00farmgoog/page/n4/mode/2up"
+                                />
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb037">
@@ -9003,8 +9045,7 @@
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
-                                    target="https://books.google.com/books?id=VSRDAAAAcAAJ"
-                                />
+                                    target="https://books.google.com/books?id=VSRDAAAAcAAJ"/>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb040.2">
                                 <monogr>
@@ -9049,7 +9090,7 @@
                                         <publisher>
                                             <persName>De Broise</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1857"/>
                                     </imprint>
@@ -9105,7 +9146,8 @@
                             <biblStruct corresp="#owned" xml:id="sb042.3">
                                 <monogr>
                                     <title xml:lang="fr">Fizelière et Decaux: Charles
-                                        Baudelaire<note type="data">Fizelière corrected from Tizelière in catalog.</note></title>
+                                            Baudelaire<note type="data">Fizelière corrected from
+                                            Tizelière in catalog.</note></title>
                                     <author><persName>A. de la Fizelière</persName></author>
                                     <author><persName>Georges Decaux</persName></author>
                                     <note type="description">half calf, marbled edges</note>
@@ -9118,7 +9160,8 @@
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ia"
-                                    target="https://archive.org/details/charlesbaudelai00fizegoog/page/n10/mode/2up"/>
+                                    target="https://archive.org/details/charlesbaudelai00fizegoog/page/n10/mode/2up"
+                                />
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb043">
@@ -9258,7 +9301,7 @@
                             <biblStruct corresp="#owned" xml:id="sb046.1">
                                 <monogr>
                                     <title>Royal Illustrated History of Eastern England</title>
-                                    
+
                                     <author>
                                         <persName>Bayne, A. D.</persName>
                                     </author>
@@ -9267,8 +9310,9 @@
                                         <publisher>
                                             <orgName>James MacDonald &amp; Co.</orgName>
                                         </publisher>
-                                        <note type="data" resp="#jawalsh">No LCNAF found. There is a James MacDonald Co., but
-                                            they're based in New York.</note>
+                                        <note type="data" resp="#jawalsh">No LCNAF found. There is a
+                                            James MacDonald Co., but they're based in New
+                                            York.</note>
                                         <pubPlace ref="#great_yarmouth">Great Yarmouth</pubPlace>
                                         <date cert="unknown">1873</date>
                                     </imprint>
@@ -9519,7 +9563,8 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.a0012385142"/>
                                 <note type="fulltext">HT has only vol 1, noting that there are 4
-                                    total. Date 1890. Possible correct edition is Simpkin (1892).</note>
+                                    total. Date 1890. Possible correct edition is Simpkin
+                                    (1892).</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb053">
@@ -9578,7 +9623,7 @@
                                 <monogr>
                                     <title>Bertrand: or Memoirs of a Northumbrian Nobleman in the
                                         Seventeenth Century, written by himself</title>
-                                    
+
                                     <author>
                                         <persName>Bertrand</persName>
                                     </author>
@@ -9599,7 +9644,8 @@
                                         <measure unit="volumes" quantity="3"/>
                                     </extent>
                                 </monogr>
-                                <note type="fulltext">Cannot locate copy. Title has been corrected from "Northumbrian Gentleman" to "Northumbrian Nobleman."</note>
+                                <note type="fulltext">Cannot locate copy. Title has been corrected
+                                    from "Northumbrian Gentleman" to "Northumbrian Nobleman."</note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb056">
@@ -9722,9 +9768,11 @@
                                         <date>n. d.</date>
                                     </imprint>
                                 </monogr>
-                                <note type="fulltext">Cannot find copy. Is not Froude's "The Spanish Story of the Armada" because contemporary library catalogs list potential matches.</note>
+                                <note type="fulltext">Cannot find copy. Is not Froude's "The Spanish
+                                    Story of the Armada" because contemporary library catalogs list
+                                    potential matches.</note>
                             </biblStruct>
-                            
+
                             <biblStruct corresp="#owned" xml:id="sb057.3">
                                 <monogr>
                                     <title>'Tis Merry when Gossips Meet</title>
@@ -9758,7 +9806,7 @@
                                         <publisher>
                                             <persName>Charles Collett</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#sunbury">Sunbury</pubPlace>
                                         <date when="1862"/>
                                     </imprint>
@@ -9814,9 +9862,9 @@
                                 <monogr>
                                     <title>Thomas Bewick His Life and Times</title>
                                     <author corresp="#robinson">
-                                        <persName>Robert
-                                        Robinson</persName>
-										<note type="data" resp="#jawalsh">Sotheby's cataloger mistook Thomas Bewick for the author.</note>
+                                        <persName>Robert Robinson</persName>
+                                        <note type="data" resp="#jawalsh">Sotheby's cataloger
+                                            mistook Thomas Bewick for the author.</note>
                                     </author>
                                     <note type="description">portrait and illustrations, half calf;
                                         imperial 8vo.</note>
@@ -10105,7 +10153,8 @@
                                     target="https://hdl.handle.net/2027/uiuo.ark:/13960/t1hh6sn06"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiuo.ark:/13960/t7wm1jm9d"/>
-                                <note type="fulltext">Catalog does not list this as having 3 vols.</note>
+                                <note type="fulltext">Catalog does not list this as having 3
+                                    vols.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb063.3">
                                 <monogr>
@@ -10268,7 +10317,8 @@
                                     target="https://hdl.handle.net/2027/uc1.31822043026632"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31822043032861"/>
-                                <relatedItem n="3" type="full-text" corresp="#ia" target="https://archive.org/details/worksofwilliambl03blakrich/page/n9/mode/2up"/>
+                                <relatedItem n="3" type="full-text" corresp="#ia"
+                                    target="https://archive.org/details/worksofwilliambl03blakrich/page/n9/mode/2up"/>
 
                             </biblStruct>
                         </listBibl>
@@ -10540,7 +10590,8 @@
                                     target="https://hdl.handle.net/2027/hvd.hwavrx"/>
                                 <relatedItem n="3" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwavrw"/>
-                                <relatedItem n="4" type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/hvd.hwavrv"/>
+                                <relatedItem n="4" type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/hvd.hwavrv"/>
                                 <note type="fulltext">HT copy has the year 1813, and a fourth volume
                                     listed.</note>
                             </biblStruct>
@@ -10939,7 +10990,7 @@
                                         <publisher>
                                             <persName>Robert Roberts</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date when="1878"/>
                                     </imprint>
@@ -11097,7 +11148,7 @@
                                     <note type="description" corresp="#uncut">3 vol. portrait, uncut
                                         (3 covers missing)</note>
                                     <imprint>
-                                        
+
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
@@ -11263,7 +11314,11 @@
                                     <title>The Rodiad</title>
                                     <author>
                                         <persName>Coleman, G.</persName>
-										<note type="authorship">This pornographic poem was falsely ascribed to George Colman the Younger. Its true author was Richard Monckton Milnes. See <ptr target="https://en.wikipedia.org/wiki/The_Rodiad"/>.</note>
+                                        <note type="authorship">This pornographic poem was falsely
+                                            ascribed to George Colman the Younger. Its true author
+                                            was Richard Monckton Milnes. See <ptr
+                                                target="https://en.wikipedia.org/wiki/The_Rodiad"
+                                            />.</note>
                                     </author>
                                     <note type="description" corresp="#uncut">private reprint of 200
                                         copies only, uncut</note>
@@ -11275,7 +11330,7 @@
                                     target="https://archive.org/details/b24863968/page/n12/mode/2up"/>
                                 <note type="fulltext">IA reprint dated 1898, but title page says
                                     original is 1820.</note>
-								</biblStruct>
+                            </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb094.3">
                                 <monogr>
                                     <title>Stray Verses, <date from="1889" to="1890"
@@ -12379,7 +12434,7 @@
                                         <publisher>
                                             <orgName>William Mullan and Son</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1879"/>
                                     </imprint>
@@ -13099,7 +13154,7 @@
                                         <publisher>
                                             <orgName>Marshall Japp and Company</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1881"/>
                                     </imprint>
@@ -13251,7 +13306,8 @@
                                     <title xml:lang="it">Il Corredo Comedia</title>
                                     <author corresp="#cecchi">
                                         <persName>Cecchi, Gianmaria</persName>
-                                        <note type="data" resp="#jawalsh">Gianmaria is an abbreviation of 'Giovanni Maria'.</note>
+                                        <note type="data" resp="#jawalsh">Gianmaria is an
+                                            abbreviation of 'Giovanni Maria'.</note>
                                     </author>
                                     <note type="description">old blue morocco gilt, inside gilt
                                         borders, gilt edges, by H. Duru</note>
@@ -13279,7 +13335,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -13315,7 +13371,8 @@
                                         <publisher corresp="#tooke">
                                             <persName>Benj. Tooke</persName>
                                         </publisher>
-                                        <note type="comment">Could also be his son, d. 1723, but Sr. seems more active. </note>
+                                        <note type="comment">Could also be his son, d. 1723, but Sr.
+                                            seems more active. </note>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1683"/>
                                     </imprint>
@@ -13814,7 +13871,7 @@
                                         <publisher>
                                             <persName>Durand</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#amsterdam">Amsterdam</pubPlace>
                                         <date when="1782"/>
                                     </imprint>
@@ -13951,7 +14008,7 @@
                                         <publisher>
                                             <persName>W. Lewis</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1742"/>
                                     </imprint>
@@ -14452,7 +14509,10 @@
                                         Congreve, Esq.</title>
                                     <author corresp="#oldmixon">
                                         <persName>Wilson, Charles</persName>
-										<note type="data" resp="#jawalsh">Charles Wilson is a pseudonymn of John Oldmixon. See <ptr target="https://catalog.folger.edu/record/947643"/>.</note>
+                                        <note type="data" resp="#jawalsh">Charles Wilson is a
+                                            pseudonymn of John Oldmixon. See <ptr
+                                                target="https://catalog.folger.edu/record/947643"
+                                            />.</note>
                                     </author>
                                     <note type="description">portrait, old calf</note>
                                     <imprint>
@@ -14681,7 +14741,7 @@
                                         <publisher>
                                             <persName>Edward Arnold</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -14728,7 +14788,7 @@
                                         <publisher>
                                             <persName>Richard Byrn</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#dublin">Dublin</pubPlace>
                                         <date when="1780"/>
                                     </imprint>
@@ -14955,7 +15015,9 @@
                                     target="https://hdl.handle.net/2027/hvd.32044098647563"/>
                                 <note type="fulltext">HT has 4 vol listed for this item; only vol
                                     1-2 are 1842.</note>
-									<note type="reference" resp="#jawalsh">In “Dirae,” Swinburne uses <title>Inf.</title> III.84 as epigraph.</note>                            </biblStruct>
+                                <note type="reference" resp="#jawalsh">In “Dirae,” Swinburne uses
+                                        <title>Inf.</title> III.84 as epigraph.</note>
+                            </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb178">
                             <biblStruct corresp="#owned" xml:id="sb178.1">
@@ -14972,7 +15034,7 @@
                                         <publisher>
                                             <orgName>Perrin et cie</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1905"/>
                                     </imprint>
@@ -15193,7 +15255,7 @@
                                     <author>
                                         <persName>Lannert, G. L.</persName>
                                     </author>
-                                    
+
                                     <note type="etc">
                                         <num value="6"/>
                                     </note>
@@ -15222,7 +15284,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1873"/>
                                     </imprint>
@@ -15292,7 +15354,7 @@
                                         <publisher>
                                             <orgName>Bunce and Huntington</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#new_york">New York</pubPlace>
                                         <date when="1865"/>
                                     </imprint>
@@ -15657,14 +15719,16 @@
                         <listBibl type="lot" xml:id="sb195">
                             <biblStruct corresp="#owned #referenced" xml:id="sb195.1">
                                 <monogr>
-                                    <title>Select Collection of Old English Plays</title>                        
+                                    <title>Select Collection of Old English Plays</title>
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">W. Carew Hazlitt</name>
                                     </respStmt>
                                     <note type="description" corresp="#uncut">green cloth,
                                         uncut</note>
-                                    <note type="comment">alewinga, Robert Dodley is listed as author/heading in auction catalog but is merely the original publisher in 1744.</note>
+                                    <note type="comment">alewinga, Robert Dodley is listed as
+                                        author/heading in auction catalog but is merely the original
+                                        publisher in 1744.</note>
                                     <imprint>
                                         <publisher corresp="#reeves_turner">
                                             <orgName>Reeves and Turner</orgName>
@@ -16051,7 +16115,7 @@
                                         <publisher>
                                             <persName>Émile Testard</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -16469,7 +16533,7 @@
                                         <publisher>
                                             <orgName>The Hawarden Press</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -16496,7 +16560,7 @@
                                         <publisher>
                                             <orgName>The Hawarden Press</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1899"/>
                                     </imprint>
@@ -16755,7 +16819,7 @@
                                         <publisher>
                                             <orgName>Sagnier et Bray</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1844"/>
                                     </imprint>
@@ -16972,7 +17036,8 @@
                                     <author corresp="#bradley_k">
                                         <persName>Field, Michael</persName>
                                     </author>
-                                    <note type="comment">Michael Field was a pseudonym used by Katharine Harris Bradley. </note>
+                                    <note type="comment">Michael Field was a pseudonym used by
+                                        Katharine Harris Bradley. </note>
                                     <note type="description">parchment, with inscription</note>
                                     <note type="inscription">A. Swinburne, Esq. from the author,
                                             <date when="1884-05">May, 1884</date></note>
@@ -17344,7 +17409,7 @@
                                         <publisher>
                                             <persName>H. A. Rogers</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
@@ -17363,7 +17428,8 @@
                                     </author>
                                     <note type="description">tree-calf gilt, marbled edges, by Clark
                                         and Bedford</note>
-                                    <note type="comment">Clark and Bedford are English bookbinders -AM </note>
+                                    <note type="comment">Clark and Bedford are English bookbinders
+                                        -AM </note>
                                     <edition>Best Edition</edition>
                                     <imprint>
                                         <publisher corresp="#murray_j">
@@ -17447,7 +17513,7 @@
                                     <author>
                                         <persName>Friedmann, Alfred</persName>
                                     </author>
-                                    
+
                                     <imprint>
                                         <publisher corresp="#klemm">
                                             <persName>Josef Klemm</persName>
@@ -18001,7 +18067,7 @@
                                     <author>
                                         <persName>Armstrong, Walter</persName>
                                     </author>
-                                    
+
                                     <note type="description">2 vol. in 1, illustrations, half
                                         morocco, gilt edges</note>
                                     <imprint>
@@ -18091,7 +18157,7 @@
                                         <publisher>
                                             <orgName>"Pall Mall" Press</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1905"/>
                                     </imprint>
@@ -18103,12 +18169,14 @@
                         <listBibl type="lot" xml:id="sb254">
                             <biblStruct corresp="#owned" xml:id="sb254.1">
                                 <monogr>
-                                    <title xml:lang="la">Oratio in Obitum Ser. Cosmi Medicis Magni Hetrutuae Ducis<note type="comment">Title appears to have "Hetruriae", possible typo? </note></title>
-                                    
+                                    <title xml:lang="la">Oratio in Obitum Ser. Cosmi Medicis Magni
+                                        Hetrutuae Ducis<note type="comment">Title appears to have
+                                            "Hetruriae", possible typo? </note></title>
+
                                     <author>
                                         <persName>Baudinius, O.</persName>
                                     </author>
-                                    
+
                                     <imprint>
                                         <publisher corresp="#sermartelli">
                                             <persName>Bartholomæi Sermartillij</persName>
@@ -18116,7 +18184,7 @@
                                         <pubPlace ref="#florence">Florentiæ</pubPlace>
                                         <date when="1574"/>
                                     </imprint>
-                                    
+
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ia"
                                     target="https://archive.org/details/bub_gb_WpcJHUNYRJ4C/page/n5/mode/2up"
@@ -18148,8 +18216,9 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb254.3">
                                 <monogr>
-                                    <title>Acripanda Tragedia<note type="comment">Title from title page. Sotheby's has "Agripanda" </note></title>
-                                    
+                                    <title>Acripanda Tragedia<note type="comment">Title from title
+                                            page. Sotheby's has "Agripanda" </note></title>
+
                                     <author corresp="#decio">
                                         <persName>Decis da Herte, Ant.</persName>
                                     </author>
@@ -18247,7 +18316,7 @@
                                     <author>
                                         <persName>Bernard, B.</persName>
                                     </author>
-                                    
+
                                     <note type="description">vellum, Ben Johnson's copy, with his
                                         signature on title; also an Autograph Letter from Sidney C.
                                         Cockerell addressed to Mr. Swinburne.</note>
@@ -18265,7 +18334,7 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31175029678219"/>
                             </biblStruct>
-                            
+
                         </listBibl>
                         <listBibl type="lot" xml:id="sb258">
                             <biblStruct corresp="#owned" xml:id="sb258.1">
@@ -18274,7 +18343,7 @@
                                     <author>
                                         <persName>Berry, W.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut">map and plates,
                                         uncut</note>
                                     <imprint>
@@ -18554,7 +18623,8 @@
                                 <note>Proquest Document ID: 2248504208</note>
                                 <note type="fulltext">TCP and Google editions are a 1652
                                     edition.</note>
-                                <note type="comment">Not sure if that means this is the correct edition. </note>
+                                <note type="comment">Not sure if that means this is the correct
+                                    edition. </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb268">
@@ -18844,7 +18914,7 @@
                                         <publisher>
                                             <persName>H. Daniel</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#oxford">Oxford</pubPlace>
                                         <date when="1885"/>
                                     </imprint>
@@ -18951,7 +19021,7 @@
                                         <publisher>
                                             <persName>Septimus Prowett</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1825"/>
                                     </imprint>
@@ -19019,7 +19089,7 @@
                                         <publisher>
                                             <persName>Giunti</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#florence">in Firenze</pubPlace>
                                         <date when="1623"/>
                                     </imprint>
@@ -19069,7 +19139,8 @@
                                     target="https://hdl.handle.net/2027/hvd.32044009521816"/>
                                 <note type="fulltext">HT copy is same, but only has one very small,
                                     poor scan of the text.</note>
-                                <note type="comment">This is an unusual case, not sure how to note publisher here. </note>
+                                <note type="comment">This is an unusual case, not sure how to note
+                                    publisher here. </note>
                             </biblStruct>
                             <biblStruct corresp="#owned #top100" xml:id="sb283.3">
                                 <monogr>
@@ -19216,7 +19287,7 @@
                                     <author>
                                         <persName>Cullimore, Henry</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy to Swinburne, with inscription and
                                         dedicatory verse in the author's writing</note>
@@ -19399,7 +19470,7 @@
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb293.2">
                                 <monogr>
-                                    <title>The Witts, a Comedie</title>           
+                                    <title>The Witts, a Comedie</title>
                                     <author corresp="#davenant">
                                         <persName>Davenant, Sir. Wm.</persName>
                                     </author>
@@ -19529,8 +19600,10 @@
                                         </publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1630"/>
-                                        <date from="1608" to="1667"><note type="comment">This date range refers to all the works in the lot. </note></date>
-                                        
+                                        <date from="1608" to="1667"><note type="comment">This date
+                                                range refers to all the works in the lot.
+                                            </note></date>
+
                                         <respStmt>
                                             <resp>printer</resp>
                                             <persName>Haviland, John</persName>
@@ -19795,7 +19868,7 @@
                                     <imprint>
                                         <publisher xml:lang="it">Pisa dalla Typografia della Società
                                             Letteraria</publisher>
-                                        
+
                                         <date when="1809"/>
                                     </imprint>
                                     <extent>
@@ -19848,7 +19921,8 @@
                                     <imprint>
                                         <date when="1626"/>
                                         <date from="1626" to="1629"/>
-                                        <note type="comment">Refers to total years covered by the lot. </note>
+                                        <note type="comment">Refers to total years covered by the
+                                            lot. </note>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="1"/>
@@ -20201,7 +20275,7 @@
                                         <publisher>
                                             <persName>T. Desoer</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1820"/>
                                     </imprint>
@@ -20237,7 +20311,7 @@
                                         <publisher xml:lang="fr">
                                             <orgName>Imprimerie Particulière</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#france">France</pubPlace>
                                         <date when="1873"/>
                                     </imprint>
@@ -20489,7 +20563,7 @@
                                     <author>
                                         <persName>Horivolo, Bart.</persName>
                                     </author>
-                                    
+
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -20504,7 +20578,8 @@
                                         <publisher corresp="#valvassori_f">
                                             <persName>Florio Valvassore</persName>
                                         </publisher>
-                                        <note type="comment">"&amp; Florio fratello" on item, so Giovanni's brother Florio </note>
+                                        <note type="comment">"&amp; Florio fratello" on item, so
+                                            Giovanni's brother Florio </note>
                                         <date from="1544" to="1551"/>
                                     </imprint>
                                     <extent>
@@ -20534,7 +20609,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -20643,7 +20718,8 @@
                                         signature on fly-leaf</note>
                                     <note type="inscription">A. C. Swinburne, <date
                                             when="1849-10-20">October 20th, 1849</date></note>
-                                    <note type="comment">I have this as an inscription even though Swinburne was the one who wrote it. </note>
+                                    <note type="comment">I have this as an inscription even though
+                                        Swinburne was the one who wrote it. </note>
                                     <edition/>
                                     <imprint>
                                         <date when="1848"/>
@@ -20664,7 +20740,7 @@
                                     <author>
                                         <persName>Graham, Jas.</persName>
                                     </author>
-                                    
+
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -20808,7 +20884,7 @@
                                     <author>
                                         <persName>Graham, Wm.</persName>
                                     </author>
-                                    
+
                                     <respStmt>
                                         <resp/>
                                         <name full="yes"/>
@@ -21119,8 +21195,9 @@
                         <listBibl type="lot" xml:id="sb334">
                             <biblStruct corresp="#owned" xml:id="sb334.1">
                                 <monogr>
-                                    <title>Memoirs of Eight Years<note type="comment">Title on linked item has "Eighty" </note></title>
-                                        <author corresp="#hake">
+                                    <title>Memoirs of Eight Years<note type="comment">Title on
+                                            linked item has "Eighty" </note></title>
+                                    <author corresp="#hake">
                                         <persName>Hake, Gordon</persName>
                                     </author>
                                     <note type="description" corresp="#presentation">presentation
@@ -21337,7 +21414,7 @@
                                         <publisher>
                                             <orgName>Fleet and Bishop</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#brighton">Brighton</pubPlace>
                                         <date when="1879"/>
                                     </imprint>
@@ -21495,7 +21572,8 @@
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hxqcbe"/>
                                 <note type="fulltext">HT doesn't appear to have 1903 copy; this copy
-                                    is 1904, and is only the first part per the catalogue description.</note>
+                                    is 1904, and is only the first part per the catalogue
+                                    description.</note>
                             </biblStruct>
                             <biblStruct corresp="#owned" type="lot" xml:id="sb346.2">
                                 <monogr>
@@ -22041,7 +22119,7 @@
                                         <publisher>
                                             <persName>John Pearson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -22076,7 +22154,7 @@
                                         <publisher>
                                             <persName>La Veuve Verteneuil</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1859"/>
                                     </imprint>
@@ -22206,7 +22284,7 @@
                                         <publisher>
                                             <orgName>Hamilton and Co.</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#whittaker_co">
                                             <persName>Whittaker and Co.</persName>
                                         </publisher>
@@ -22219,7 +22297,7 @@
                                         <publisher>
                                             <persName>E. Williams</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1847"/>
                                     </imprint>
@@ -22392,7 +22470,7 @@
                                         <publisher>
                                             <orgName>Schweighauser &amp; Co.</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#basel">Basel</pubPlace>
                                         <date when="1838"/>
                                     </imprint>
@@ -22490,7 +22568,8 @@
                                     target="https://hdl.handle.net/2027/hvd.hwe6g2"/>
                                 <relatedItem n="6" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433081580429"/>
-                                <note type="comment">Harvard's copy of this volume was garbage, so I used the NYP version. </note>
+                                <note type="comment">Harvard's copy of this volume was garbage, so I
+                                    used the NYP version. </note>
                                 <relatedItem n="7" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwe6gt"/>
                                 <relatedItem n="8" type="full-text" corresp="#ht"
@@ -22598,7 +22677,7 @@
                                         <publisher>
                                             <persName>George Rivers</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1875"/>
                                     </imprint>
@@ -22684,7 +22763,7 @@
                                         <publisher>
                                             <orgName>Leader &amp; Sons</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#sheffield">Sheffield</pubPlace>
                                         <date when="1880"/>
                                     </imprint>
@@ -22792,9 +22871,9 @@
                                     target="https://hdl.handle.net/2027/nyp.33433075796072"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/nyp.33433075796080"/>
-                                <note resp="#jawalsh">
-                                    In “A New-Year Ode” Swinburne cites the following individual sections of <title>La Légende des Siècles</title>:
-                                    <list>
+                                <note resp="#jawalsh"> In “A New-Year Ode” Swinburne cites the
+                                    following individual sections of <title>La Légende des
+                                        Siècles</title>: <list>
                                         <item>Le Sacre de la Femme</item>
                                         <item>La Conscience</item>
                                         <item>Booz endormi</item>
@@ -22824,7 +22903,7 @@
                                         <item>Guerre Civile</item>
                                         <item>La Vision de Dante</item>
                                         <item>La Trompette du Jugement</item>
-                                    </list> 
+                                    </list>
                                 </note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb378.2">
@@ -22868,7 +22947,7 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb379">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb379.1">
-                                
+
                                 <monogr>
                                     <title xml:lang="fr">Les Châtiments</title>
                                     <author corresp="#hugo">
@@ -22886,7 +22965,7 @@
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
                                     </imprint>
-                                    
+
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.32044087041141"/>
@@ -22970,18 +23049,23 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb383">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb383.1">
-                                
+
                                 <monogr>
                                     <title>Œuvres</title>
                                     <author corresp="#hugo">
                                         <persName>Hugo, V.</persName>
                                     </author>
                                     <note type="description" corresp="#uncut">portraits,
-                                        uncut</note><note type="comment">Swinburne cites Lorsque l’enfant paraît, in Les feuilles d'automne </note>
+                                        uncut</note>
+                                    <note type="comment">Swinburne cites Lorsque l’enfant paraît, in
+                                        Les feuilles d'automne </note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1875"/>
-                                        <note type="comment">Appears to be a series published by A. Lemerre. According to IU catalog, there are only 10 published in 1875 even if Lemerre published 31 overall. Have listed those 10 volumes in related items </note>
+                                        <note type="comment">Appears to be a series published by A.
+                                            Lemerre. According to IU catalog, there are only 10
+                                            published in 1875 even if Lemerre published 31 overall.
+                                            Have listed those 10 volumes in related items </note>
                                     </imprint>
                                     <extent>
                                         <measure unit="volumes" quantity="10"/>
@@ -22992,7 +23076,8 @@
                                     target="https://hdl.handle.net/2027/inu.30000118163181"/>
                                 <relatedItem n="2" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/hvd.hwkcts"/>
-                                <note type="comment">Les feuilles d'automne. Les chants du crépuscule </note>
+                                <note type="comment">Les feuilles d'automne. Les chants du
+                                    crépuscule </note>
                                 <relatedItem n="3" type="full-text" corresp="#google"
                                     target="https://books.google.com/books?id=kM_d4EeNezUC"/>
                                 <note type="comment">Les voix intérieures. Les rayons et les ombres. </note>
@@ -23403,7 +23488,7 @@
                                         <publisher>
                                             <persName>Joseph Appleyard</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1822"/>
                                     </imprint>
@@ -25311,12 +25396,14 @@
                                         <persName>Landor, W. S.</persName>
                                     </author>
                                     <imprint>
-                                        <publisher corresp="#bradbury_evans">Bradbury &amp; Evans</publisher>
+                                        <publisher corresp="#bradbury_evans">Bradbury &amp;
+                                            Evans</publisher>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1856"/>
                                     </imprint>
                                 </monogr>
-                                <relatedItem type="full-text" corresp="#ht" target="https://hdl.handle.net/2027/loc.ark:/13960/t6zw2rf2r"/>
+                                <relatedItem type="full-text" corresp="#ht"
+                                    target="https://hdl.handle.net/2027/loc.ark:/13960/t6zw2rf2r"/>
                             </biblStruct>
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb440.3">
                                 <monogr>
@@ -25723,7 +25810,7 @@
                                         <publisher>
                                             <persName>P. Mouillot</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1886"/>
                                     </imprint>
@@ -25742,7 +25829,7 @@
                                         <publisher>
                                             <persName>Jaccottet</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#bourdilliat_cie">
                                             <orgName>Bourdilliat et Cie</orgName>
                                         </publisher>
@@ -25945,7 +26032,7 @@
                                         <publisher>
                                             <orgName>Gibbings &amp; Company</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1906"/>
                                     </imprint>
@@ -26062,7 +26149,7 @@
                                         <publisher>
                                             <persName>Roger Norton</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1721"/>
                                     </imprint>
@@ -26231,11 +26318,11 @@
                             <biblStruct corresp="#owned" xml:id="sb459.1">
                                 <monogr>
                                     <title>Encyclopaedic Dictionary</title>
-                                    
+
                                     <author>
                                         <persName>Lloyd, E.</persName>
                                     </author>
-                                    
+
                                     <note type="description">numerous illustrations, cloth gilt,
                                         royal 8vo.</note>
                                     <imprint>
@@ -26283,7 +26370,7 @@
                                         <publisher>
                                             <persName>John Wilson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1868"/>
                                     </imprint>
@@ -26601,7 +26688,7 @@
                                     <author>
                                         <persName>Woodward, A. T.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presented to A. C. Swinburne by the Author, with original
                                         Sonnet, etc. in his handwriting</note>
@@ -26706,7 +26793,7 @@
                                     <author>
                                         <persName>Bourdel, L.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy to Swinburne with autograph
                                         inscription</note>
@@ -26790,7 +26877,7 @@
                                     <author>
                                         <persName>Barlow, Thos.</persName>
                                     </author>
-                                    
+
                                     <imprint>
                                         <publisher corresp="#horace_cox">
                                             <persName>Horace Cox</persName>
@@ -26891,7 +26978,7 @@
                                     <author>
                                         <persName>MacCulloch, Sir Edgar</persName>
                                     </author>
-                                    
+
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Edith F. Carey</name>
@@ -27032,13 +27119,14 @@
                                     <author>
                                         <persName>Magasin de Librairie, Le</persName>
                                     </author>
-                                    
+
                                     <note type="description">half morocco, marbled edges</note>
                                     <imprint>
                                         <publisher>
                                             <persName>Charpentier</persName>
                                         </publisher>
-										<note type="comment">jawalsh: need to check for correct title. </note>
+                                        <note type="comment">jawalsh: need to check for correct
+                                            title. </note>
                                         <!-- Difficult to determine correct LCNAF, if one exists. Possibly
                                                http://id.loc.gov/authorities/names/n2004063006 -->
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -27116,7 +27204,8 @@
                                     <edition corresp="#first_ed">First Edition</edition>
                                     <imprint>
                                         <publisher/>
-                                        <note type="comment">None given on item or in HT catalog record. </note>
+                                        <note type="comment">None given on item or in HT catalog
+                                            record. </note>
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1869"/>
                                     </imprint>
@@ -27156,7 +27245,7 @@
                                         <publisher>
                                             <orgName>Office of "The Commonweal"</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1887"/>
                                     </imprint>
@@ -27311,7 +27400,7 @@
                                         <publisher>
                                             <persName>J. Rothschild</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -27657,7 +27746,7 @@
                                         <publisher>
                                             <persName>Caroli Tauchnitii</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#leipzig">Lipsia</pubPlace>
                                         <date when="1829"/>
                                     </imprint>
@@ -27723,7 +27812,8 @@
                                     target="https://hdl.handle.net/2027/uc1.31175035183402"/>
                                 <relatedItem n="6" type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.31175035183410"/>
-                                <note type="comment">Vol 6 is not included in extent, but I grabbed it anyway. </note>
+                                <note type="comment">Vol 6 is not included in extent, but I grabbed
+                                    it anyway. </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb493">
@@ -27869,7 +27959,7 @@
                                         <publisher>
                                             <persName>G. Daelli</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#milan">Milano</pubPlace>
                                         <date when="1861"/>
                                     </imprint>
@@ -27981,7 +28071,7 @@
                                     <author>
                                         <persName>Megnin, P.</persName>
                                     </author>
-                                    
+
                                     <note type="description">illustrations</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -28045,7 +28135,8 @@
                                         <note type="comment">based off of USTC. </note>
                                         <pubPlace ref="#wittenberg">Wittenberg</pubPlace>
                                         <date>15--</date>
-                                        <note type="data" resp="#alewinga">USTC showing dates in 1523, 1525, and 1527</note>
+                                        <note type="data" resp="#alewinga">USTC showing dates in
+                                            1523, 1525, and 1527</note>
                                     </imprint>
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#google"
@@ -28364,7 +28455,7 @@
                                         <publisher>
                                             <orgName>Firmin Didot Frères</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1836"/>
                                     </imprint>
@@ -28478,7 +28569,7 @@
                                         <publisher>
                                             <persName>John Chapman</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1849"/>
                                     </imprint>
@@ -28675,7 +28766,7 @@
                                         <publisher>
                                             <persName>Furne</persName>
                                         </publisher>
-                                         <pubPlace ref="#paris">Paris</pubPlace>
+                                        <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1845"/>
                                     </imprint>
                                     <extent>
@@ -28747,7 +28838,7 @@
                                         <publisher>
                                             <orgName>J. Gay et fils</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#san_remo">San Remo</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -28803,7 +28894,7 @@
                                         <publisher>
                                             <persName>Alexander Gardner</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -28834,7 +28925,7 @@
                                     <author>
                                         <persName>Mackay, Alice D.</persName>
                                     </author>
-                                    
+
                                     <note type="description">portrait</note>
                                     <note type="etc" corresp="#presentation">all presentation copies
                                         to Swinburne with autograph inscriptions<num value="6"
@@ -29100,7 +29191,7 @@
                                         <publisher>
                                             <persName>G. Charpentier</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -29392,7 +29483,7 @@
                                         <publisher>
                                             <persName>E. Picard</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1867"/>
                                     </imprint>
@@ -29490,9 +29581,14 @@
                                 <series>Nouvelle Collection Jannet</series>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uiug.30112069431275"/>
-                                <note type="comment">Sotheby's neglects to list one volume from Nouvelle Collection Jannet (uses "etc." after Villon) since above entries from sb533 only add up to 14 volumes and catalog indicates there are 15 together. Unclear what work it is because there appear to be more than 16 volumes in the Nouvelle Collection Jannet</note>
+                                <note type="comment">Sotheby's neglects to list one volume from
+                                    Nouvelle Collection Jannet (uses "etc." after Villon) since
+                                    above entries from sb533 only add up to 14 volumes and catalog
+                                    indicates there are 15 together. Unclear what work it is because
+                                    there appear to be more than 16 volumes in the Nouvelle
+                                    Collection Jannet</note>
                             </biblStruct>
-                            
+
                             <biblStruct corresp="#owned #top100" xml:id="sb533.6">
                                 <monogr>
                                     <title>La Comtesse de Charny</title>
@@ -29586,7 +29682,7 @@
                                         <publisher>
                                             <persName>John Martin</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1814"/>
                                     </imprint>
@@ -29749,7 +29845,7 @@
                                         <publisher>
                                             <persName>Jean Maisonneuve</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1903"/>
                                     </imprint>
@@ -29797,7 +29893,7 @@
                                         <publisher>
                                             <orgName>Ellis and Green</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -29905,8 +30001,10 @@
                                     <note type="description">half calf gilt, title mended</note>
                                     <imprint>
                                         <pubPlace ref="#london">Berwick</pubPlace>
-                                        <note type="comment">Seems to be an old London neighborhood. Can this be tagged as London? </note>
-                                        <note type="comment">yes, tagging as London, especially since publisher is in London </note>
+                                        <note type="comment">Seems to be an old London neighborhood.
+                                            Can this be tagged as London? </note>
+                                        <note type="comment">yes, tagging as London, especially
+                                            since publisher is in London </note>
                                         <date when="1784"/>
                                     </imprint>
                                     <extent>
@@ -29976,7 +30074,7 @@
                                         <publisher>
                                             <persName>Edward Arnold</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1902"/>
                                     </imprint>
@@ -30092,7 +30190,7 @@
                                     <author>
                                         <persName>Paton, F. Noel</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut">illustrations by Mrs.
                                         Hugh Blackburn and H. Paton, uncut</note>
                                     <imprint>
@@ -30178,7 +30276,7 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb550A">
-                            
+
                             <biblStruct corresp="#owned" xml:id="sb550A.1">
                                 <monogr>
                                     <title>Lautrec, a Poem</title>
@@ -30768,7 +30866,8 @@
                                     <author corresp="#hunt_l">
                                         <orgName>Examiner, The</orgName>
                                     </author>
-                                    <note type="comment">Hunt was the editor of the Examiner, so it feels appropriate to associate here. </note>
+                                    <note type="comment">Hunt was the editor of the Examiner, so it
+                                        feels appropriate to associate here. </note>
                                     <note type="description">old calf, binding of one vol. broken
                                         and some leaves defective</note>
                                     <imprint>
@@ -30834,7 +30933,7 @@
                                         <publisher>
                                             <orgName>East Anglian Daily Times</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#ipswich">Ipswich</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
@@ -31007,7 +31106,7 @@
                                         <publisher>
                                             <persName>A. Mame</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1878"/>
                                     </imprint>
@@ -31053,7 +31152,7 @@
                                         <publisher>
                                             <persName>R. Anderson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#glasgow">Glasgow</pubPlace>
                                         <date when="1882"/>
                                     </imprint>
@@ -31113,7 +31212,7 @@
                                         <publisher>
                                             <persName>John Winington</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1589"/>
                                     </imprint>
@@ -31259,7 +31358,7 @@
                                     <author>
                                         <persName>Le Gros, W. B.</persName>
                                     </author>
-                                    
+
                                     <note type="description">illustrations</note>
                                     <imprint>
                                         <publisher corresp="#bentley_1794">
@@ -31287,7 +31386,8 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/umn.31951002297818f"/>
-                                <note type="comment">I'm 87% sure this is the correct item. Check. </note>
+                                <note type="comment">I'm 87% sure this is the correct item. Check.
+                                </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb582">
@@ -31479,14 +31579,14 @@
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy to Swinburne, with inscription</note>
                                     <note type="inscription">To my wonderful Master, Charles A.
-                                        Swinburne <note type="comment">sic </note>, the poet of wild and pious love.
-                                        Most respectfully, A. Fontainas.</note>
+                                        Swinburne <note type="comment">sic </note>, the poet of wild
+                                        and pious love. Most respectfully, A. Fontainas.</note>
                                     <note type="comment">Taken from Harvard's catalog entry </note>
                                     <imprint>
                                         <publisher>
                                             <persName>Veuve Monnom</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -31548,7 +31648,8 @@
                             </biblStruct>
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb590.2">
                                 <monogr>
-                                    <title xml:lang="la">Catulli, Tibulli, et Propertii Opera</title>
+                                    <title xml:lang="la">Catulli, Tibulli, et Propertii
+                                        Opera</title>
                                     <author corresp="#catullus">
                                         <persName>Catullus</persName>
                                     </author>
@@ -31582,7 +31683,7 @@
                                     <author>
                                         <persName>Ludwig, Chris.</persName>
                                     </author>
-                                    
+
                                     <note type="description">calf</note>
                                     <imprint>
                                         <publisher corresp="#saalbach">
@@ -31803,8 +31904,9 @@
                         <listBibl type="lot" xml:id="sb597">
                             <biblStruct corresp="#owned #top100" xml:id="sb597.1">
                                 <monogr>
-                                    <title>Εἰκονοκλαστης, in Answer to a Book intitled Εἰκων Βασιλικη</title>
-                                   
+                                    <title>Εἰκονοκλαστης, in Answer to a Book intitled Εἰκων
+                                        Βασιλικη</title>
+
                                     <author corresp="#milton">
                                         <persName>Milton, John</persName>
                                     </author>
@@ -31831,7 +31933,7 @@
                                         <publisher>
                                             <persName>Du-Gardianis</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">Londini</pubPlace>
                                         <date when="1651"/>
                                     </imprint>
@@ -32059,7 +32161,7 @@
                                         <publisher>
                                             <persName>John Wylie</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#glasgow">Glasgow</pubPlace>
                                         <date when="1827"/>
                                     </imprint>
@@ -32316,7 +32418,7 @@
                                         <publisher>
                                             <persName>David Stott</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1890"/>
                                     </imprint>
@@ -32354,7 +32456,7 @@
                             <biblStruct corresp="#owned" xml:id="sb615.1">
                                 <monogr>
                                     <title>Certaine Learned and Elegant Workes</title>
-                                    
+
                                     <author corresp="#brooke_f">
                                         <persName>Brooke, Fulke Greville, Lord</persName>
                                     </author>
@@ -32789,9 +32891,10 @@
                                         <measure unit="volumes" quantity="27"/>
                                     </extent>
                                 </monogr>
-                                <note type="comment">jawalsh: This may refer to volumes of English drama by William Feales. See https://bit.ly/3ZRzQmt </note>
-                                
-                                
+                                <note type="comment">jawalsh: This may refer to volumes of English
+                                    drama by William Feales. See https://bit.ly/3ZRzQmt </note>
+
+
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb630">
@@ -33015,7 +33118,7 @@
                                         <publisher>
                                             <orgName>Percival and Co.</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date from="1891" to="1892"/>
                                     </imprint>
@@ -33241,21 +33344,21 @@
                                         <publisher>
                                             <persName>R. Baldwin</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#johnston">
                                             <persName>W. Johnston</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>J. Richardson</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#crowder">
                                             <persName>S. Crowder</persName>
                                         </publisher>
                                         <publisher>
                                             <orgName>P. Davey and B. Law</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#longman">
                                             <persName>T. Longman</persName>
                                         </publisher>
@@ -33268,11 +33371,11 @@
                                         <publisher>
                                             <persName>T. Pote</persName>
                                         </publisher>
-                                        
+
                                         <publisher>
                                             <orgName>H. Woodgate and S. Brooks</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#baker_s">
                                             <persName>S. Baker</persName>
                                         </publisher>
@@ -33579,7 +33682,7 @@
                                         <publisher>
                                             <orgName>Lefèvre et Furne</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1844"/>
                                     </imprint>
@@ -33609,9 +33712,10 @@
                                         <persName>Radcliffe, Capt. Alex.</persName>
                                     </author>
                                     <note type="description" corresp="#uncut">one of 250 copies,
-                                        uncut</note><note type="comment">Privately printed, location unknown. </note>
+                                        uncut</note>
+                                    <note type="comment">Privately printed, location unknown. </note>
                                     <imprint>
-                                        
+
                                         <date when="1889"/>
                                     </imprint>
                                 </monogr>
@@ -33695,7 +33799,7 @@
                                         <publisher>
                                             <persName>Niccolò Giannotta</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#catania">Catania</pubPlace>
                                         <date when="1883"/>
                                     </imprint>
@@ -33810,7 +33914,7 @@
                                     <author>
                                         <persName>Rees, R. Wilkins</persName>
                                     </author>
-                                    
+
                                     <note type="description">with autograph letter of the
                                         author</note>
                                     <imprint>
@@ -33845,7 +33949,7 @@
                                     <author>
                                         <persName>Temple, J. Scott</persName>
                                     </author>
-                                    
+
                                     <note type="description">autograph letter of author
                                         enclosed</note>
                                     <note type="etc" corresp="#presentation">and others, some
@@ -34034,7 +34138,7 @@
                                         <publisher>
                                             <persName>Buisson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1791"/>
                                     </imprint>
@@ -34065,7 +34169,7 @@
                                         <publisher>
                                             <orgName>Librairie d'Alex</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#brussels">Bruxelles</pubPlace>
                                         <date when="1837"/>
                                     </imprint>
@@ -34108,7 +34212,7 @@
                                         <publisher>
                                             <orgName>Verlags-Magazin</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#zurich">Zurich</pubPlace>
                                         <date when="1889"/>
                                     </imprint>
@@ -34189,7 +34293,7 @@
                                     <note type="description">frontispiece, etc.</note>
                                     <imprint>
                                         <publisher>Grampian Club</publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1874"/>
                                     </imprint>
@@ -34211,7 +34315,7 @@
                                         <publisher>
                                             <persName>J. Johnson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1790"/>
                                     </imprint>
@@ -34328,7 +34432,7 @@
                                         <publisher>
                                             <orgName>Charpentier</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1866"/>
                                     </imprint>
@@ -34616,7 +34720,7 @@
                                         <publisher>
                                             <orgName>Ellis and Scrutton</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1886"/>
                                     </imprint>
@@ -34865,7 +34969,7 @@
                                         <publisher>
                                             <orgName>Charles Wittingham &amp; Co.</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#chiswick_press">
                                             <orgName>Chiswich Press</orgName>
                                         </publisher>
@@ -34892,7 +34996,7 @@
                                     <author>
                                         <orgName>Royal Colonial Institute</orgName>
                                     </author>
-                                    
+
                                     <note type="description">2 duplicates</note>
                                     <imprint>
                                         <publisher corresp="#sampson_low_marston_searle_rivington">
@@ -35178,7 +35282,7 @@
                                         <publisher>
                                             <persName>J. Miller</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1843"/>
                                     </imprint>
@@ -35232,7 +35336,7 @@
                                     <author>
                                         <persName>Kane, E.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">uncut,
                                         presentation copy with inscription</note>
                                     <note type="etc" corresp="#presentation">and others, all
@@ -35614,7 +35718,8 @@
                                         <publisher corresp="#collins_j">
                                             <persName>John Collins</persName>
                                         </publisher>
-                                        <note type="comment">"Publish'd by the Author Himself" on item, used catalog record. </note>
+                                        <note type="comment">"Publish'd by the Author Himself" on
+                                            item, used catalog record. </note>
                                         <pubPlace ref="#birmingham">Birmingham</pubPlace>
                                         <date when="1804"/>
                                     </imprint>
@@ -35654,7 +35759,7 @@
                                         <publisher>
                                             <persName>W. Miller</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1809"/>
                                     </imprint>
@@ -35862,7 +35967,7 @@
                                         <publisher>
                                             <persName>L. Davis</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#horsfield">
                                             <persName>R. Horsfield</persName>
                                         </publisher>
@@ -35872,7 +35977,7 @@
                                         <publisher>
                                             <persName>E. Johnson</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#crowder">
                                             <persName>S. Crowder</persName>
                                         </publisher>
@@ -35891,7 +35996,7 @@
                                         <publisher>
                                             <orgName>J. and T. Bowles</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#lowndes_t">
                                             <persName>T. Lowndes</persName>
                                         </publisher>
@@ -35916,29 +36021,29 @@
                                         <publisher>
                                             <persName>W. Stuart</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#newberry">
                                             <persName>F. Newberry</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>G. Robinson</persName>
                                         </publisher>
-                                        
+
                                         <publisher>
                                             <persName>R. Baldwin</persName>
                                         </publisher>
-                                        
+
                                         <publisher>
                                             <persName>T. Beecroft</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#ridley">
                                             <persName>J. Ridley</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>T. Evans</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#hayes_s">
                                             <persName>S. Hayes</persName>
                                         </publisher>
@@ -36367,7 +36472,7 @@
                                     target="https://hdl.handle.net/2027/hvd.32044024365397"/>
                             </biblStruct>
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb711.3">
-                                
+
                                 <monogr>
                                     <title>Shakespeare Apocrypha, edited, with Notes, etc. by C. F.
                                         Tucker Brooke</title>
@@ -36582,7 +36687,6 @@
                                 <author>
                                     <orgName>Shakespeare Society Publications</orgName>
                                 </author>
-                                
                                 <date>various years</date>
                                 <extent><measure unit="volumes" quantity="39"/>various</extent>
                                 <note resp="#jawalsh">Not possible to determine the identity of
@@ -36661,7 +36765,8 @@
                                     <author corresp="#shelley_p">
                                         <orgName>Shelley Papers, The</orgName>
                                     </author>
-                                    <note type="comment">Not sure if this is the correct association. </note>
+                                    <note type="comment">Not sure if this is the correct
+                                        association. </note>
                                     <note type="description">half roan</note>
                                     <imprint>
                                         <publisher corresp="#whittaker_treacher_co">
@@ -37096,7 +37201,7 @@
                                         <publisher>
                                             <orgName>Charles Wittingham and Co.</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#chiswick">Chiswick</pubPlace>
                                         <date when="1884"/>
                                     </imprint>
@@ -37261,7 +37366,7 @@
                             <biblStruct corresp="#owned #top100" xml:id="sb730.1">
                                 <monogr>
                                     <title>The Life of Percy Bysshe Shelley</title>
-                                    
+
                                     <author>
                                         <persName corresp="#dowden">Dowden, E.</persName>
                                     </author>
@@ -37476,7 +37581,7 @@
                                         <publisher>
                                             <persName>R. Fonet</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1625"/>
                                     </imprint>
@@ -37577,7 +37682,8 @@
                                     </author>
                                     <imprint>
                                         <publisher>T. Rodd</publisher>
-                                        <note type="comment">Entry exists, but Rodd died in 1822. Will hold off on associating. </note>
+                                        <note type="comment">Entry exists, but Rodd died in 1822.
+                                            Will hold off on associating. </note>
                                         <date when="1843"/>
                                     </imprint>
                                     <extent>
@@ -37891,7 +37997,7 @@
                                         <publisher>
                                             <persName>James Walton</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#murray_j">
                                             <persName>John Murray</persName>
                                         </publisher>
@@ -37975,7 +38081,7 @@
                                         <publisher>
                                             <persName>George Knapp</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1736"/>
                                     </imprint>
@@ -37999,7 +38105,8 @@
                                         <publisher>
                                             <persName>B. Tooke</persName>
                                         </publisher>
-                                        <note type="comment">Could be Benjamin Tooke, but he died in 1716. </note>
+                                        <note type="comment">Could be Benjamin Tooke, but he died in
+                                            1716. </note>
                                         <publisher corresp="#wellington">
                                             <persName>M. Wellington</persName>
                                         </publisher>
@@ -38239,7 +38346,7 @@
                                         <publisher>
                                             <persName>Charpentier</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1891"/>
                                     </imprint>
@@ -38261,7 +38368,7 @@
                                         <publisher>
                                             <persName>Charles A. Calvo, Jr.</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#columbia">Columbia, S. C.</pubPlace>
                                         <date when="1884"/>
                                     </imprint>
@@ -38597,7 +38704,7 @@
                                     <author>
                                         <persName>Sauter, Edwin</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#presentation">presentation
                                         copy with inscription</note>
                                     <note type="inscription">To Algernon Charles Swinburne, England,
@@ -38650,7 +38757,7 @@
                             <biblStruct corresp="#owned" xml:id="sb765.1">
                                 <monogr>
                                     <title xml:lang="it">Le Tredici Piacevoli Notte</title>
-                                    
+
                                     <author corresp="#straparola">
                                         <persName>Straparola da Caravaggio, Giovan.-Fran</persName>
                                     </author>
@@ -38921,7 +39028,7 @@
                                     <imprint>
                                         <publisher> Printed by <persName>J. Andrews</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">Clements Lane, E.C.</pubPlace>
                                         <date>n.d. [c. 1866]</date>
                                     </imprint>
@@ -39364,7 +39471,8 @@
                                 </monogr>
                                 <relatedItem type="full-text" corresp="#ht"
                                     target="https://hdl.handle.net/2027/uc1.aa0003796968"/>
-                                <note type="comment">Is this item in Swinburne's library twice? Check </note>
+                                <note type="comment">Is this item in Swinburne's library twice?
+                                    Check </note>
                             </biblStruct>
                             <biblStruct corresp="#owned" xml:id="sb786.3">
                                 <monogr>
@@ -39409,7 +39517,7 @@
                                     <author>
                                         <persName>Dolane, R.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -39423,7 +39531,7 @@
                                     <author>
                                         <persName>Dorian, Tola</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut">uncut</note>
                                     <imprint>
                                         <pubPlace ref="#paris">Paris</pubPlace>
@@ -39467,7 +39575,7 @@
                                         <publisher>
                                             <persName>P. V. Stock</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1902"/>
                                     </imprint>
@@ -39537,7 +39645,7 @@
                                         <publisher>
                                             <orgName>P.-V. Stock</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1909"/>
                                     </imprint>
@@ -40098,7 +40206,7 @@
                                         <publisher>
                                             <orgName>Aldine Book Publishing Co.</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#boston">Boston</pubPlace>
                                         <date when="1858"/>
                                     </imprint>
@@ -40269,7 +40377,8 @@
                                         <measure unit="volumes" quantity="6"/>
                                     </extent>
                                 </monogr>
-                                <note type="comment">Some copies available, but no six-volume sets. </note>
+                                <note type="comment">Some copies available, but no six-volume sets.
+                                </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="sb811">
@@ -40689,7 +40798,7 @@
                                         <publisher>
                                             <orgName>The Religious Tract Society</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -40904,7 +41013,7 @@
                                     <author>
                                         <orgName>Tudor Library</orgName>
                                     </author>
-                                    
+
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Margaret L. Lee</name>
@@ -41228,7 +41337,7 @@
                                         <publisher>
                                             <persName>Niccolo Giannotta</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#catania">Catania</pubPlace>
                                         <date when="1900"/>
                                     </imprint>
@@ -41308,7 +41417,7 @@
                                         <publisher>
                                             <persName>Lefevre</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1823"/>
                                     </imprint>
@@ -41368,7 +41477,7 @@
                                         <publisher>
                                             <persName>Thomas G. Stevenson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#edinburgh">Edinburgh</pubPlace>
                                         <date when="1843"/>
                                     </imprint>
@@ -41480,7 +41589,7 @@
                                         <publisher>
                                             <persName>Samuel Jallasson</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1727"/>
                                     </imprint>
@@ -41540,7 +41649,7 @@
                                         <publisher>
                                             <persName>L. White</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#wogan">
                                             <persName>P. Wogan</persName>
                                         </publisher>
@@ -41550,18 +41659,18 @@
                                         <publisher>
                                             <persName>J. Cash</persName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#mkenzie">
                                             <persName>W. M'Kenzie</persName>
                                         </publisher>
                                         <publisher>
                                             <persName>J. Moore</persName>
                                         </publisher>
-                                        
+
                                         <publisher>
                                             <persName>J. Jones</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#dublin">Dublin</pubPlace>
                                         <date when="1786"/>
                                     </imprint>
@@ -41992,7 +42101,7 @@
                                         <publisher>
                                             <persName>S. W. Green</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#washington">Washington</pubPlace>
                                         <date when="1872"/>
                                     </imprint>
@@ -42523,8 +42632,10 @@
                             <biblStruct corresp="#owned" xml:id="sb868.1">
                                 <monogr>
                                     <title source="http://id.loc.gov/authorities/names/n80049639"
-                                        >The Plays performed by the Crafts or Mysteries of York, on the day of Corpus Christi in the 14th, 15th, and 16th Centuries</title>
-                                    
+                                        >The Plays performed by the Crafts or Mysteries of York, on
+                                        the day of Corpus Christi in the 14th, 15th, and 16th
+                                        Centuries</title>
+
                                     <respStmt>
                                         <resp>edited by</resp>
                                         <name full="yes">Lucy T. Smith</name>
@@ -42594,7 +42705,7 @@
                                         <publisher>
                                             <persName>Septimus Prowett</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1828"/>
                                     </imprint>
@@ -42693,7 +42804,7 @@
                                         <publisher>
                                             <persName>Guillaume Bowyer</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">Londres</pubPlace>
                                         <date when="1722"/>
                                     </imprint>
@@ -42957,7 +43068,7 @@
                                         <publisher>
                                             <persName>Ferdinand Bastien</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1798"/>
                                     </imprint>
@@ -43030,7 +43141,7 @@
                                         <publisher>
                                             <orgName>Turnbull Brothers</orgName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#baltimore">Baltimore</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -43126,7 +43237,7 @@
                                         <publisher>
                                             <persName>John Weld</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1687"/>
                                         <!-- I think 1637 was a mistake by the auctioneers. 
@@ -43248,8 +43359,7 @@
                                         <date from="1889" to="1893"/>
 
                                     </imprint>
-                                    <biblScope unit="part">1-13, 15 and
-                                        18</biblScope>
+                                    <biblScope unit="part">1-13, 15 and 18</biblScope>
                                     <extent><measure unit="parts" quantity="15"/></extent>
                                 </monogr>
                                 <relatedItem n="1" type="full-text" corresp="#ht"
@@ -43387,7 +43497,7 @@
                                     <author>
                                         <persName>Seymour, Mrs.</persName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#presentation">one of 50
                                         copies, presentation copy, with inscription</note>
                                     <note type="inscription">A. C. Swinburne, Esq. with the
@@ -43554,7 +43664,7 @@
                                     <author>
                                         <orgName>Shakespeare Society</orgName>
                                     </author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">one of
                                         six copies in this form, half roan, uncut, presentation
                                         copy, with autograph inscription</note>
@@ -43770,13 +43880,15 @@
                         </listBibl>
                         <listBibl type="lot" xml:id="sb908">
                             <biblStruct corresp="#owned #top100 #referenced" xml:id="sb908.1">
-                                
+
                                 <monogr>
                                     <title xml:lang="la">Opera Omnia Gr. et Lat. cum Notis R. F. Ph.
                                         Brunck</title>
                                     <author corresp="#sophocles">
                                         <persName>Sophocles</persName>
-                                    </author><note type="comment">Swinburne cites a line from Sophocles' Antigone </note>
+                                    </author>
+                                    <note type="comment">Swinburne cites a line from Sophocles'
+                                        Antigone </note>
                                     <note type="description">old blue morocco, gilt edges</note>
                                     <imprint>
                                         <pubPlace ref="#strasbourg">Argent.</pubPlace>
@@ -43831,7 +43943,7 @@
                                         <publisher>
                                             <persName>Francis Eaglesfield</persName>
                                         </publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1641"/>
                                     </imprint>
@@ -44140,7 +44252,7 @@
                                     <note type="description">russia, for John Playfere</note>
                                     <imprint>
                                         <publisher>Printed by G. Miller</publisher>
-                                        
+
                                         <date when="1665"/>
                                     </imprint>
                                 </monogr>
@@ -44425,7 +44537,7 @@
                                         <publisher>
                                             <orgName>Maison Goupil et Cie</orgName>
                                         </publisher>
-                                        
+
                                         <publisher corresp="#boussod_valadon_cie">
                                             <orgName>Boussod, Valadon et Cie</orgName>
                                         </publisher>
@@ -44794,7 +44906,8 @@
                                         Fragments. ex recensione G. Dindorfii</title>
                                     <author corresp="#euripides"
                                         ><persName>Euripides</persName></author>
-                                    <note type="comment">auction catalog incorrectly identifies author as Aeschylus </note>
+                                    <note type="comment">auction catalog incorrectly identifies
+                                        author as Aeschylus </note>
                                     <note type="description" corresp="#presentation">vellum,
                                         presentation copy from Swinburne, with autograph
                                         inscription.</note>
@@ -45441,7 +45554,7 @@
                                     <note type="description">2 portraits, green cloth, pencil note
                                         in Swinburne's writing on fly-leaf</note>
                                     <edition corresp="#first_ed">1st, British</edition>
-                                    
+
                                     <imprint>
                                         <publisher corresp="#methuen_co">Methuen &amp;
                                             Co.</publisher>
@@ -45847,7 +45960,7 @@
                                     <edition corresp="#deluxe_ed">"Edition de luxe."</edition>
                                     <imprint>
                                         <publisher>Emile Testard</publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1894"/>
                                     </imprint>
@@ -45975,7 +46088,8 @@
                                     target="https://archive.org/details/workswithnotescr01forduoft/"/>
                                 <relatedItem n="2" type="full-text" corresp="#ia"
                                     target="https://archive.org/details/workswithnotescr02forduoft/"/>
-                                <note type="comment">Volume 3 is not present on Internet Archive, or other usable sources.  </note>
+                                <note type="comment">Volume 3 is not present on Internet Archive, or
+                                    other usable sources. </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd330">
@@ -46213,9 +46327,9 @@
                             <biblStruct xml:id="wd421.1" corresp="#presented_by #annotated">
                                 <monogr>
                                     <title>Over Fen and Wold</title>
-                                    
+
                                     <author><persName>Hissey, Jas. John</persName></author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation">map and
                                         illustrations, uncut, presentation copy from Swinburne with
                                         autograph inscription on half title.</note>
@@ -46233,7 +46347,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd437">
-                            <biblStruct xml:id="wd437.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd437.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>William Shakespeare</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46254,7 +46369,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd439">
-                            <biblStruct xml:id="wd439.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd439.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Histoire d’un Crime</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46265,7 +46381,7 @@
                                         Algernon Charles Swinburne</note>
                                     <imprint>
                                         <publisher>J. Hetzel</publisher>
-                                        
+
                                         <pubPlace ref="#paris">Paris</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -46296,7 +46412,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd442">
-                            <biblStruct xml:id="wd442.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd442.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>OEuvres: Cromwell</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46317,7 +46434,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd443">
-                            <biblStruct xml:id="wd443.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd443.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>OEuvres: Notre Dame de Paris</title>
                                     <author corresp="#hugo"><persName>Hugo, V.</persName></author>
@@ -46540,7 +46658,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd539">
-                            <biblStruct xml:id="wd539.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd539.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Gebir, Count Julian, and other Poems</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46562,7 +46681,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd540">
-                            <biblStruct xml:id="wd540.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd540.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Gebir, Count Julian, and other Poems</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46588,8 +46708,7 @@
                                     <title>Merry Devil of Edmonton</title>
                                     <respStmt>
                                         <resp>edited with Notes, etc. by</resp>
-                                        <name><persName>Hugh
-                                            Walker</persName></name>
+                                        <name><persName>Hugh Walker</persName></name>
                                     </respStmt>
                                     <note type="description" corresp="#uncut #presentation"
                                         >frontispiece, uncut, presentation copy from Swinburne,
@@ -46607,7 +46726,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd543">
-                            <biblStruct xml:id="wd543.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd543.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>The Pentameron and Pentalogia</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46631,7 +46751,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd545">
-                            <biblStruct xml:id="wd545.1" corresp="#annotated #presented_by #top100 #referenced">
+                            <biblStruct xml:id="wd545.1"
+                                corresp="#annotated #presented_by #top100 #referenced">
                                 <monogr>
                                     <title>Hellenics, enlarged and completed</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -46674,7 +46795,8 @@
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd550">
-                            <biblStruct xml:id="wd550.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd550.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Last Fruit off an Old Tree</title>
                                     <author corresp="#landor_w"><persName>Landor, W.
@@ -47087,7 +47209,7 @@
                                         Swinburne</note>
                                     <imprint>
                                         <publisher>James Hay</publisher>
-                                        
+
                                         <pubPlace ref="#aberdeen">Aberdeen</pubPlace>
                                         <date when="1888"/>
                                     </imprint>
@@ -47112,7 +47234,7 @@
                                         Swinburne, <date when="1907-12-02"/>Dec. 2, 1907</note>
                                     <imprint>
                                         <publisher>Mayer &amp; Müller</publisher>
-                                        
+
                                         <pubPlace ref="#berlin">Berlin</pubPlace>
                                         <date when="1904"/>
                                     </imprint>
@@ -47396,7 +47518,8 @@
                 <div type="day" n="4">
                     <div type="size" n="octavo">
                         <listBibl type="lot" xml:id="wd908">
-                            <biblStruct xml:id="wd908.1" corresp="#presented_by #annotated #top100 #referenced">
+                            <biblStruct xml:id="wd908.1"
+                                corresp="#presented_by #annotated #top100 #referenced">
                                 <monogr>
                                     <title>Works, Handy Volume Edition</title>
                                     <author corresp="#shakespeare"><persName>Shakespeare,
@@ -47911,7 +48034,7 @@
                                     <title>In the Green Leaf and the Sere, by a Son of the Marshes,
                                         edited by J. A. Owen</title>
                                     <author><persName>Visger, Mrs. O.</persName></author>
-                                    
+
                                     <note type="description" corresp="#uncut #presentation"
                                         >illustrations, uncut, presentation copy from Swinburne,
                                         with autograph inscription.</note>
@@ -48013,7 +48136,7 @@
                                         Swinburne</note>
                                     <imprint>
                                         <publisher>B. Robson</publisher>
-                                        
+
                                         <pubPlace ref="#london">London</pubPlace>
                                         <date when="1877"/>
                                     </imprint>
@@ -48098,12 +48221,14 @@
                                         autograph inscription on fly-leaf.</note>
                                     <note type="inscription">W. T. Watts-Dunton from A. C. Swinburne
                                         Feb. 8. 9.</note>
-                                    <note type="comment">Difficult to determine the date, possibly Feb. 1889? </note>
+                                    <note type="comment">Difficult to determine the date, possibly
+                                        Feb. 1889? </note>
                                     <imprint>
                                         <date>n.d.</date>
                                     </imprint>
                                 </monogr>
-                                <note type="comment">No related items found on HT, IA or Google books. </note>
+                                <note type="comment">No related items found on HT, IA or Google
+                                    books. </note>
                             </biblStruct>
                         </listBibl>
                         <listBibl type="lot" xml:id="wd1200">
@@ -48133,9 +48258,11 @@
                 </div>
             </div>
             <div source="#best-hundred-books">
-                <note type="comment">books not owned by Swinburne/listed in Sotheby's or Watts-Dunton auctions but are associated with Swinburne and his reading through his top 100 list </note>
+                <note type="comment">books not owned by Swinburne/listed in Sotheby's or
+                    Watts-Dunton auctions but are associated with Swinburne and his reading through
+                    his top 100 list </note>
                 <listBibl>
-                    
+
                     <biblStruct xml:id="epictetus_works_eng" corresp="#top100">
                         <monogr>
                             <title>The Works of Epictetus</title>
@@ -48169,7 +48296,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nnc1.0023551852"/>
                     </biblStruct>
-                    
+
                     <biblStruct xml:id="khayyam_rubaiyat_1859" corresp="#top100">
                         <monogr>
                             <title>Rubáiyát of Omar Khayyám, the astronomer-poet of Persia</title>
@@ -48180,12 +48307,14 @@
                                 <date when="1859"/>
                             </imprint>
                         </monogr>
-                        <note type="comment">19. Rubaiyat of Omar Khayyam (Fitzgerald's 1st version, 1859) </note>
-                        <note type="comment">There are other editions of the Rubaiyat in the corpus, but they are not the 1859 edition specified in Swinburne's top100 list. </note>
+                        <note type="comment">19. Rubaiyat of Omar Khayyam (Fitzgerald's 1st version,
+                            1859) </note>
+                        <note type="comment">There are other editions of the Rubaiyat in the corpus,
+                            but they are not the 1859 edition specified in Swinburne's top100 list. </note>
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc2.ark:/13960/t86h4qc62"/>
                     </biblStruct>
-                    
+
                     <biblStruct xml:id="sidney_astrophel" corresp="#top100">
                         <monogr>
                             <title>Astrophel and Stella</title>
@@ -48204,10 +48333,11 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc1.31175005592525"/>
                     </biblStruct>
-                    
+
                     <biblStruct xml:id="burns_jolly_beggars" corresp="#top100">
                         <monogr>
-                            <title>The Jolly Beggars<note type="comment">37. Burns, Robert [select works of] </note></title>
+                            <title>The Jolly Beggars<note type="comment">37. Burns, Robert [select
+                                    works of] </note></title>
                             <author><persName>Burns, Robert</persName></author>
                             <imprint>
                                 <publisher>Thomas Bird Mosher</publisher>
@@ -48235,10 +48365,11 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/mdp.39015096476208"/>
                     </biblStruct>
-                    
+
                     <biblStruct xml:id="byron_donjuan" corresp="#top100">
                         <monogr>
-                            <title>Don Juan<note type="comment">38. Byron, Don Juan and Vision of Judgement </note></title>
+                            <title>Don Juan<note type="comment">38. Byron, Don Juan and Vision of
+                                    Judgement </note></title>
                             <author corresp="#byron"><persName>Lord Byron</persName></author>
                             <imprint>
                                 <publisher>H.G. Bohn</publisher>
@@ -48251,7 +48382,8 @@
                     </biblStruct>
                     <biblStruct xml:id="byron_vision" corresp="#top100">
                         <monogr>
-                            <title>The Vision of Judgement<note type="comment">38. Byron, Don Juan and Vision of Judgement </note></title>
+                            <title>The Vision of Judgement<note type="comment">38. Byron, Don Juan
+                                    and Vision of Judgement </note></title>
                             <author corresp="#byron"><persName>Lord Byron</persName></author>
                             <imprint>
                                 <publisher>Wakelin</publisher>
@@ -48262,9 +48394,9 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uc1.b3578921"/>
                     </biblStruct>
-                    
+
                     <biblStruct xml:id="swift_miscellanies" corresp="#top100">
-                        
+
                         <monogr>
                             <title>Miscellanies</title>
                             <author><persName>Swift, Jonathan</persName></author>
@@ -48276,7 +48408,8 @@
                             <extent><measure unit="volumes" quantity="6"/></extent>
                         </monogr>
                         <note type="comment">42. Swift [select works of] </note>
-                        <note type="comment">Swinburne Letters index has "A Longitude Discover'd" under Swift, but apparently that is an erroneous attribution. </note>
+                        <note type="comment">Swinburne Letters index has "A Longitude Discover'd"
+                            under Swift, but apparently that is an erroneous attribution. </note>
                         <relatedItem n="1" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433067288062"/>
                         <relatedItem n="2" type="full-text" corresp="#ht"
@@ -48288,7 +48421,8 @@
                             target="https://hdl.handle.net/2027/nyp.33433067288096"/>
                         <relatedItem n="5" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433067288104"/>
-                        <note type="comment">vols 5 and 6 are most clearly titled "Miscellanies in prose and verse" </note>
+                        <note type="comment">vols 5 and 6 are most clearly titled "Miscellanies in
+                            prose and verse" </note>
                         <relatedItem n="6" type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433067288112"/>
                     </biblStruct>
@@ -48441,7 +48575,7 @@
                             target="https://hdl.handle.net/2027/hvd.hwexdz"/>
                     </biblStruct>
 
-                    
+
                     <biblStruct xml:id="fontaine_contes" corresp="#top100">
                         <monogr>
                             <title>Contes et Nouvelles</title>
@@ -48482,7 +48616,7 @@
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/uva.x001175292"/>
                     </biblStruct>
-                   
+
                     <biblStruct xml:id="beaumarchais_seville" corresp="#top100">
                         <monogr>
                             <title>Le Barbier de Séville</title>
@@ -48510,7 +48644,7 @@
                             target="https://hdl.handle.net/2027/hvd.32044019362045"/>
                     </biblStruct>
 
-                  
+
                     <biblStruct xml:id="wright_metrical" corresp="#top100">
                         <monogr>
                             <title>The Anglo-Norman metrical chronicle of Geoffrey Gaimar</title>
@@ -48523,40 +48657,36 @@
                                 <pubPlace ref="#london">London</pubPlace>
                                 <date when="1850"/>
                             </imprint>
-                        </monogr>  <note type="comment">100. Early English metrical romances...Wright </note>
+                        </monogr>
+                        <note type="comment">100. Early English metrical romances...Wright </note>
                         <relatedItem type="full-text" corresp="#ht"
                             target="https://hdl.handle.net/2027/nyp.33433075859649"/>
                     </biblStruct>
                 </listBibl>
             </div>
-
             <div source="#poetry">
                 <bibl xml:id="sappho" corresp="#referenced">
-
-                        <author><persName>Sappho</persName></author>
-
-                        <title>Poetae Lyrici Graeci</title>
-                        <respStmt>
-                            <resp>edited by</resp>
-                            <name><persName>Theodorus Bergk</persName></name>
-                        </respStmt>
-
+                    <author><persName>Sappho</persName></author>
+                    <title>Poetae Lyrici Graeci</title>
+                    <respStmt>
+                        <resp>edited by</resp>
+                        <name><persName>Theodorus Bergk</persName></name>
+                    </respStmt>
                     <relatedItem type="full-text" corresp="#google"
                         target="https://books.google.com/books?id=F4gCAAAAQAAJ"/>
-                    <note type="fulltext">Bergk's edition contains many poets, not just
-                        Sappho, but this was the principal edition of Sappho at the time. See pp. 664-702</note>
+                    <note type="fulltext">Bergk's edition contains many poets, not just Sappho, but
+                        this was the principal edition of Sappho at the time. See pp. 664-702</note>
                 </bibl>
-
-
-            
-                <bibl xml:id="horace_epodes" corresp="#referenced"><note type="comment">Swinburne specifically cites poem X </note>
+                <bibl xml:id="horace_epodes" corresp="#referenced"><note type="comment">Swinburne
+                        specifically cites poem X </note>
                     <title>Epodes</title>
                     <author corresp="#horace"><persName>Horace</persName></author>
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/hvd.32044085200913"/>
                 </bibl>
                 <bibl xml:id="horace_satire-epistles" corresp="#referenced">
-                    <note type="comment">Swinburne specifically cites the first epistle of the first book </note>
+                    <note type="comment">Swinburne specifically cites the first epistle of the first
+                        book </note>
                     <title>The satires and epistles of Horace</title>
                     <author corresp="#horace"><persName>Horace</persName></author>
                     <relatedItem type="full-text" corresp="#ht"
@@ -48569,22 +48699,25 @@
                         target="https://hdl.handle.net/2027/uiug.30112023764837"/>
                 </bibl>
                 <bibl xml:id="gautier_laMorteAmoureuse" corresp="#referenced">
-                    <note type="comment">this title and Une Nuit de Cléopâtre are in this same volume </note>
+                    <note type="comment">this title and Une Nuit de Cléopâtre are in this same
+                        volume </note>
                     <title>La Morte Amoureuse</title>
                     <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
                     <relatedItem type="full-text" corresp="ia"
-                        target="https://archive.org/details/nouvelles01gautgoog/page/n266/mode/2up"/>
+                        target="https://archive.org/details/nouvelles01gautgoog/page/n266/mode/2up"
+                    />
                 </bibl>
                 <bibl xml:id="gautier_uneNuitDeCléopâtre" corresp="#referenced">
                     <title>Une Nuit de Cléopâtre</title>
                     <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
                     <relatedItem type="full=text" corresp="ia"
-                        target="https://archive.org/details/nouvelles01gautgoog/page/n326/mode/2up"/>
+                        target="https://archive.org/details/nouvelles01gautgoog/page/n326/mode/2up"
+                    />
                 </bibl>
                 <bibl xml:id="gautier_mademoiselleDeMaupin" corresp="#referenced">
                     <title>Mademoiselle de Maupin</title>
                     <author corresp="#gautier"><persName>Gautier, Théophile</persName></author>
-                    <relatedItem n="1" type="full-text" corresp="#ht" 
+                    <relatedItem n="1" type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/wu.89010630259"/>
                     <relatedItem n="2" type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/wu.89010630242"/>
@@ -48604,7 +48737,8 @@
                         target="https://hdl.handle.net/2027/hvd.32044085146918"/>
                 </bibl>
                 <bibl xml:id="hugo_lesQuatreVents" corresp="#referenced">
-                    <note type="comment">Swinburne cites Le Livre Lyrique from Les Quatre Vents de l’esprit </note>
+                    <note type="comment">Swinburne cites Le Livre Lyrique from Les Quatre Vents de
+                        l’esprit </note>
                     <title>Les Quatre Vents de l’esprit</title>
                     <author corresp="#hugo"><persName>Hugo, Victor</persName></author>
                     <relatedItem n="1" type="full-text" corresp="#ht"
@@ -48621,21 +48755,22 @@
                 <bibl xml:id="callimachus_lavacrumPalladis" corresp="#referenced">
                     <title>Lavacrum Palladis</title>
                     <author corresp="#callimachus"><persName>Callimachus</persName></author>
-                    <relatedItem type="full-text" corresp="#ht" 
+                    <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/nyp.33433081617890"/>
                 </bibl>
                 <biblStruct xml:id="literaryHours" corresp="#referenced">
                     <monogr>
                         <title>Literary Hours by Various Friends</title>
-                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#landor_w"><persName>Landor, Walter
+                            Savage</persName></author>
                         <author corresp="#hunt_l"><persName>Hunt, Leigh</persName></author>
                         <respStmt>
                             <resp>Editor</resp>
                             <persName>Josiah Ablett</persName>
                             <note type="comment">Josiah Ablett not in LCNAF </note>
                         </respStmt>
-                        <note type="description">From HathiTrust: "Includes contributions by Walter Savage Landor and Leigh Hunt.
-                            Edited by Josiah Ablett."</note>
+                        <note type="description">From HathiTrust: "Includes contributions by Walter
+                            Savage Landor and Leigh Hunt. Edited by Josiah Ablett."</note>
                         <imprint>
                             <publisher>George Smith</publisher>
                             <pubPlace ref="#london">London?</pubPlace>
@@ -48644,14 +48779,14 @@
                     </monogr>
                     <relatedItem type="full-text" corresp="#ht"
                         target="https://hdl.handle.net/2027/njp.32101072899014"/>
-                    <note resp="#brandon">
-                        This work contains Walter Savage Landor's <title>The Death of Hofer</title>.
-                    </note>
+                    <note resp="#brandon"> This work contains Walter Savage Landor's <title>The
+                            Death of Hofer</title>. </note>
                 </biblStruct>
                 <biblStruct xml:id="landor_citationAndExamination" corresp="#referenced">
                     <monogr>
                         <title>Citation and Examination of William Shakespeare</title>
-                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#landor_w"><persName>Landor, Walter
+                            Savage</persName></author>
                         <imprint>
                             <publisher corresp="#saunders_and_otley">Saunders and Oatley</publisher>
                             <pubPlace ref="#london">London</pubPlace>
@@ -48664,7 +48799,8 @@
                 <biblStruct xml:id="landor_poems" corresp="#referenced">
                     <monogr>
                         <title>The Poems of Walter Savage Landor</title>
-                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#landor_w"><persName>Landor, Walter
+                            Savage</persName></author>
                         <imprint>
                             <publisher corresp="#cadell_davies">T. Cadell and W. Davies</publisher>
                             <pubPlace ref="#london">London</pubPlace>
@@ -48677,7 +48813,8 @@
                 <biblStruct xml:id="landor_moralEpistle" corresp="#referenced">
                     <monogr>
                         <title>Moral Epistle, Respectfully Dedicated to Earl Stanhope</title>
-                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#landor_w"><persName>Landor, Walter
+                            Savage</persName></author>
                         <imprint>
                             <publisher corresp="#cadell_davies">T. Cadell and W. Davies</publisher>
                             <pubPlace ref="#london">London</pubPlace>
@@ -48687,21 +48824,23 @@
                     <note type="comment">cannot find a scan of this edition online </note>
                 </biblStruct>
                 <biblStruct xml:id="landor_works" corresp="#referenced">
-                    
+
                     <monogr>
-                        
+
                         <title>The Works of Walter Savage Landor</title>
-                        <author corresp="#landor_w"><persName>Landor, Walter Savage</persName></author>
+                        <author corresp="#landor_w"><persName>Landor, Walter
+                            Savage</persName></author>
                         <imprint>
                             <publisher corresp="#moxon">Edward Moxon</publisher>
-                            <pubPlace ref="#london"></pubPlace>
+                            <pubPlace ref="#london"/>
                             <date when="1846"/>
                         </imprint>
                         <extent>
                             <measure unit="volumes" quantity="2"/>
                         </extent>
                     </monogr>
-                    <note type="comment">Uknown whether or not this is the earliest volume in which The Coronation is published </note>
+                    <note type="comment">Uknown whether or not this is the earliest volume in which
+                        The Coronation is published </note>
                     <relatedItem n="1" type="full-text" corresp="#ia"
                         target="https://archive.org/embed/workswaltersava04landgoog"/>
                     <relatedItem n="2" type="full-text" corresp="#ia"
@@ -48710,12 +48849,12 @@
                 <bibl>
                     <title>Nobody and Somebody</title>
                     <relatedItem type="full-text" corresp="#ia"
-                        target="https://archive.org/details/cu31924013127133/page/n15/mode/2up"></relatedItem>
+                        target="https://archive.org/details/cu31924013127133/page/n15/mode/2up"/>
                 </bibl>
                 <bibl>
                     <title>A Warning for Fair Women</title>
                     <relatedItem type="full-text" corresp="#ia"
-                        target="https://archive.org/details/cu31924013127331/page/n9/mode/2up"></relatedItem>
+                        target="https://archive.org/details/cu31924013127331/page/n9/mode/2up"/>
                 </bibl>
             </div>
 
@@ -48966,7 +49105,8 @@
                         <note type="inscription" corresp="#presentation">Alice Swinburne from her
                             affectionate brother Algernon Charles Swinburne <date when="1896-01-06"
                                 >Twelfth Day 1896</date></note>
-                        <note type="comment">Swinburne's a contributor to this collection, so it is a presentation copy </note>
+                        <note type="comment">Swinburne's a contributor to this collection, so it is
+                            a presentation copy </note>
                         <imprint>
                             <publisher>Henry and Co.</publisher>
                             <pubPlace ref="#london">London</pubPlace>
