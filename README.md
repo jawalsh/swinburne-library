@@ -13,7 +13,7 @@ Swinburne was a poet, critic, and a major cultural figure of the Victorian perio
 
 More details about the project and the data will be included in a forthcoming data paper.
 
-Explore the data in the `swinburne_library.xml` TEI/XML data file and the accompanying [data dictionary](data-dictionary.md).
+Explore the data in the [`swinburne_library.xml`](swinburne_library.xml) TEI/XML data file and the accompanying [data dictionary](data_dictionary.md).
 
 ## Contributors
 
