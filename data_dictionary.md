@@ -70,3 +70,5 @@ A data dictionary for “The Personal library and presumed reading of Algernon C
 | Series | `<series>` | `//biblStruct/series` | Lists the series a book belonged to. |
 | Linked Item | `<relatedItem type="full-text" corresp="#FullTextSourceID" target="ItemURL"/>` | `//biblStruct//relatedItem` | Reference to a full-text version of the item. `@corresp` contains a reference to the full-text source controlled vocabulary, `@target` contains the URL of the item. |
 | Linked Item note | `<note type="fulltext">` | `//biblStruct/note[@type=’fulltext’]` | Note about the full-text provided. Often indicates if the full-text linked is not the edition owned by Swinburne. |
+
+{% include footer.html %}

@@ -25,6 +25,4 @@ Explore the data in the [`swinburne_library.xml`](swinburne_library.xml) TEI/XML
 - [Jennifer Christie](https://github.com/jchristie01), Indiana University
 - [Evan Brandon](https://github.com/eobrandon99), Indiana University
 
-## Acknowledgments
-
-The project is grateful for generous funding from the [Indiana University Presidential Arts and Humanities Program](https://research.iu.edu/funding-proposals/funding/opportunities/presidential-arts-humanities/index.html).
+{% include footer.html %}
